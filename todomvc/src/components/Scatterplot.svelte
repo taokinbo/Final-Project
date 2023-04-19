@@ -14,6 +14,7 @@
 
     import { readString } from 'svelte-csv';
 
+    let showDots = true;
     const results = [
         {
             id: 0,
@@ -743,22 +744,59 @@
     dimension.set(results.map((d) => (+d[key] + (Math.random()-0.5)*jitter * 2)));
   }
 
+  const hideDots = () => {
+    
+    showDots = false;
+    /*
+    d3.selectAll(".dot")
+    .transition()
+    .duration(500)
+    .style("opacity", 0)
+    .remove();
+   /*
+    d3.selectAll('.dot')
+    .transition()
+    .duration(500)
+    .style('opacity', 0)
+    .on('end', () => {
+      showDots = false;
+    });
+    */
+  };
+
+  const unhideDots = () => {
+    showDots = true;
+  };
+
   $: {
     if (step == 0) {
+      unhideDots();
       setTween(tweenedY, "height",);
       setTween(tweenedX, "preocupaciones_first", 0.25);
       setScale("preocupaciones_first", "height");
     }
     if (step == 1) {
+      unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "preocupaciones_second", 0.25);
       setScale("preocupaciones_second", "height");
 
     }
     if (step == 2) {
+      unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "preocupaciones_third", 0.25);
       setScale("preocupaciones_third", "height");
+
+    }
+    if (step == 3) {
+    /*
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "preocupaciones_first", 0.25);
+      setScale("preocupaciones_first", "height");
+      */
+      hideDots();
+
 
     }
   }
@@ -830,6 +868,7 @@ bind:offsetWidth={width}
 bind:offsetHeight={height}
 >
 <svg width={width + margin.right + margin.left} {height}>
+    {#if showDots}
   {#each tweenedData as d}
     <circle
       cx={xScale(d.x)}
@@ -839,6 +878,9 @@ bind:offsetHeight={height}
       opacity=".9"
     />
   {/each}
+  {:else}
+  <!-- render nothing when dots are hidden -->
+  {/if}
 </svg>
 </div>
 
