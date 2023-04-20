@@ -8,6 +8,7 @@
 	randomBates, 
 	randomExponential,
 	randomBinomial } from 'd3-random';
+    import Graph from '../components/Graph.svelte';
     export let step;
     let oldStep = -1;
     // export let data2;
@@ -789,13 +790,13 @@
       setScale("preocupaciones_third", "height");
 
     }
+    
     if (step == 3) {
-    /*
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "preocupaciones_first", 0.25);
-      setScale("preocupaciones_first", "height");
-      */
       hideDots();
+      console.log("width")
+      console.log(width)
+      console.log("height")
+      console.log(height)
 
 
     }
@@ -860,6 +861,7 @@
     });
     setTween(tweenedY, "height",);
   }, 1000)
+
 </script>
   
 <div
@@ -879,6 +881,7 @@ bind:offsetHeight={height}
     />
   {/each}
   {:else}
+  <div class="transparent"></div>
   <!-- render nothing when dots are hidden -->
   {/if}
 </svg>
@@ -892,4 +895,9 @@ bind:offsetHeight={height}
       border-radius: 5px;
       box-shadow: 1px 1px 6px #cecece;
 }
+
+.transparent {
+        background: transparent;
+        opacity: 0;
+      }
 </style>

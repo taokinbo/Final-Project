@@ -184,6 +184,8 @@
 	
   import Scroller from "./Scroller.svelte";
   import Scatterplot from "./Scatterplot.svelte";
+  import Graph from './Graph.svelte';
+  import Tab from './Tab.svelte';
   
 
   
@@ -192,9 +194,11 @@
   const steps = [
 		 "<p>This is the <bold>first</bold> concern held by those migrating. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>The second most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
-    "<p>The third concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>"
-  ];
+    "<p>The third concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
+    "<p>Was it worth it?</p>"
 
+  ];
+ //<Graph bind:todo_record={todo_record}/>
   
     // console.log("Are these woring");
     // console.log(data2);
@@ -215,6 +219,15 @@
         {#each steps as text, i}
           <div class="step" class:active={value === i}>
             <div class="step-content">{@html text}</div>
+              <div>
+                {#if value == 3}
+                  <Graph/>
+                {:else if value == 2}
+                  <Tab/>
+                {:else}
+                  <!-- render nothing when dots are hidden -->
+                {/if}
+              </div>
           </div>
         {/each}
         <div class="spacer" />
@@ -223,6 +236,7 @@
     <div class="sticky">
       <Scatterplot step={value} />
     </div>
+    
   </div>
 	<!-- <div class='hero'>
 		<h1> 
@@ -309,6 +323,11 @@
     flex: 1 1 10%;
     z-index: 10;
   }
+
+  .graph {
+        display: inline-block;
+        margin-left: 50px;
+    }
 	
 /* Comment out the following line to always make it 'text-on-top' */
   /* @media screen and (max-width: 768px) {
