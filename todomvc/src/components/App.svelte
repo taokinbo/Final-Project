@@ -202,6 +202,10 @@
   
     // console.log("Are these woring");
     // console.log(data2);
+    function scrollToTarget() {
+    const targetElement = document.getElementById("target");
+    targetElement.scrollIntoView({ behavior: "smooth" });
+  }
 </script>
 
 <section>
@@ -213,7 +217,26 @@
 			By <a href='https://twitter.com/CL_Rothschild' target="_blank" rel="noreferrer">Connor</a>
 		</h2>
 	</div> -->
-  <div class="section-container">
+  <div class="banner">
+    <div class="hero-image">
+      <div class="hero-text">
+        <h1>Planning Ahead</h1>
+        <h2>An Informational Guide to Central American Migration</h2>
+
+        <button class="button-83" on:click={() => scrollToTarget()}>Let's Begin!</button>
+
+      </div>
+    </div>
+
+  </div>
+
+  <div class = "backgroundinfo"> 
+
+    <h3> WE WILL HAVE BACKGROUND INFO HERE</h3>
+  </div>
+
+
+  <div id="target" class="section-container">
     <div class="steps-container">
       <Scroller bind:value>
         {#each steps as text, i}
@@ -228,7 +251,7 @@
                   <!-- render nothing when dots are hidden -->
                 {/if}
               </div>
-          </div>
+            </div>
         {/each}
         <div class="spacer" />
       </Scroller>
@@ -328,6 +351,58 @@
         display: inline-block;
         margin-left: 50px;
     }
+
+
+
+
+
+
+    body, html {
+    height: 100%;
+}
+
+/* The hero image */
+.hero-image {
+  /* ../../../banner.jpeg*/
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../banner.png");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.banner {
+  height: 1200px;
+  margin-bottom: -20%;
+}
+
+.backgroundinfo {
+  height: 1200px;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h3 {
+  font-size: 100px;
+}
 	
 /* Comment out the following line to always make it 'text-on-top' */
   /* @media screen and (max-width: 768px) {
@@ -339,4 +414,45 @@
 			margin: auto;
     }
   } */
+
+
+
+
+
+/* CSS */
+.button-83 {
+  appearance: button;
+  background-color: transparent;
+  background-image: linear-gradient(to bottom, #fff, #f8eedb);
+  border: 0 solid #e5e7eb;
+  border-radius: .5rem;
+  box-sizing: border-box;
+  color: #482307;
+  column-gap: 1rem;
+  cursor: pointer;
+  font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 100%;
+  font-weight: 700;
+  line-height: 24px;
+  margin: 0;
+  outline: 2px solid transparent;
+  padding: 1rem 1.5rem;
+  text-align: center;
+  text-transform: none;
+  transition: all .1s cubic-bezier(.4, 0, .2, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  box-shadow: -6px 8px 10px rgba(81,41,10,0.1),0px 2px 2px rgba(81,41,10,0.2);
+}
+
+.button-83:active {
+  background-color: #f3f4f6;
+  box-shadow: -1px 2px 5px rgba(81,41,10,0.15),0px 1px 1px rgba(81,41,10,0.15);
+  transform: translateY(0.125rem);
+}
+
+.button-83:focus {
+  box-shadow: rgba(72, 35, 7, .46) 0 0 0 4px, -6px 8px 10px rgba(81,41,10,0.1), 0px 2px 2px rgba(81,41,10,0.2);
+}
 </style>

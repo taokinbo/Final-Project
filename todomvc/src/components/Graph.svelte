@@ -53,7 +53,7 @@
 
 	const arc_color = d3.scaleLinear()
 		.range(["#faffd1", "#db921d", "#b86a04", "#a65d29" ,"#6e3003"])
-		.domain([0,3,6,9,12]);
+		.domain([0, 15, 30, 45, 60, 75]);
 
 	let hovered = -1;
 
@@ -67,11 +67,8 @@
   */
 
   let sample_data = [
-		{animal: "cat", count: 1},
-		{animal: "dog", count: 4},
-		{animal: "rabbit", count: 5},
-		{animal: "hamster", count: 2},
-		{animal: "pony", count: 4}
+		{response: "yes", count: 56},
+		{response: "no", count: 44}
 	]
 	arc_data = pieAngleGenerator(sample_data);
 	console.log(JSON.stringify(arc_data));
@@ -83,6 +80,7 @@
 		console.log(todo_record)
 		console.log(JSON.stringify(todo_record));
 		console.log("hi")
+		console.log(arc_data[0])
 		
 		/*
 		let todo_count_by_size = d3.rollups(
@@ -132,11 +130,29 @@
 					startAngle: data.startAngle,
 					endAngle: data.endAngle
 				})}
-				fill={arc_color(data.value)}
+				fill={index === hovered ? "brown": arc_color(data.value)}
+				on:mouseover={(event) => { 
+					hovered = index;
+					recorded_mouse_position = {
+								x: event.pageX,
+								y: event.pageY
+							} }}
+				on:mouseout={(event) => { hovered = -1; }}
 			/>
 			{/each}
 		</g>
 	</svg>
+	<div
+		class={hovered === -1 ? "tooltip-hidden": "tooltip-visible"}
+		style="left: {recorded_mouse_position.x + 40}px; top: {recorded_mouse_position.y + 40}px"	
+	>
+		{#if hovered !== -1}
+		    { arc_data[hovered].value }% say 
+			{arc_data[hovered].data.response}
+		{/if}
+	</div>
+
+
 </div>
 
 
@@ -147,6 +163,7 @@
 	.visualization {
 		font: 25px sans-serif;
 		margin: auto;
+		margin-top: 1px;
 		text-align: middle;
 	}
 
