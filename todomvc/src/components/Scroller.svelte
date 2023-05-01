@@ -20,6 +20,7 @@
     export let bottom = 0;
     export let increments = 100;
     export let value = undefined;
+    export let valRatio = undefined;
   
     const steps = [];
     const threshold = [];
@@ -55,6 +56,7 @@
         const ratio = e[0].intersectionRatio;
         steps[index] = ratio;
         mostInView();
+        valRatio = steps;
       };
   
       const marginTop = top ? top * -1 : 0;

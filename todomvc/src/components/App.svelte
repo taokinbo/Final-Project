@@ -191,7 +191,7 @@
   
 	
   let value;
-  let sub_value;
+  let valRatio;
   const steps = [
 		 "<p>This is the <bold>first</bold> concern held by those migrating. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>The second most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
@@ -254,7 +254,7 @@
 
   <div id="target" class="section-container">
     <div class="steps-container">
-      <Scroller bind:value>
+      <Scroller bind:value bind:valRatio>
         {#each steps as text, i}
           <div class="step" class:active={value === i}>
             <div class="step-content">{@html text}</div>
@@ -272,11 +272,11 @@
         <div class="spacer" />
       </Scroller>
     </div>
-    {#if value !== 3}
-      <div class="sticky">
+    <!-- {#if value !== 3} -->
+      <div class={`sticky ${value >= 3 ? "hide" : "show"}`}>
           <Scatterplot step={value} />
       </div>
-    {/if}
+    <!-- {/if} -->
     
   </div>
 	<!-- <div class='hero'>
@@ -317,6 +317,14 @@
     top: 10%;
 		flex: 1 1 60%;
     width: 60%;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .show {
+    display: flex;
   }
 
   .section-container {
