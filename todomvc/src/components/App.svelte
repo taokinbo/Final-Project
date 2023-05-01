@@ -224,7 +224,7 @@
         <h1>Planning Ahead</h1>
         <h2>An Informational Guide to Central American Migration</h2>
 
-        <button class="button-83" on:click={() => scrollToTarget()}>Let's Begin!</button>
+        <button class="button-83" on:click={() => scrollToTarget()}>Skip to Interactive Portion</button>
 
       </div>
     </div>
@@ -233,8 +233,23 @@
 
   <div class = "backgroundinfo"> 
 
-    <h3> WE WILL HAVE BACKGROUND INFO HERE</h3>
+    <h3>The Journey</h3>
+    <p>
+      Migration is a challenging journey that comes with numerous difficulties for people who go through it. It might be frightening and daunting to travel to a foreign place after leaving behind one's home, family, and friends. Migrants face a range of challenges throughout their journey, including dangers along the way, uncertainty upon arrival at the destination, and problems related to health, housing, and employment. However, as a migrant, you do not have to face these challenges alone.
+
+    </p>
+    <h3>The Mission</h3>
+    <p>
+      This website is here to provide you with valuable insights and data about the migration experience, by sharing statistics and information about what other migrants in similar situations are doing. Our hope is that by sharing this information and providing education about the migration experience, we can raise awareness of the challenges and opportunities that lie ahead, and empower you to make informed decisions that will enhance your journey. 
+    </p>
+    <h3>Empowering Migrants with Knowledge</h3>
+    <p>
+      We invite you to embark on a virtual journey through our interactive stream of dots. Each dot represents a migrant and their unique experience. As you explore our interactive stream of dots, you can scroll through to gain deeper insight into various aspects of the migration experience, from start to finish.
+    </p>
+
   </div>
+
+  
 
 
   <div id="target" class="section-container">
@@ -368,7 +383,7 @@
 .hero-image {
   /* ../../../banner.jpeg*/
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../banner.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 0, 0.23)), url("../../banner.png");
 
   /* Set a specific height */
   height: 50%;
@@ -392,19 +407,32 @@
 
 .banner {
   height: 1200px;
-  margin-bottom: -20%;
+  margin-bottom: -32%;
 }
 
 .backgroundinfo {
-  height: 1200px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5%;
 }
 
 h1 {
+  font-family: 'Poppins';
   font-size: 100px;
 }
 
 h3 {
-  font-size: 100px;
+  font-family: 'Poppins';
+  font-size: 40px;
+}
+
+p {
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 20px;
 }
 	
 /* Comment out the following line to always make it 'text-on-top' */
@@ -457,5 +485,21 @@ h3 {
 
 .button-83:focus {
   box-shadow: rgba(72, 35, 7, .46) 0 0 0 4px, -6px 8px 10px rgba(81,41,10,0.1), 0px 2px 2px rgba(81,41,10,0.2);
+}
+
+.container {
+  position: relative;
+}
+
+.text {
+  text-align: center;
+  margin-bottom: 100px; /* adjust as needed */
+}
+
+.image {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
 }
 </style>
