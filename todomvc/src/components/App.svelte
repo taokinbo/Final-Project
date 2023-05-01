@@ -193,7 +193,8 @@
   let value;
   let valRatio;
   const steps = [
-		 "<p>This is the <bold>first</bold> concern held by those migrating. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
+    "<p>Many migrants hold many concerns when deciding if migrating is the right choice for them</p>",
+		 "<p>This is the <bold>primary</bold> concern held by those migrating. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>The second most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>The third concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>Was it worth it?</p>"
@@ -259,9 +260,9 @@
           <div class="step" class:active={value === i}>
             <div class="step-content">{@html text}</div>
               <div>
-                {#if value === 3 && i === 3}
+                {#if value === 4 && i === 4}
                   <Graph/>
-                {:else if value === 2 && i === 2}
+                {:else if value === 3 && i === 3}
                   <Tab/>
                 {:else}
                   <!-- render nothing when dots are hidden -->
@@ -273,8 +274,8 @@
       </Scroller>
     </div>
     <!-- {#if value !== 3} -->
-      <div class={`sticky ${value >= 3 ? "hide" : "show"}`}>
-          <Scatterplot step={value} />
+      <div class={`sticky ${value >= 4 ? "hide" : "show"}`}>
+          <Scatterplot step={value} stepRatio={valRatio} />
       </div>
     <!-- {/if} -->
     
