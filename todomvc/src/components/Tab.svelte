@@ -5,7 +5,7 @@
       {title: '3', content: 'This is the content for Concern 3.'},
     ];
     
-    export let activeTabIndex = 0;
+    let activeTabIndex = 0;
   
     function activateTab(index) {
       activeTabIndex = index;
