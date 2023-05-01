@@ -191,6 +191,7 @@
   
 	
   let value;
+  let sub_value;
   const steps = [
 		 "<p>This is the <bold>first</bold> concern held by those migrating. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>The second most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
@@ -243,9 +244,9 @@
           <div class="step" class:active={value === i}>
             <div class="step-content">{@html text}</div>
               <div>
-                {#if value == 3}
+                {#if value === 3 && i === 3}
                   <Graph/>
-                {:else if value == 2}
+                {:else if value === 2 && i === 2}
                   <Tab/>
                 {:else}
                   <!-- render nothing when dots are hidden -->
@@ -256,9 +257,11 @@
         <div class="spacer" />
       </Scroller>
     </div>
-    <div class="sticky">
-      <Scatterplot step={value} />
-    </div>
+    {#if value !== 3}
+      <div class="sticky">
+          <Scatterplot step={value} />
+      </div>
+    {/if}
     
   </div>
 	<!-- <div class='hero'>
