@@ -6613,12 +6613,6 @@
         preocupaciones_first: 1,
         preocupaciones_second: 4,
         preocupaciones_third: 13
-      },
-      {
-        id: 1000,
-        preocupaciones_first: 4,
-        preocupaciones_second: 1,
-        preocupaciones_third: 9
       }
     ];
     const motivations = [
@@ -26621,27 +26615,7 @@
         mig_ext_motivo15: 0,
         mig_ext_motivo16: 0,
         mig_ext_motivo99: 0
-      },
-      {
-        id: 1000,
-        mig_ext_motivo1: 1,
-        mig_ext_motivo2: 0,
-        mig_ext_motivo3: 0,
-        mig_ext_motivo4: 0,
-        mig_ext_motivo5: 0,
-        mig_ext_motivo6: 0,
-        mig_ext_motivo7: 0,
-        mig_ext_motivo8: 0,
-        mig_ext_motivo9: 0,
-        mig_ext_motivo10: 0,
-        mig_ext_motivo11: 0,
-        mig_ext_motivo12: 0,
-        mig_ext_motivo13: 0,
-        mig_ext_motivo14: 0,
-        mig_ext_motivo15: 0,
-        mig_ext_motivo16: 0,
-        mig_ext_motivo99: 0
-      },
+      }
     ];
 
     
