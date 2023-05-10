@@ -197,6 +197,8 @@
 		 "<p>This is the <bold>primary</bold> concern held by those migrating. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>The second most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>The third concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
+
+    "<p> Now we explore the many motivations for why migrants travel </p>",
     "<p>Were you motivated to migrate to search for a better job, salary or working conditions? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate because of unemployment? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate because livelihood deteriorated from natural hazards? (floods, droughts, hurricanes, etc) <br> 1: Yes <br> 2: No </p>",
@@ -210,6 +212,16 @@
     "<p>Were you motivated to migrate because of unsafety? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate for family reunification? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate for health reasons: treatments, surgeries or medical consultations, medicines, etc.? <br> 1: Yes <br> 2: No </p>",
+    
+    "<p> Now We explore the many challenges that occur during the migration journey </p>",
+    "<p>Did you experience violence via extortion? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via theft? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via armed robbery? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via threat or intimidation? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via physical aggression? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via sexual harassment or assault? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via kidnapping or attempted kidnapping? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via attempted murder? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>was it worth it <p>",
 
     
@@ -276,7 +288,7 @@
           <div class="step" class:active={value === i}>
             <div class="step-content">{@html text}</div>
               <div>
-                {#if value === 17 && i === 17}
+                {#if value === 27 && i === 27}
                   <Graph/>
                 {:else if value === 3 && i === 3}
                   <Tab/>
@@ -290,7 +302,7 @@
       </Scroller>
     </div>
     <!-- {#if value !== 3} -->
-      <div class={`sticky ${value >= 17 ? "hide" : "show"}`}>
+      <div class={`sticky ${value >= 27 ? "hide" : "show"}`}>
           <Scatterplot step={value} stepRatio={valRatio} />
       </div>
     <!-- {/if} -->
