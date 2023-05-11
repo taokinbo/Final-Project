@@ -61168,6 +61168,7 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "preocupaciones_third", 0.25);
       setScale("preocupaciones_third", "height");
+      changeColor("orange")
     }
 
     if (step == motivation_placeholder) {
@@ -61176,6 +61177,7 @@
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
       setScale("mig_ext_motivo1", "height");
+      changeColor("blue")
     }
 
     if (step == motivation_step) {
@@ -61188,6 +61190,7 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo1", 0.25);
       setScale("mig_ext_motivo1", "height");
+      changeColor("orange")
     }
     if (step == motivation_step + 1) {
       unhideDots();
@@ -61242,6 +61245,7 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo14", 0.25);
       setScale("mig_ext_motivo14", "height");
+      changeColor("orange")
     }
 
     
@@ -61252,6 +61256,7 @@
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
       setScale("mig_ext_violence_2", "height");
+      changeColor("red")
     }
 
     if (step == violence_step) {
@@ -61259,6 +61264,7 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_2", 0.25);
       setScale("mig_ext_violence_2", "height");
+      changeColor("orange")
     }
 
     if (step == violence_step + 1) {
@@ -61317,6 +61323,7 @@
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
       setScale("mig_ext_finance1", "height");
+      changeColor("green")
     }
 
     if (step == finances_step) {
@@ -61324,6 +61331,7 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_finance1", 0.25);
       setScale("mig_ext_finance1", "height");
+      changeColor("orange")
     }
 
     if (step == finances_step + 1) {
@@ -61387,6 +61395,7 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_finance10", 0.25);
       setScale("mig_ext_finance10", "height");
+      changeColor("orange")
     }
 
     if (step == arrival_placeholder) {
