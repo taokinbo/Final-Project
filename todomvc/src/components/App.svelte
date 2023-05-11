@@ -191,7 +191,7 @@
 
   
 	let violence_step = 29;
-  let conclusion_step = 38;
+  let conclusion_step = 41;
   let value;
   let valRatio;
   const steps = [
@@ -236,11 +236,12 @@
     "<p>Did you experience violence via sexual harassment or assault? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via kidnapping or attempted kidnapping? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via attempted murder? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+
+    "<p>But given all this prep and money saved alongside the many hardships faced when traveling, how many of these migrants actually made the journey?</p>",
+    "<p>Only 16% of migrants were able to succefully reach their destination country, but not all was sovled when reached</p>",
+    "<p>Many migrants are returned back to their home country or die once they reach their destination. <br> 1: Arrived to destination country <br> 2: Arrived but was returned <br>3: Died after arrival <br>4: Still in transit <br>5: Passed passed away or disappeared in trasnsit<br>6: Arrived in a different coutry</p>",
+
     "<p>was it worth it <p>",
-
-    
-
-
   ];
  //<Graph bind:todo_record={todo_record}/>
   
