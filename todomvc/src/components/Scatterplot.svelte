@@ -56622,23 +56622,13 @@
     },
   ];
 
-  /*
-  const results = concerns.map(concerns => {
-  const matchingMotivation = motivations.find(motivation => motivation.id === concerns.id);
-  return {
-    id: concerns.id,
-    preocupaciones_first: concerns.preocupaciones_first,
-    preocupaciones_second: concerns.preocupaciones_second,
-    preocupaciones_third: concerns.preocupaciones_third,
-    ...matchingMotivation
-  };
-});
-*/
+  
   const results = concerns.map((concerns) => {
     const matchingMotivation = motivations.find(
       (motivation) => motivation.id === concerns.id
     );
     const matchingViolence = violence.find((v) => v.id === concerns.id);
+    const matchingFinances = how_financed.find((f) => f.id === concerns.id);
     return {
       id: concerns.id,
       preocupaciones_first: concerns.preocupaciones_first,
@@ -56646,6 +56636,7 @@
       preocupaciones_third: concerns.preocupaciones_third,
       ...matchingMotivation,
       ...matchingViolence,
+      ...matchingFinances,
     };
   });
 
