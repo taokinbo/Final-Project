@@ -87697,7 +87697,47 @@
     yScale = scaleLinear()
       .domain(extent($tweenedY, (d) => d))
       .range([height - margin.top, margin.bottom]);
-  }
+
+    $: if (oldStep !== step) {
+      oldStep = step;
+      // console.log("updating scale");
+      xScale = scaleLinear()
+        .domain(extent($tweenedX, (d) => d))
+        .range([margin.left + .1 * width, width - margin.right]);
+
+      yScale = scaleLinear()
+        .domain(extent($tweenedY, (d) => d))
+        .range([height - margin.top, margin.bottom]);
+    }
+
+    function setScale(key1, key2) {
+      xScale = scaleLinear()
+        .domain(extent(results.map((d) => +d[key1])))
+        .range([margin.left, width - margin.right]);
+
+      yScale = scaleLinear()
+        .domain(extent(results.map((d) => +d[key2])))
+        .range([height - margin.top, margin.bottom]);
+
+      newMax = extent(results.map((d) => +d[key2]))[1];
+      // console.log(newMax)
+    }
+
+    $: {
+      // console.log("width: ");
+      // console.log(width);
+      // console.log("height: ");
+      // console.log(height);
+
+      if (width && height && !fallingSet) {
+        fallingSet = true;
+        results.forEach(function (value) {
+          value.height = Math.random() * height;
+          value.speed = Math.random() * fallSpeed + fallSpeed * 0.5;
+          value.backwards = 1;
+        });
+      }
+    }
 
   function setScale(key1, key2) {
     xScale = scaleLinear()
