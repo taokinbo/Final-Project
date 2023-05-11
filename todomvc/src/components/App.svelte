@@ -197,7 +197,35 @@
 		 "<p>This is the <bold>primary</bold> concern held by those migrating. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>The second most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>The third concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
-    "<p>Was it worth it?</p>"
+
+    "<p> Now we explore the many motivations for why migrants travel </p>",
+    "<p>Were you motivated to migrate to search for a better job, salary or working conditions? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because of unemployment? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because livelihood deteriorated from natural hazards? (floods, droughts, hurricanes, etc) <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because of DIRECT impact from natural hazards? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because of loss of land from land use change? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because of lack of money to buy food? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because of Lack of money to cover other basic needs (health, education, housing, clothing, services, etc.)? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate to send remittances? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate for study? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because of domestic violence? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because of unsafety? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate for family reunification? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate for health reasons: treatments, surgeries or medical consultations, medicines, etc.? <br> 1: Yes <br> 2: No </p>",
+    
+    "<p> Now We explore the many challenges that occur during the migration journey </p>",
+    "<p>Did you experience violence via extortion? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via theft? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via armed robbery? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via threat or intimidation? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via physical aggression? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via sexual harassment or assault? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via kidnapping or attempted kidnapping? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Did you experience violence via attempted murder? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>was it worth it <p>",
+
+    
+
 
   ];
  //<Graph bind:todo_record={todo_record}/>
@@ -260,7 +288,7 @@
           <div class="step" class:active={value === i}>
             <div class="step-content">{@html text}</div>
               <div>
-                {#if value === 4 && i === 4}
+                {#if value === 27 && i === 27}
                   <Graph/>
                 {:else if value === 3 && i === 3}
                   <Tab/>
@@ -274,7 +302,7 @@
       </Scroller>
     </div>
     <!-- {#if value !== 3} -->
-      <div class={`sticky ${value >= 4 ? "hide" : "show"}`}>
+      <div class={`sticky ${value >= 27 ? "hide" : "show"}`}>
           <Scatterplot step={value} stepRatio={valRatio} />
       </div>
     <!-- {/if} -->
