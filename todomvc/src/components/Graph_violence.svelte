@@ -7,7 +7,7 @@
 
 	let arcGenerator = d3.arc()
 		.innerRadius(10)
-		.outerRadius(100)
+		.outerRadius(80)
 		.padAngle(.02)
 		.cornerRadius(4);
 
@@ -126,11 +126,11 @@
 	console.log("arc_data: ", arc_data);
 
 </script>
-<div>
-    <h2>Who is Responsible for Violence on the Journey?</h2>
+<div class = "contain">
+    <h2 style="width: 75%; ">Who is Responsible for Violence on the Journey?</h2>
 <div class="visualization">
 	<svg width="210" height="210">
-		<g transform="translate(100, 100)">
+		<g transform="translate(110, 110)">
 			{#each arc_data as data, index}
 			<path 
 				d={arcGenerator({
@@ -172,6 +172,7 @@
 		margin: auto;
 		margin-top: 1px;
 		text-align: middle;
+        margin-top: -10px;
 	}
 
 	/* dynamic classes for the tooltip */
@@ -193,4 +194,15 @@
 		position: absolute;
 		padding: 10px;
 	}
+
+    .contain {
+		display: flex; 
+        justify-content: center; 
+        align-items: center;
+        flex-direction: column;
+	}
+
+    h2 {
+    margin-bottom: -10px;
+    }
 </style>
