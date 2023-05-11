@@ -227,7 +227,7 @@
     "<p> Did you receive assistance from your work? <br> 1: Yes <br> 2: No </p>",
     "<p> Did you sell property? <br> 1: Yes <br> 2: No </p>",
 
-    "<p> Now We explore the many challenges that occur during the migration journey </p>",
+    "<p> Now We explore the many challenges that occur during the migration journey, specifically violence along the way </p>",
     "<p>Did you experience violence via extortion? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via theft? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via armed robbery? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
@@ -300,7 +300,7 @@
       <Scroller bind:value bind:valRatio>
         {#each steps as text, i}
           <div class="step" class:active={value === i}>
-            <div class="step-content" style="{!(value == 4 || value == 18)? 'font-size: 1rem;' : 'font-size: 1.5rem;'}">{@html text}</div>
+            <div class="step-content" style="{!(value == 4 || value == 18 || value == 29)? 'font-size: 1rem;' : 'font-size: 1.5rem;'}">{@html text}</div>
               <div>
                 <!-- violence_step = when violence data starts,
                      conclusion_step = when conclusion data starts -->
