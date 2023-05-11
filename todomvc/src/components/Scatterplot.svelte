@@ -56797,6 +56797,7 @@
       value.mig_ext_motivo14 = 3;
     }
 
+    // VIOLENCE
     val = value.mig_ext_violence_2;
     if (val === 1) {
       value.mig_ext_violence_2 = 1;
@@ -56868,6 +56869,79 @@
     } else {
       value.mig_ext_violence_9 = 3;
     }
+
+
+    // FINANCES
+    val = value.mig_ext_finance1;
+    if (val === 1) {
+      value.mig_ext_finance1 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance1 = 2;
+    } 
+
+    val = value.mig_ext_finance2;
+    if (val === 1) {
+      value.mig_ext_finance2 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance2 = 2;
+    } 
+
+    val = value.mig_ext_finance3;
+    if (val === 1) {
+      value.mig_ext_finance3 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance3 = 2;
+    } 
+
+    val = value.mig_ext_finance4;
+    if (val === 1) {
+      value.mig_ext_finance4 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance4 = 2;
+    } 
+
+    val = value.mig_ext_finance5;
+    if (val === 1) {
+      value.mig_ext_finance5 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance5 = 2;
+    } 
+
+    val = value.mig_ext_finance6;
+    if (val === 1) {
+      value.mig_ext_finance6 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance6 = 2;
+    } 
+
+    val = value.mig_ext_finance7;
+    if (val === 1) {
+      value.mig_ext_finance7 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance7 = 2;
+    } 
+
+    val = value.mig_ext_finance8;
+    if (val === 1) {
+      value.mig_ext_finance8 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance8 = 2;
+    } 
+
+    val = value.mig_ext_finance9;
+    if (val === 1) {
+      value.mig_ext_finance9 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance9 = 2;
+    } 
+
+    val = value.mig_ext_finance10;
+    if (val === 1) {
+      value.mig_ext_finance10 = 1;
+    } else if (val === 0) {
+      value.mig_ext_finance10 = 2;
+    } 
+
   });
 
   // const results = readString(str);
@@ -56999,8 +57073,11 @@
   let motivation_placeholder = 4;
   let motivation_step = 5;
 
-  let violence_placeholder = 18;
-  let violence_step = 19;
+  let finances_placeholder = 18;
+  let finances_step = 19; 
+
+  let violence_placeholder = 29;
+  let violence_step = 30;
 
   $: {
     if (step == 0) {
@@ -57194,6 +57271,84 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_9", 0.25);
       setScale("mig_ext_violence_9", "height");
+    }
+
+    if (step == finances_placeholder) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "start", 0.25);
+      setTween(tweenedOpacity, "backwards");
+      setScale("mig_ext_finance1", "height");
+    }
+
+    if (step == finances_step) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance1", 0.25);
+      setScale("mig_ext_finance1", "height");
+    }
+
+    if (step == finances_step + 1) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance2", 0.25);
+      setScale("mig_ext_finance2", "height");
+    }
+
+    if (step == finances_step + 2) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance3", 0.25);
+      setScale("mig_ext_finance3", "height");
+    }
+
+    if (step == finances_step + 3) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance4", 0.25);
+      setScale("mig_ext_finance4", "height");
+    }
+
+    if (step == finances_step + 4) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance5", 0.25);
+      setScale("mig_ext_finance5", "height");
+    }
+
+    if (step == finances_step + 5) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance6", 0.25);
+      setScale("mig_ext_finance6", "height");
+    }
+
+    if (step == finances_step + 6) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance7", 0.25);
+      setScale("mig_ext_finance7", "height");
+    }
+
+    if (step == finances_step + 7) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance8", 0.25);
+      setScale("mig_ext_finance8", "height");
+    }
+
+    if (step == finances_step + 8) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance9", 0.25);
+      setScale("mig_ext_finance9", "height");
+    }
+
+    if (step == finances_step + 9) {
+      unhideDots();
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance10", 0.25);
+      setScale("mig_ext_finance10", "height");
     }
   }
 

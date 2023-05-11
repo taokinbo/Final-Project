@@ -190,7 +190,8 @@
   
 
   
-	
+	let violence_step = 29;
+  let conclusion_step = 38;
   let value;
   let valRatio;
   const steps = [
@@ -214,6 +215,18 @@
     "<p>Were you motivated to migrate for family reunification? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate for health reasons: treatments, surgeries or medical consultations, medicines, etc.? <br> 1: Yes <br> 2: No </p>",
     
+    "<p> Now We explore the sources that migrants used to finance their journey </p>",
+    "<p> Did you take out a loan from the bank? <br> 1: Yes <br> 2: No </p>",
+    "<p> Did you mortage your house? <br> 1: Yes <br> 2: No </p>",
+    "<p> Did you take out a loan with a lender? <br> 1: Yes <br> 2: No </p>",
+    "<p> Did you take out a cooperative loan? <br> 1: Yes <br> 2: No </p>",
+    "<p> Did you receive a loan from a friend or family member? <br> 1: Yes <br> 2: No </p>",
+    "<p> Did you receive money as a gift from a friend or family member? <br> 1: Yes <br> 2: No </p>",
+    "<p> Did you have savings available to use? <br> 1: Yes <br> 2: No </p>",
+    "<p> Did you receive a loan from a family member within the destination country? <br> 1: Yes <br> 2: No </p>",
+    "<p> Did you receive assistance from your work? <br> 1: Yes <br> 2: No </p>",
+    "<p> Did you sell property? <br> 1: Yes <br> 2: No </p>",
+
     "<p> Now We explore the many challenges that occur during the migration journey </p>",
     "<p>Did you experience violence via extortion? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via theft? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
@@ -289,7 +302,9 @@
           <div class="step" class:active={value === i}>
             <div class="step-content">{@html text}</div>
               <div>
-                {#if (value === 27 && i === 27) || (value === 18 && i === 18)}
+                <!-- violence_step = when violence data starts,
+                     conclusion_step = when conclusion data starts -->
+                {#if (value === violence_step && i === violence_step) || (value === conclusion_step && i === conclusion_step)}
                   <ViolentGraph/>
                 {:else if value === 3 && i === 3}
                   <Tab/>
@@ -303,7 +318,7 @@
       </Scroller>
     </div>
     <!-- {#if value !== 3} -->
-      <div class={`sticky ${value >= 27 ? "hide" : "show"}`}>
+      <div class={`sticky ${value >= conclusion_step ? "hide" : "show"}`}>
           <Scatterplot step={value} stepRatio={valRatio} />
       </div>
     <!-- {/if} -->
