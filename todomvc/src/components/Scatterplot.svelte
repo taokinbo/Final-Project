@@ -618,6002 +618,6002 @@
       id: 0,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 1,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 2,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 3,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 4,
       preocupaciones_first: 6,
       preocupaciones_second: 1,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 5,
       preocupaciones_first: 6,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 6,
       preocupaciones_first: 1,
       preocupaciones_second: 14,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 7,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 8,
       preocupaciones_first: 5,
       preocupaciones_second: 6,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 9,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 10,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 11,
       preocupaciones_first: 4,
       preocupaciones_second: 8,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 12,
       preocupaciones_first: 4,
       preocupaciones_second: 7,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 13,
       preocupaciones_first: 8,
       preocupaciones_second: 7,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 14,
       preocupaciones_first: 8,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 15,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 10
+      preocupaciones_third: 10,
     },
     {
       id: 16,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 17,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 18,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 19,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 20,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 21,
       preocupaciones_first: 5,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 22,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 23,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 24,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 25,
       preocupaciones_first: 5,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 26,
       preocupaciones_first: 13,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 27,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 28,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 29,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 30,
       preocupaciones_first: 3,
       preocupaciones_second: 13,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 31,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 32,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 33,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 34,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 35,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 36,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 37,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 38,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 39,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 40,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 41,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 42,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 43,
       preocupaciones_first: 1,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 44,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 45,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 46,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 47,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 48,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 49,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 50,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 51,
       preocupaciones_first: 6,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 52,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 53,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 54,
       preocupaciones_first: 9,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 55,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 56,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 57,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 58,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 59,
       preocupaciones_first: 11,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 60,
       preocupaciones_first: 3,
       preocupaciones_second: 11,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 61,
       preocupaciones_first: 4,
       preocupaciones_second: 14,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 62,
       preocupaciones_first: 11,
       preocupaciones_second: 6,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 63,
       preocupaciones_first: 5,
       preocupaciones_second: 6,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 64,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 65,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 66,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 67,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 68,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 69,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 70,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 71,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 72,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 73,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 74,
       preocupaciones_first: 5,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 75,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 76,
       preocupaciones_first: 5,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 77,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 78,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 79,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 80,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 81,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 82,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 83,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 84,
       preocupaciones_first: 6,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 85,
       preocupaciones_first: 14,
       preocupaciones_second: 8,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 86,
       preocupaciones_first: 5,
       preocupaciones_second: 9,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 87,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 88,
       preocupaciones_first: 7,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 89,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 90,
       preocupaciones_first: 5,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 91,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 92,
       preocupaciones_first: 4,
       preocupaciones_second: 9,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 93,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 94,
       preocupaciones_first: 4,
       preocupaciones_second: 7,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 95,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 96,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 97,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 98,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 99,
       preocupaciones_first: 4,
       preocupaciones_second: 14,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 100,
       preocupaciones_first: 13,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 101,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 102,
       preocupaciones_first: 5,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 103,
       preocupaciones_first: 5,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 104,
       preocupaciones_first: 5,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 105,
       preocupaciones_first: 9,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 106,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 107,
       preocupaciones_first: 6,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 108,
       preocupaciones_first: 5,
       preocupaciones_second: 14,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 109,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 110,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 111,
       preocupaciones_first: 4,
       preocupaciones_second: 14,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 112,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 113,
       preocupaciones_first: 3,
       preocupaciones_second: 14,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 114,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 115,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 116,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 117,
       preocupaciones_first: 3,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 118,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 119,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 120,
       preocupaciones_first: 6,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 121,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 122,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 123,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 124,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 125,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 126,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 127,
       preocupaciones_first: 5,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 128,
       preocupaciones_first: 4,
       preocupaciones_second: 9,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 129,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 130,
       preocupaciones_first: 14,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 131,
       preocupaciones_first: 6,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 132,
       preocupaciones_first: 8,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 133,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 134,
       preocupaciones_first: 4,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 135,
       preocupaciones_first: 1,
       preocupaciones_second: 14,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 136,
       preocupaciones_first: 1,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 137,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 138,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 139,
       preocupaciones_first: 13,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 140,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 141,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 142,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 143,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 144,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 145,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 146,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 147,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 148,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 149,
       preocupaciones_first: 13,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 150,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 151,
       preocupaciones_first: 3,
       preocupaciones_second: 2,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 152,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 153,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 154,
       preocupaciones_first: 1,
       preocupaciones_second: 9,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 155,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 156,
       preocupaciones_first: 4,
       preocupaciones_second: 8,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 157,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 158,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 159,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 160,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 161,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 162,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 163,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 164,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 165,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 166,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 167,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 168,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 169,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 170,
       preocupaciones_first: 6,
       preocupaciones_second: 1,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 171,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 172,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 173,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 174,
       preocupaciones_first: 4,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 175,
       preocupaciones_first: 4,
       preocupaciones_second: 2,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 176,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 177,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 178,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 179,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 180,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 181,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 182,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 183,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 184,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 185,
       preocupaciones_first: 14,
       preocupaciones_second: 13,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 186,
       preocupaciones_first: 14,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 187,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 188,
       preocupaciones_first: 8,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 189,
       preocupaciones_first: 13,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 190,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 191,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 192,
       preocupaciones_first: 8,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 193,
       preocupaciones_first: 13,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 194,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 195,
       preocupaciones_first: 13,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 196,
       preocupaciones_first: 13,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 197,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 198,
       preocupaciones_first: 6,
       preocupaciones_second: 4,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 199,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 200,
       preocupaciones_first: 4,
       preocupaciones_second: 9,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 201,
       preocupaciones_first: 9,
       preocupaciones_second: 3,
-      preocupaciones_third: 10
+      preocupaciones_third: 10,
     },
     {
       id: 202,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 203,
       preocupaciones_first: 13,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 204,
       preocupaciones_first: 1,
       preocupaciones_second: 14,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 205,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 206,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 207,
       preocupaciones_first: 1,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 208,
       preocupaciones_first: 4,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 209,
       preocupaciones_first: 6,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 210,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 211,
       preocupaciones_first: 5,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 212,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 213,
       preocupaciones_first: 5,
       preocupaciones_second: 3,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 214,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 215,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 216,
       preocupaciones_first: 8,
       preocupaciones_second: 14,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 217,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 218,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 219,
       preocupaciones_first: 1,
       preocupaciones_second: 6,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 220,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 221,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 222,
       preocupaciones_first: 6,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 223,
       preocupaciones_first: 5,
       preocupaciones_second: 6,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 224,
       preocupaciones_first: 6,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 225,
       preocupaciones_first: 8,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 226,
       preocupaciones_first: 6,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 227,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 228,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 229,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 230,
       preocupaciones_first: 3,
       preocupaciones_second: 14,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 231,
       preocupaciones_first: 8,
       preocupaciones_second: 9,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 232,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 233,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 234,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 235,
       preocupaciones_first: 4,
       preocupaciones_second: 6,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 236,
       preocupaciones_first: 6,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 237,
       preocupaciones_first: 6,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 238,
       preocupaciones_first: 5,
       preocupaciones_second: 14,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 239,
       preocupaciones_first: 8,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 240,
       preocupaciones_first: 8,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 241,
       preocupaciones_first: 5,
       preocupaciones_second: 6,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 242,
       preocupaciones_first: 4,
       preocupaciones_second: 7,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 243,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 244,
       preocupaciones_first: 4,
       preocupaciones_second: 13,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 245,
       preocupaciones_first: 6,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 246,
       preocupaciones_first: 5,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 247,
       preocupaciones_first: 4,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 248,
       preocupaciones_first: 5,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 249,
       preocupaciones_first: 8,
       preocupaciones_second: 14,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 250,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 251,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 252,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 253,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 254,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 255,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 256,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 257,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 258,
       preocupaciones_first: 5,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 259,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 260,
       preocupaciones_first: 4,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 261,
       preocupaciones_first: 9,
       preocupaciones_second: 8,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 262,
       preocupaciones_first: 9,
       preocupaciones_second: 13,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 263,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 264,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 265,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 266,
       preocupaciones_first: 3,
       preocupaciones_second: 5,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 267,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 268,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 269,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 270,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 271,
       preocupaciones_first: 5,
       preocupaciones_second: 7,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 272,
       preocupaciones_first: 1,
       preocupaciones_second: 9,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 273,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 274,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 275,
       preocupaciones_first: 5,
       preocupaciones_second: 13,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 276,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 277,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 278,
       preocupaciones_first: 9,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 279,
       preocupaciones_first: 4,
       preocupaciones_second: 13,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 280,
       preocupaciones_first: 4,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 281,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 282,
       preocupaciones_first: 4,
       preocupaciones_second: 13,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 283,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 284,
       preocupaciones_first: 13,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 285,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 286,
       preocupaciones_first: 6,
       preocupaciones_second: 7,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 287,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 288,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 289,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 290,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 291,
       preocupaciones_first: 1,
       preocupaciones_second: 6,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 292,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 10
+      preocupaciones_third: 10,
     },
     {
       id: 293,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 294,
       preocupaciones_first: 3,
       preocupaciones_second: 5,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 295,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 296,
       preocupaciones_first: 3,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 297,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 298,
       preocupaciones_first: 8,
       preocupaciones_second: 9,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 299,
       preocupaciones_first: 14,
       preocupaciones_second: 9,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 300,
       preocupaciones_first: 13,
       preocupaciones_second: 1,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 301,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 302,
       preocupaciones_first: 6,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 303,
       preocupaciones_first: 6,
       preocupaciones_second: 8,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 304,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 305,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 306,
       preocupaciones_first: 3,
       preocupaciones_second: 7,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 307,
       preocupaciones_first: 14,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 308,
       preocupaciones_first: 3,
       preocupaciones_second: 7,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 309,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 310,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 311,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 312,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 313,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 314,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 315,
       preocupaciones_first: 11,
       preocupaciones_second: 1,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 316,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 317,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 318,
       preocupaciones_first: 4,
       preocupaciones_second: 13,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 319,
       preocupaciones_first: 4,
       preocupaciones_second: 9,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 320,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 321,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 322,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 323,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 324,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 325,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 326,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 327,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 328,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 329,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 330,
       preocupaciones_first: 4,
       preocupaciones_second: 13,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 331,
       preocupaciones_first: 4,
       preocupaciones_second: 11,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 332,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 333,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 334,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 335,
       preocupaciones_first: 3,
       preocupaciones_second: 5,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 336,
       preocupaciones_first: 4,
       preocupaciones_second: 8,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 337,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 338,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 339,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 340,
       preocupaciones_first: 13,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 341,
       preocupaciones_first: 13,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 342,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 343,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 344,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 345,
       preocupaciones_first: 1,
       preocupaciones_second: 6,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 346,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 347,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 348,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 349,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 350,
       preocupaciones_first: 6,
       preocupaciones_second: 7,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 351,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 352,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 353,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 354,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 355,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 356,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 357,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 358,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 359,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 360,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 361,
       preocupaciones_first: 6,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 362,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 363,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 364,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 365,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 366,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 367,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 368,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 369,
       preocupaciones_first: 9,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 370,
       preocupaciones_first: 14,
       preocupaciones_second: 6,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 371,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 372,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 373,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 374,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 375,
       preocupaciones_first: 1,
       preocupaciones_second: 6,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 376,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 377,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 378,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 379,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 380,
       preocupaciones_first: 9,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 381,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 382,
       preocupaciones_first: 9,
       preocupaciones_second: 3,
-      preocupaciones_third: 10
+      preocupaciones_third: 10,
     },
     {
       id: 383,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 384,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 385,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 386,
       preocupaciones_first: 8,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 387,
       preocupaciones_first: 7,
       preocupaciones_second: 4,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 388,
       preocupaciones_first: 9,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 389,
       preocupaciones_first: 14,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 390,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 391,
       preocupaciones_first: 13,
       preocupaciones_second: 6,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 392,
       preocupaciones_first: 9,
       preocupaciones_second: 10,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 393,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 394,
       preocupaciones_first: 4,
       preocupaciones_second: 10,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 395,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 396,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 397,
       preocupaciones_first: 3,
       preocupaciones_second: 13,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 398,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 399,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 400,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 401,
       preocupaciones_first: 9,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 402,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 403,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 404,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 405,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 406,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 407,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 408,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 409,
       preocupaciones_first: 2,
       preocupaciones_second: 5,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 410,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 411,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 412,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 413,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 414,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 415,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 416,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 417,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 418,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 419,
       preocupaciones_first: 11,
       preocupaciones_second: 5,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 420,
       preocupaciones_first: 1,
       preocupaciones_second: 12,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 421,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 422,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 423,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 424,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 425,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 426,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 427,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 428,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 429,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 430,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 431,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 432,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 433,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 434,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 435,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 436,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 437,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 438,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 439,
       preocupaciones_first: 5,
       preocupaciones_second: 6,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 440,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 441,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 442,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 443,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 444,
       preocupaciones_first: 8,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 445,
       preocupaciones_first: 3,
       preocupaciones_second: 8,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 446,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 447,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 448,
       preocupaciones_first: 13,
       preocupaciones_second: 3,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 449,
       preocupaciones_first: 7,
       preocupaciones_second: 13,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 450,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 451,
       preocupaciones_first: 13,
       preocupaciones_second: 3,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 452,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 453,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 454,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 455,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 456,
       preocupaciones_first: 3,
       preocupaciones_second: 11,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 457,
       preocupaciones_first: 4,
       preocupaciones_second: 11,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 458,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 459,
       preocupaciones_first: 1,
       preocupaciones_second: 6,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 460,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 461,
       preocupaciones_first: 8,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 462,
       preocupaciones_first: 4,
       preocupaciones_second: 6,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 463,
       preocupaciones_first: 7,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 464,
       preocupaciones_first: 4,
       preocupaciones_second: 9,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 465,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 466,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 467,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 468,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 469,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 470,
       preocupaciones_first: 13,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 471,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 472,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 473,
       preocupaciones_first: 5,
       preocupaciones_second: 14,
-      preocupaciones_third: 12
+      preocupaciones_third: 12,
     },
     {
       id: 474,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 475,
       preocupaciones_first: 9,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 476,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 477,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 478,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 479,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 480,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 481,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 482,
       preocupaciones_first: 1,
       preocupaciones_second: 10,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 483,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 484,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 485,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 486,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 487,
       preocupaciones_first: 4,
       preocupaciones_second: 8,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 488,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 489,
       preocupaciones_first: 3,
       preocupaciones_second: 8,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 490,
       preocupaciones_first: 9,
       preocupaciones_second: 10,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 491,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 492,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 493,
       preocupaciones_first: 9,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 494,
       preocupaciones_first: 6,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 495,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 496,
       preocupaciones_first: 14,
       preocupaciones_second: 6,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 497,
       preocupaciones_first: 4,
       preocupaciones_second: 9,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 498,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 499,
       preocupaciones_first: 5,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 500,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 501,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 502,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 503,
       preocupaciones_first: 14,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 504,
       preocupaciones_first: 8,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 505,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 506,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 507,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 508,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 509,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 510,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 511,
       preocupaciones_first: 3,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 512,
       preocupaciones_first: 4,
       preocupaciones_second: 6,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 513,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 514,
       preocupaciones_first: 5,
       preocupaciones_second: 4,
-      preocupaciones_third: 12
+      preocupaciones_third: 12,
     },
     {
       id: 515,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 516,
       preocupaciones_first: 4,
       preocupaciones_second: 8,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 517,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 518,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 519,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 520,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 521,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 522,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 523,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 524,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 525,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 526,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 527,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 528,
       preocupaciones_first: 9,
       preocupaciones_second: 8,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 529,
       preocupaciones_first: 5,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 530,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 531,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 532,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 533,
       preocupaciones_first: 1,
       preocupaciones_second: 7,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 534,
       preocupaciones_first: 1,
       preocupaciones_second: 7,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 535,
       preocupaciones_first: 1,
       preocupaciones_second: 7,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 536,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 537,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 538,
       preocupaciones_first: 1,
       preocupaciones_second: 7,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 539,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 540,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 541,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 542,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 543,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 544,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 545,
       preocupaciones_first: 2,
       preocupaciones_second: 1,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 546,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 547,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 548,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 549,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 550,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 551,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 552,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 553,
       preocupaciones_first: 2,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 554,
       preocupaciones_first: 2,
       preocupaciones_second: 11,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 555,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 556,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 557,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 558,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 559,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 560,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 561,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 562,
       preocupaciones_first: 2,
       preocupaciones_second: 12,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 563,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 564,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 565,
       preocupaciones_first: 4,
       preocupaciones_second: 8,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 566,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 12
+      preocupaciones_third: 12,
     },
     {
       id: 567,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 568,
       preocupaciones_first: 9,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 569,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 570,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 571,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 572,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 573,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 574,
       preocupaciones_first: 11,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 575,
       preocupaciones_first: 6,
       preocupaciones_second: 8,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 576,
       preocupaciones_first: 5,
       preocupaciones_second: 8,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 577,
       preocupaciones_first: 8,
       preocupaciones_second: 3,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 578,
       preocupaciones_first: 14,
       preocupaciones_second: 9,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 579,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 580,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 581,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 582,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 583,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 584,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 585,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 586,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 587,
       preocupaciones_first: 4,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 588,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 589,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 590,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 591,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 592,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 593,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 594,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 595,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 596,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 597,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 598,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 599,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 600,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 601,
       preocupaciones_first: 3,
       preocupaciones_second: 11,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 602,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 603,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 604,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 605,
       preocupaciones_first: 4,
       preocupaciones_second: 11,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 606,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 607,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 608,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 609,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 610,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 611,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 612,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 613,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 614,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 615,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 616,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 617,
       preocupaciones_first: 2,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 618,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 619,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 620,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 621,
       preocupaciones_first: 2,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 622,
       preocupaciones_first: 4,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 623,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 624,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 625,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 626,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 627,
       preocupaciones_first: 6,
       preocupaciones_second: 14,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 628,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 629,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 630,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 631,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 632,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 633,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 634,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 635,
       preocupaciones_first: 5,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 636,
       preocupaciones_first: 3,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 637,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 638,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 639,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 640,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 641,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 642,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 643,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 644,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 645,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 646,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 647,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 648,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 649,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 650,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 651,
       preocupaciones_first: 8,
       preocupaciones_second: 9,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 652,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 653,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 10
+      preocupaciones_third: 10,
     },
     {
       id: 654,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 655,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 656,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 657,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 658,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 659,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 660,
       preocupaciones_first: 1,
       preocupaciones_second: 14,
-      preocupaciones_third: 10
+      preocupaciones_third: 10,
     },
     {
       id: 661,
       preocupaciones_first: 1,
       preocupaciones_second: 9,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 662,
       preocupaciones_first: 14,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 663,
       preocupaciones_first: 14,
       preocupaciones_second: 6,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 664,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 665,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 666,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 667,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 668,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 669,
       preocupaciones_first: 13,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 670,
       preocupaciones_first: 4,
       preocupaciones_second: 14,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 671,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 672,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 673,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 674,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 675,
       preocupaciones_first: 3,
       preocupaciones_second: 10,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 676,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 677,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 10
+      preocupaciones_third: 10,
     },
     {
       id: 678,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 679,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 10
+      preocupaciones_third: 10,
     },
     {
       id: 680,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 681,
       preocupaciones_first: 4,
       preocupaciones_second: 8,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 682,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 683,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 684,
       preocupaciones_first: 9,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 685,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 686,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 687,
       preocupaciones_first: 13,
       preocupaciones_second: 1,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 688,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 689,
       preocupaciones_first: 11,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 690,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 691,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 692,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 693,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 694,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 695,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 696,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 697,
       preocupaciones_first: 4,
       preocupaciones_second: 9,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 698,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 699,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 700,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 701,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 702,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 703,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 704,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 705,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 706,
       preocupaciones_first: 11,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 707,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 708,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 709,
       preocupaciones_first: 4,
       preocupaciones_second: 11,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 710,
       preocupaciones_first: 14,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 711,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 712,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 713,
       preocupaciones_first: 2,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 714,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 715,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 716,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 717,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 718,
       preocupaciones_first: 4,
       preocupaciones_second: 6,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 719,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 720,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 721,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 722,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 723,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 724,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 725,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 726,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 727,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 728,
       preocupaciones_first: 4,
       preocupaciones_second: 2,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 729,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 730,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 731,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 732,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 733,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 734,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 735,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 736,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 737,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 738,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 739,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 740,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 741,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 742,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 743,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 744,
       preocupaciones_first: 4,
       preocupaciones_second: 13,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 745,
       preocupaciones_first: 13,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 746,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 747,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 748,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 749,
       preocupaciones_first: 3,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 750,
       preocupaciones_first: 4,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 751,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 752,
       preocupaciones_first: 6,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 753,
       preocupaciones_first: 8,
       preocupaciones_second: 9,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 754,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 755,
       preocupaciones_first: 4,
       preocupaciones_second: 9,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 756,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 757,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 758,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 759,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 760,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 761,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 762,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 763,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 764,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 765,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 766,
       preocupaciones_first: 1,
       preocupaciones_second: 9,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 767,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 768,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 769,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 770,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 771,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 772,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 773,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 774,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 775,
       preocupaciones_first: 1,
       preocupaciones_second: 9,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 776,
       preocupaciones_first: 9,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 777,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 778,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 779,
       preocupaciones_first: 5,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 780,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 781,
       preocupaciones_first: 6,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 782,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 783,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 784,
       preocupaciones_first: 6,
       preocupaciones_second: 13,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 785,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 786,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 787,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 788,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 789,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 790,
       preocupaciones_first: 4,
       preocupaciones_second: 6,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 791,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 792,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 793,
       preocupaciones_first: 1,
       preocupaciones_second: 9,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 794,
       preocupaciones_first: 3,
       preocupaciones_second: 5,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 795,
       preocupaciones_first: 6,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 796,
       preocupaciones_first: 10,
       preocupaciones_second: 9,
-      preocupaciones_third: 6
+      preocupaciones_third: 6,
     },
     {
       id: 797,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 798,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 799,
       preocupaciones_first: 1,
       preocupaciones_second: 7,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 800,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 801,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 802,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 803,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 804,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 805,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 806,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 807,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 808,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 809,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 810,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 811,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 812,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 813,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 814,
       preocupaciones_first: 1,
       preocupaciones_second: 6,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 815,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 816,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 817,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 818,
       preocupaciones_first: 2,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 819,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 820,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 821,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 822,
       preocupaciones_first: 1,
       preocupaciones_second: 7,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 823,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 824,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 825,
       preocupaciones_first: 1,
       preocupaciones_second: 7,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 826,
       preocupaciones_first: 1,
       preocupaciones_second: 7,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 827,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 828,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 829,
       preocupaciones_first: 4,
       preocupaciones_second: 6,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 830,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 831,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 832,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 833,
       preocupaciones_first: 7,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 834,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 835,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 836,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 837,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 838,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 839,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 840,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 841,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 842,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 843,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 844,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 845,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 846,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 847,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 848,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 849,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 850,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 851,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 852,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 853,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 854,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 855,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 856,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 857,
       preocupaciones_first: 5,
       preocupaciones_second: 11,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 858,
       preocupaciones_first: 8,
       preocupaciones_second: 14,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 859,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 860,
       preocupaciones_first: 8,
       preocupaciones_second: 3,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 861,
       preocupaciones_first: 3,
       preocupaciones_second: 8,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 862,
       preocupaciones_first: 11,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 863,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 864,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 865,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 866,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 867,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 868,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 869,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 870,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 871,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 872,
       preocupaciones_first: 1,
       preocupaciones_second: 9,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 873,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 874,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 875,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 876,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 877,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 878,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 879,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 880,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 881,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 882,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 883,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 884,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 885,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 886,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 887,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 888,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 889,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 890,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 891,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 892,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 893,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 894,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 895,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 896,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 897,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 898,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 899,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 900,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 901,
       preocupaciones_first: 2,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 902,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 903,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 904,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 905,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 906,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 907,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 908,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 909,
       preocupaciones_first: 1,
       preocupaciones_second: 14,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 910,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 911,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 912,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 913,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 914,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 915,
       preocupaciones_first: 4,
       preocupaciones_second: 5,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 916,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 917,
       preocupaciones_first: 4,
       preocupaciones_second: 1,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 918,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 919,
       preocupaciones_first: 3,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 920,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 921,
       preocupaciones_first: 13,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 922,
       preocupaciones_first: 13,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 923,
       preocupaciones_first: 14,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 924,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 925,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 926,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 927,
       preocupaciones_first: 1,
       preocupaciones_second: 11,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 928,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 929,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 930,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 931,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 932,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 933,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 934,
       preocupaciones_first: 4,
       preocupaciones_second: 2,
-      preocupaciones_third: 11
+      preocupaciones_third: 11,
     },
     {
       id: 935,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 936,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 937,
       preocupaciones_first: 2,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 938,
       preocupaciones_first: 3,
       preocupaciones_second: 6,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 939,
       preocupaciones_first: 6,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 940,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 941,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 942,
       preocupaciones_first: 2,
       preocupaciones_second: 1,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 943,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 944,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 945,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 946,
       preocupaciones_first: 3,
       preocupaciones_second: 9,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 947,
       preocupaciones_first: 9,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 948,
       preocupaciones_first: 5,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 949,
       preocupaciones_first: 2,
       preocupaciones_second: 4,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 950,
       preocupaciones_first: 11,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 951,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 952,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 953,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 954,
       preocupaciones_first: 1,
       preocupaciones_second: 9,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 955,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 956,
       preocupaciones_first: 1,
       preocupaciones_second: 9,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 957,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 958,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 959,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 960,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 961,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 962,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 963,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 964,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 965,
       preocupaciones_first: 5,
       preocupaciones_second: 2,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 966,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 967,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 968,
       preocupaciones_first: 2,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 969,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 970,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 12
+      preocupaciones_third: 12,
     },
     {
       id: 971,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 972,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 973,
       preocupaciones_first: 1,
       preocupaciones_second: 5,
-      preocupaciones_third: 13
+      preocupaciones_third: 13,
     },
     {
       id: 974,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 975,
       preocupaciones_first: 3,
       preocupaciones_second: 13,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 976,
       preocupaciones_first: 4,
       preocupaciones_second: 3,
-      preocupaciones_third: 1
+      preocupaciones_third: 1,
     },
     {
       id: 977,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 978,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 979,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 7
+      preocupaciones_third: 7,
     },
     {
       id: 980,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 981,
       preocupaciones_first: 1,
       preocupaciones_second: 2,
-      preocupaciones_third: 8
+      preocupaciones_third: 8,
     },
     {
       id: 982,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 983,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 5
+      preocupaciones_third: 5,
     },
     {
       id: 984,
       preocupaciones_first: 3,
       preocupaciones_second: 4,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 985,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 2
+      preocupaciones_third: 2,
     },
     {
       id: 986,
       preocupaciones_first: 1,
       preocupaciones_second: 13,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 987,
       preocupaciones_first: 15,
       preocupaciones_second: 0,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 988,
       preocupaciones_first: 3,
       preocupaciones_second: 14,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 989,
       preocupaciones_first: 1,
       preocupaciones_second: 15,
-      preocupaciones_third: 0
+      preocupaciones_third: 0,
     },
     {
       id: 990,
       preocupaciones_first: 9,
       preocupaciones_second: 14,
-      preocupaciones_third: 15
+      preocupaciones_third: 15,
     },
     {
       id: 991,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 14
+      preocupaciones_third: 14,
     },
     {
       id: 992,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 993,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 994,
       preocupaciones_first: 5,
       preocupaciones_second: 1,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 995,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 3
+      preocupaciones_third: 3,
     },
     {
       id: 996,
       preocupaciones_first: 3,
       preocupaciones_second: 1,
-      preocupaciones_third: 4
+      preocupaciones_third: 4,
     },
     {
       id: 997,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 998,
       preocupaciones_first: 1,
       preocupaciones_second: 3,
-      preocupaciones_third: 9
+      preocupaciones_third: 9,
     },
     {
       id: 999,
       preocupaciones_first: 1,
       preocupaciones_second: 4,
-      preocupaciones_third: 13
-    }
+      preocupaciones_third: 13,
+    },
   ];
   const motivations = [
     {
@@ -6634,7 +6634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 1,
@@ -6654,7 +6654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 2,
@@ -6674,7 +6674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 3,
@@ -6694,7 +6694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 4,
@@ -6714,7 +6714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 5,
@@ -6734,7 +6734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 6,
@@ -6754,7 +6754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 7,
@@ -6774,7 +6774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 8,
@@ -6794,7 +6794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 9,
@@ -6814,7 +6814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 10,
@@ -6834,7 +6834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 11,
@@ -6854,7 +6854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 12,
@@ -6874,7 +6874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 13,
@@ -6894,7 +6894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 14,
@@ -6914,7 +6914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 15,
@@ -6934,7 +6934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 16,
@@ -6954,7 +6954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 17,
@@ -6974,7 +6974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 18,
@@ -6994,7 +6994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 19,
@@ -7014,7 +7014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 20,
@@ -7034,7 +7034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 21,
@@ -7054,7 +7054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 22,
@@ -7074,7 +7074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 23,
@@ -7094,7 +7094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 24,
@@ -7114,7 +7114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 25,
@@ -7134,7 +7134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 26,
@@ -7154,7 +7154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 27,
@@ -7174,7 +7174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 28,
@@ -7194,7 +7194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 29,
@@ -7214,7 +7214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 30,
@@ -7234,7 +7234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 31,
@@ -7254,7 +7254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 32,
@@ -7274,7 +7274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 33,
@@ -7294,7 +7294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 34,
@@ -7314,7 +7314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 35,
@@ -7334,7 +7334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 36,
@@ -7354,7 +7354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 37,
@@ -7374,7 +7374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 38,
@@ -7394,7 +7394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 39,
@@ -7414,7 +7414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 40,
@@ -7434,7 +7434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 41,
@@ -7454,7 +7454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 42,
@@ -7474,7 +7474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 43,
@@ -7494,7 +7494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 44,
@@ -7514,7 +7514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 45,
@@ -7534,7 +7534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 46,
@@ -7554,7 +7554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 47,
@@ -7574,7 +7574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 48,
@@ -7594,7 +7594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 49,
@@ -7614,7 +7614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 50,
@@ -7634,7 +7634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 1
+      mig_ext_motivo99: 1,
     },
     {
       id: 51,
@@ -7654,7 +7654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 52,
@@ -7674,7 +7674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 53,
@@ -7694,7 +7694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 54,
@@ -7714,7 +7714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 55,
@@ -7734,7 +7734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 56,
@@ -7754,7 +7754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 57,
@@ -7774,7 +7774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 58,
@@ -7794,7 +7794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 59,
@@ -7814,7 +7814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 60,
@@ -7834,7 +7834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 61,
@@ -7854,7 +7854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 62,
@@ -7874,7 +7874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 63,
@@ -7894,7 +7894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 64,
@@ -7914,7 +7914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 65,
@@ -7934,7 +7934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 66,
@@ -7954,7 +7954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 67,
@@ -7974,7 +7974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 68,
@@ -7994,7 +7994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 69,
@@ -8014,7 +8014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 70,
@@ -8034,7 +8034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 71,
@@ -8054,7 +8054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 72,
@@ -8074,7 +8074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 73,
@@ -8094,7 +8094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 74,
@@ -8114,7 +8114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 75,
@@ -8134,7 +8134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 76,
@@ -8154,7 +8154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 77,
@@ -8174,7 +8174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 78,
@@ -8194,7 +8194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 79,
@@ -8214,7 +8214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 80,
@@ -8234,7 +8234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 81,
@@ -8254,7 +8254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 82,
@@ -8274,7 +8274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 83,
@@ -8294,7 +8294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 84,
@@ -8314,7 +8314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 85,
@@ -8334,7 +8334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 86,
@@ -8354,7 +8354,7 @@
       mig_ext_motivo14: 1,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 87,
@@ -8374,7 +8374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 88,
@@ -8394,7 +8394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 89,
@@ -8414,7 +8414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 90,
@@ -8434,7 +8434,7 @@
       mig_ext_motivo14: 1,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 91,
@@ -8454,7 +8454,7 @@
       mig_ext_motivo14: 1,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 92,
@@ -8474,7 +8474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 93,
@@ -8494,7 +8494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 94,
@@ -8514,7 +8514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 95,
@@ -8534,7 +8534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 1
+      mig_ext_motivo99: 1,
     },
     {
       id: 96,
@@ -8554,7 +8554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 97,
@@ -8574,7 +8574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 98,
@@ -8594,7 +8594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 99,
@@ -8614,7 +8614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 100,
@@ -8634,7 +8634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 101,
@@ -8654,7 +8654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 102,
@@ -8674,7 +8674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 103,
@@ -8694,7 +8694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 104,
@@ -8714,7 +8714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 105,
@@ -8734,7 +8734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 106,
@@ -8754,7 +8754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 107,
@@ -8774,7 +8774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 108,
@@ -8794,7 +8794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 109,
@@ -8814,7 +8814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 110,
@@ -8834,7 +8834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 111,
@@ -8854,7 +8854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 112,
@@ -8874,7 +8874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 113,
@@ -8894,7 +8894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 114,
@@ -8914,7 +8914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 115,
@@ -8934,7 +8934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 116,
@@ -8954,7 +8954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 117,
@@ -8974,7 +8974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 118,
@@ -8994,7 +8994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 119,
@@ -9014,7 +9014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 120,
@@ -9034,7 +9034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 121,
@@ -9054,7 +9054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 122,
@@ -9074,7 +9074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 123,
@@ -9094,7 +9094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 124,
@@ -9114,7 +9114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 125,
@@ -9134,7 +9134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 126,
@@ -9154,7 +9154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 127,
@@ -9174,7 +9174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 128,
@@ -9194,7 +9194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 129,
@@ -9214,7 +9214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 130,
@@ -9234,7 +9234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 131,
@@ -9254,7 +9254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 132,
@@ -9274,7 +9274,7 @@
       mig_ext_motivo14: 1,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 133,
@@ -9294,7 +9294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 134,
@@ -9314,7 +9314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 135,
@@ -9334,7 +9334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 136,
@@ -9354,7 +9354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 137,
@@ -9374,7 +9374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 138,
@@ -9394,7 +9394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 139,
@@ -9414,7 +9414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 140,
@@ -9434,7 +9434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 141,
@@ -9454,7 +9454,7 @@
       mig_ext_motivo14: 1,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 142,
@@ -9474,7 +9474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 143,
@@ -9494,7 +9494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 144,
@@ -9514,7 +9514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 145,
@@ -9534,7 +9534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 146,
@@ -9554,7 +9554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 147,
@@ -9574,7 +9574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 148,
@@ -9594,7 +9594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 149,
@@ -9614,7 +9614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 150,
@@ -9634,7 +9634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 151,
@@ -9654,7 +9654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 152,
@@ -9674,7 +9674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 153,
@@ -9694,7 +9694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 154,
@@ -9714,7 +9714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 155,
@@ -9734,7 +9734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 156,
@@ -9754,7 +9754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 157,
@@ -9774,7 +9774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 158,
@@ -9794,7 +9794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 159,
@@ -9814,7 +9814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 160,
@@ -9834,7 +9834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 161,
@@ -9854,7 +9854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 162,
@@ -9874,7 +9874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 163,
@@ -9894,7 +9894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 164,
@@ -9914,7 +9914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 165,
@@ -9934,7 +9934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 166,
@@ -9954,7 +9954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 167,
@@ -9974,7 +9974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 168,
@@ -9994,7 +9994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 169,
@@ -10014,7 +10014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 170,
@@ -10034,7 +10034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 171,
@@ -10054,7 +10054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 172,
@@ -10074,7 +10074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 173,
@@ -10094,7 +10094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 174,
@@ -10114,7 +10114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 175,
@@ -10134,7 +10134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 176,
@@ -10154,7 +10154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 177,
@@ -10174,7 +10174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 178,
@@ -10194,7 +10194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 179,
@@ -10214,7 +10214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 180,
@@ -10234,7 +10234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 181,
@@ -10254,7 +10254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 182,
@@ -10274,7 +10274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 183,
@@ -10294,7 +10294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 184,
@@ -10314,7 +10314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 185,
@@ -10334,7 +10334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 186,
@@ -10354,7 +10354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 187,
@@ -10374,7 +10374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 188,
@@ -10394,7 +10394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 189,
@@ -10414,7 +10414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 190,
@@ -10434,7 +10434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 191,
@@ -10454,7 +10454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 192,
@@ -10474,7 +10474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 193,
@@ -10494,7 +10494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 194,
@@ -10514,7 +10514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 195,
@@ -10534,7 +10534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 196,
@@ -10554,7 +10554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 197,
@@ -10574,7 +10574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 198,
@@ -10594,7 +10594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 199,
@@ -10614,7 +10614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 200,
@@ -10634,7 +10634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 201,
@@ -10654,7 +10654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 202,
@@ -10674,7 +10674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 203,
@@ -10694,7 +10694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 204,
@@ -10714,7 +10714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 205,
@@ -10734,7 +10734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 206,
@@ -10754,7 +10754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 207,
@@ -10774,7 +10774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 208,
@@ -10794,7 +10794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 209,
@@ -10814,7 +10814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 210,
@@ -10834,7 +10834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 211,
@@ -10854,7 +10854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 212,
@@ -10874,7 +10874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 213,
@@ -10894,7 +10894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 214,
@@ -10914,7 +10914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 215,
@@ -10934,7 +10934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 216,
@@ -10954,7 +10954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 217,
@@ -10974,7 +10974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 218,
@@ -10994,7 +10994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 219,
@@ -11014,7 +11014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 220,
@@ -11034,7 +11034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 221,
@@ -11054,7 +11054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 222,
@@ -11074,7 +11074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 223,
@@ -11094,7 +11094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 224,
@@ -11114,7 +11114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 225,
@@ -11134,7 +11134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 226,
@@ -11154,7 +11154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 227,
@@ -11174,7 +11174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 228,
@@ -11194,7 +11194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 229,
@@ -11214,7 +11214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 230,
@@ -11234,7 +11234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 231,
@@ -11254,7 +11254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 232,
@@ -11274,7 +11274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 233,
@@ -11294,7 +11294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 234,
@@ -11314,7 +11314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 235,
@@ -11334,7 +11334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 236,
@@ -11354,7 +11354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 237,
@@ -11374,7 +11374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 238,
@@ -11394,7 +11394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 239,
@@ -11414,7 +11414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 240,
@@ -11434,7 +11434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 241,
@@ -11454,7 +11454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 242,
@@ -11474,7 +11474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 243,
@@ -11494,7 +11494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 244,
@@ -11514,7 +11514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 245,
@@ -11534,7 +11534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 246,
@@ -11554,7 +11554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 247,
@@ -11574,7 +11574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 248,
@@ -11594,7 +11594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 249,
@@ -11614,7 +11614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 250,
@@ -11634,7 +11634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 251,
@@ -11654,7 +11654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 252,
@@ -11674,7 +11674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 253,
@@ -11694,7 +11694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 254,
@@ -11714,7 +11714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 255,
@@ -11734,7 +11734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 256,
@@ -11754,7 +11754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 257,
@@ -11774,7 +11774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 258,
@@ -11794,7 +11794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 259,
@@ -11814,7 +11814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 260,
@@ -11834,7 +11834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 261,
@@ -11854,7 +11854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 262,
@@ -11874,7 +11874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 263,
@@ -11894,7 +11894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 264,
@@ -11914,7 +11914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 265,
@@ -11934,7 +11934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 266,
@@ -11954,7 +11954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 267,
@@ -11974,7 +11974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 268,
@@ -11994,7 +11994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 269,
@@ -12014,7 +12014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 270,
@@ -12034,7 +12034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 271,
@@ -12054,7 +12054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 272,
@@ -12074,7 +12074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 273,
@@ -12094,7 +12094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 274,
@@ -12114,7 +12114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 275,
@@ -12134,7 +12134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 276,
@@ -12154,7 +12154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 277,
@@ -12174,7 +12174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 278,
@@ -12194,7 +12194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 279,
@@ -12214,7 +12214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 280,
@@ -12234,7 +12234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 281,
@@ -12254,7 +12254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 282,
@@ -12274,7 +12274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 283,
@@ -12294,7 +12294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 284,
@@ -12314,7 +12314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 285,
@@ -12334,7 +12334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 286,
@@ -12354,7 +12354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 287,
@@ -12374,7 +12374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 288,
@@ -12394,7 +12394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 289,
@@ -12414,7 +12414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 290,
@@ -12434,7 +12434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 291,
@@ -12454,7 +12454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 292,
@@ -12474,7 +12474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 293,
@@ -12494,7 +12494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 294,
@@ -12514,7 +12514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 295,
@@ -12534,7 +12534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 296,
@@ -12554,7 +12554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 297,
@@ -12574,7 +12574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 298,
@@ -12594,7 +12594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 299,
@@ -12614,7 +12614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 300,
@@ -12634,7 +12634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 301,
@@ -12654,7 +12654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 302,
@@ -12674,7 +12674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 303,
@@ -12694,7 +12694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 304,
@@ -12714,7 +12714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 1
+      mig_ext_motivo99: 1,
     },
     {
       id: 305,
@@ -12734,7 +12734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 306,
@@ -12754,7 +12754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 307,
@@ -12774,7 +12774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 308,
@@ -12794,7 +12794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 309,
@@ -12814,7 +12814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 310,
@@ -12834,7 +12834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 311,
@@ -12854,7 +12854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 312,
@@ -12874,7 +12874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 313,
@@ -12894,7 +12894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 314,
@@ -12914,7 +12914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 315,
@@ -12934,7 +12934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 316,
@@ -12954,7 +12954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 317,
@@ -12974,7 +12974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 318,
@@ -12994,7 +12994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 319,
@@ -13014,7 +13014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 320,
@@ -13034,7 +13034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 321,
@@ -13054,7 +13054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 322,
@@ -13074,7 +13074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 323,
@@ -13094,7 +13094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 324,
@@ -13114,7 +13114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 325,
@@ -13134,7 +13134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 326,
@@ -13154,7 +13154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 327,
@@ -13174,7 +13174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 328,
@@ -13194,7 +13194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 329,
@@ -13214,7 +13214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 330,
@@ -13234,7 +13234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 331,
@@ -13254,7 +13254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 332,
@@ -13274,7 +13274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 333,
@@ -13294,7 +13294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 334,
@@ -13314,7 +13314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 335,
@@ -13334,7 +13334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 336,
@@ -13354,7 +13354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 337,
@@ -13374,7 +13374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 338,
@@ -13394,7 +13394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 339,
@@ -13414,7 +13414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 340,
@@ -13434,7 +13434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 341,
@@ -13454,7 +13454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 342,
@@ -13474,7 +13474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 343,
@@ -13494,7 +13494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 344,
@@ -13514,7 +13514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 345,
@@ -13534,7 +13534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 346,
@@ -13554,7 +13554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 347,
@@ -13574,7 +13574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 348,
@@ -13594,7 +13594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 349,
@@ -13614,7 +13614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 350,
@@ -13634,7 +13634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 351,
@@ -13654,7 +13654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 352,
@@ -13674,7 +13674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 353,
@@ -13694,7 +13694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 354,
@@ -13714,7 +13714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 355,
@@ -13734,7 +13734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 356,
@@ -13754,7 +13754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 357,
@@ -13774,7 +13774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 358,
@@ -13794,7 +13794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 359,
@@ -13814,7 +13814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 360,
@@ -13834,7 +13834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 361,
@@ -13854,7 +13854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 362,
@@ -13874,7 +13874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 363,
@@ -13894,7 +13894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 364,
@@ -13914,7 +13914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 365,
@@ -13934,7 +13934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 366,
@@ -13954,7 +13954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 367,
@@ -13974,7 +13974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 368,
@@ -13994,7 +13994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 369,
@@ -14014,7 +14014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 370,
@@ -14034,7 +14034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 371,
@@ -14054,7 +14054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 372,
@@ -14074,7 +14074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 373,
@@ -14094,7 +14094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 374,
@@ -14114,7 +14114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 375,
@@ -14134,7 +14134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 376,
@@ -14154,7 +14154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 377,
@@ -14174,7 +14174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 378,
@@ -14194,7 +14194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 379,
@@ -14214,7 +14214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 380,
@@ -14234,7 +14234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 381,
@@ -14254,7 +14254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 382,
@@ -14274,7 +14274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 383,
@@ -14294,7 +14294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 384,
@@ -14314,7 +14314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 385,
@@ -14334,7 +14334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 386,
@@ -14354,7 +14354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 387,
@@ -14374,7 +14374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 388,
@@ -14394,7 +14394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 389,
@@ -14414,7 +14414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 390,
@@ -14434,7 +14434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 391,
@@ -14454,7 +14454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 392,
@@ -14474,7 +14474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 393,
@@ -14494,7 +14494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 394,
@@ -14514,7 +14514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 395,
@@ -14534,7 +14534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 396,
@@ -14554,7 +14554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 397,
@@ -14574,7 +14574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 398,
@@ -14594,7 +14594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 399,
@@ -14614,7 +14614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 400,
@@ -14634,7 +14634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 401,
@@ -14654,7 +14654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 402,
@@ -14674,7 +14674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 403,
@@ -14694,7 +14694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 404,
@@ -14714,7 +14714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 405,
@@ -14734,7 +14734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 406,
@@ -14754,7 +14754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 407,
@@ -14774,7 +14774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 408,
@@ -14794,7 +14794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 409,
@@ -14814,7 +14814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 410,
@@ -14834,7 +14834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 411,
@@ -14854,7 +14854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 412,
@@ -14874,7 +14874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 413,
@@ -14894,7 +14894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 414,
@@ -14914,7 +14914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 415,
@@ -14934,7 +14934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 416,
@@ -14954,7 +14954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 417,
@@ -14974,7 +14974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 418,
@@ -14994,7 +14994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 419,
@@ -15014,7 +15014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 420,
@@ -15034,7 +15034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 421,
@@ -15054,7 +15054,7 @@
       mig_ext_motivo14: 1,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 422,
@@ -15074,7 +15074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 423,
@@ -15094,7 +15094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 424,
@@ -15114,7 +15114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 425,
@@ -15134,7 +15134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 426,
@@ -15154,7 +15154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 427,
@@ -15174,7 +15174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 428,
@@ -15194,7 +15194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 429,
@@ -15214,7 +15214,7 @@
       mig_ext_motivo14: 1,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 430,
@@ -15234,7 +15234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 431,
@@ -15254,7 +15254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 432,
@@ -15274,7 +15274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 433,
@@ -15294,7 +15294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 434,
@@ -15314,7 +15314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 435,
@@ -15334,7 +15334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 436,
@@ -15354,7 +15354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 437,
@@ -15374,7 +15374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 438,
@@ -15394,7 +15394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 439,
@@ -15414,7 +15414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 440,
@@ -15434,7 +15434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 441,
@@ -15454,7 +15454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 442,
@@ -15474,7 +15474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 443,
@@ -15494,7 +15494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 444,
@@ -15514,7 +15514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 445,
@@ -15534,7 +15534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 446,
@@ -15554,7 +15554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 447,
@@ -15574,7 +15574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 448,
@@ -15594,7 +15594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 449,
@@ -15614,7 +15614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 450,
@@ -15634,7 +15634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 451,
@@ -15654,7 +15654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 452,
@@ -15674,7 +15674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 453,
@@ -15694,7 +15694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 454,
@@ -15714,7 +15714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 455,
@@ -15734,7 +15734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 456,
@@ -15754,7 +15754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 457,
@@ -15774,7 +15774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 458,
@@ -15794,7 +15794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 459,
@@ -15814,7 +15814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 460,
@@ -15834,7 +15834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 461,
@@ -15854,7 +15854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 462,
@@ -15874,7 +15874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 463,
@@ -15894,7 +15894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 464,
@@ -15914,7 +15914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 465,
@@ -15934,7 +15934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 466,
@@ -15954,7 +15954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 467,
@@ -15974,7 +15974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 468,
@@ -15994,7 +15994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 469,
@@ -16014,7 +16014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 470,
@@ -16034,7 +16034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 471,
@@ -16054,7 +16054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 472,
@@ -16074,7 +16074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 473,
@@ -16094,7 +16094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 474,
@@ -16114,7 +16114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 475,
@@ -16134,7 +16134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 476,
@@ -16154,7 +16154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 477,
@@ -16174,7 +16174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 478,
@@ -16194,7 +16194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 479,
@@ -16214,7 +16214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 480,
@@ -16234,7 +16234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 481,
@@ -16254,7 +16254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 482,
@@ -16274,7 +16274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 483,
@@ -16294,7 +16294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 484,
@@ -16314,7 +16314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 485,
@@ -16334,7 +16334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 486,
@@ -16354,7 +16354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 487,
@@ -16374,7 +16374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 488,
@@ -16394,7 +16394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 489,
@@ -16414,7 +16414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 490,
@@ -16434,7 +16434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 491,
@@ -16454,7 +16454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 1
+      mig_ext_motivo99: 1,
     },
     {
       id: 492,
@@ -16474,7 +16474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 493,
@@ -16494,7 +16494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 494,
@@ -16514,7 +16514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 495,
@@ -16534,7 +16534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 496,
@@ -16554,7 +16554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 497,
@@ -16574,7 +16574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 498,
@@ -16594,7 +16594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 499,
@@ -16614,7 +16614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 500,
@@ -16634,7 +16634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 501,
@@ -16654,7 +16654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 502,
@@ -16674,7 +16674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 503,
@@ -16694,7 +16694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 504,
@@ -16714,7 +16714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 505,
@@ -16734,7 +16734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 506,
@@ -16754,7 +16754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 507,
@@ -16774,7 +16774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 508,
@@ -16794,7 +16794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 509,
@@ -16814,7 +16814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 510,
@@ -16834,7 +16834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 511,
@@ -16854,7 +16854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 512,
@@ -16874,7 +16874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 513,
@@ -16894,7 +16894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 514,
@@ -16914,7 +16914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 515,
@@ -16934,7 +16934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 516,
@@ -16954,7 +16954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 517,
@@ -16974,7 +16974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 518,
@@ -16994,7 +16994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 519,
@@ -17014,7 +17014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 520,
@@ -17034,7 +17034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 521,
@@ -17054,7 +17054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 522,
@@ -17074,7 +17074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 523,
@@ -17094,7 +17094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 524,
@@ -17114,7 +17114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 525,
@@ -17134,7 +17134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 526,
@@ -17154,7 +17154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 527,
@@ -17174,7 +17174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 528,
@@ -17194,7 +17194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 529,
@@ -17214,7 +17214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 530,
@@ -17234,7 +17234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 531,
@@ -17254,7 +17254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 532,
@@ -17274,7 +17274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 533,
@@ -17294,7 +17294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 534,
@@ -17314,7 +17314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 535,
@@ -17334,7 +17334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 536,
@@ -17354,7 +17354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 537,
@@ -17374,7 +17374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 538,
@@ -17394,7 +17394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 539,
@@ -17414,7 +17414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 540,
@@ -17434,7 +17434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 541,
@@ -17454,7 +17454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 542,
@@ -17474,7 +17474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 543,
@@ -17494,7 +17494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 544,
@@ -17514,7 +17514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 545,
@@ -17534,7 +17534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 546,
@@ -17554,7 +17554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 547,
@@ -17574,7 +17574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 548,
@@ -17594,7 +17594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 549,
@@ -17614,7 +17614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 550,
@@ -17634,7 +17634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 551,
@@ -17654,7 +17654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 552,
@@ -17674,7 +17674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 553,
@@ -17694,7 +17694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 554,
@@ -17714,7 +17714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 555,
@@ -17734,7 +17734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 556,
@@ -17754,7 +17754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 557,
@@ -17774,7 +17774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 558,
@@ -17794,7 +17794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 559,
@@ -17814,7 +17814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 560,
@@ -17834,7 +17834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 561,
@@ -17854,7 +17854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 562,
@@ -17874,7 +17874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 563,
@@ -17894,7 +17894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 564,
@@ -17914,7 +17914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 565,
@@ -17934,7 +17934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 566,
@@ -17954,7 +17954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 567,
@@ -17974,7 +17974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 568,
@@ -17994,7 +17994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 569,
@@ -18014,7 +18014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 570,
@@ -18034,7 +18034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 571,
@@ -18054,7 +18054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 572,
@@ -18074,7 +18074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 573,
@@ -18094,7 +18094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 574,
@@ -18114,7 +18114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 575,
@@ -18134,7 +18134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 576,
@@ -18154,7 +18154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 577,
@@ -18174,7 +18174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 578,
@@ -18194,7 +18194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 579,
@@ -18214,7 +18214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 1
+      mig_ext_motivo99: 1,
     },
     {
       id: 580,
@@ -18234,7 +18234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 581,
@@ -18254,7 +18254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 582,
@@ -18274,7 +18274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 583,
@@ -18294,7 +18294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 584,
@@ -18314,7 +18314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 585,
@@ -18334,7 +18334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 586,
@@ -18354,7 +18354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 587,
@@ -18374,7 +18374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 588,
@@ -18394,7 +18394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 589,
@@ -18414,7 +18414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 590,
@@ -18434,7 +18434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 591,
@@ -18454,7 +18454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 592,
@@ -18474,7 +18474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 593,
@@ -18494,7 +18494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 594,
@@ -18514,7 +18514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 595,
@@ -18534,7 +18534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 596,
@@ -18554,7 +18554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 597,
@@ -18574,7 +18574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 598,
@@ -18594,7 +18594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 599,
@@ -18614,7 +18614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 600,
@@ -18634,7 +18634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 601,
@@ -18654,7 +18654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 602,
@@ -18674,7 +18674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 603,
@@ -18694,7 +18694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 604,
@@ -18714,7 +18714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 605,
@@ -18734,7 +18734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 606,
@@ -18754,7 +18754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 607,
@@ -18774,7 +18774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 608,
@@ -18794,7 +18794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 609,
@@ -18814,7 +18814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 610,
@@ -18834,7 +18834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 611,
@@ -18854,7 +18854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 612,
@@ -18874,7 +18874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 613,
@@ -18894,7 +18894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 614,
@@ -18914,7 +18914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 615,
@@ -18934,7 +18934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 616,
@@ -18954,7 +18954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 617,
@@ -18974,7 +18974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 618,
@@ -18994,7 +18994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 619,
@@ -19014,7 +19014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 620,
@@ -19034,7 +19034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 621,
@@ -19054,7 +19054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 622,
@@ -19074,7 +19074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 623,
@@ -19094,7 +19094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 624,
@@ -19114,7 +19114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 625,
@@ -19134,7 +19134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 626,
@@ -19154,7 +19154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 627,
@@ -19174,7 +19174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 628,
@@ -19194,7 +19194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 629,
@@ -19214,7 +19214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 630,
@@ -19234,7 +19234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 631,
@@ -19254,7 +19254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 632,
@@ -19274,7 +19274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 633,
@@ -19294,7 +19294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 634,
@@ -19314,7 +19314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 635,
@@ -19334,7 +19334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 636,
@@ -19354,7 +19354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 637,
@@ -19374,7 +19374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 638,
@@ -19394,7 +19394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 639,
@@ -19414,7 +19414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 640,
@@ -19434,7 +19434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 641,
@@ -19454,7 +19454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 642,
@@ -19474,7 +19474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 643,
@@ -19494,7 +19494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 644,
@@ -19514,7 +19514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 645,
@@ -19534,7 +19534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 646,
@@ -19554,7 +19554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 647,
@@ -19574,7 +19574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 648,
@@ -19594,7 +19594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 649,
@@ -19614,7 +19614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 650,
@@ -19634,7 +19634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 651,
@@ -19654,7 +19654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 652,
@@ -19674,7 +19674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 653,
@@ -19694,7 +19694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 654,
@@ -19714,7 +19714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 655,
@@ -19734,7 +19734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 656,
@@ -19754,7 +19754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 657,
@@ -19774,7 +19774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 658,
@@ -19794,7 +19794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 659,
@@ -19814,7 +19814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 660,
@@ -19834,7 +19834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 661,
@@ -19854,7 +19854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 662,
@@ -19874,7 +19874,7 @@
       mig_ext_motivo14: 1,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 663,
@@ -19894,7 +19894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 664,
@@ -19914,7 +19914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 665,
@@ -19934,7 +19934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 666,
@@ -19954,7 +19954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 667,
@@ -19974,7 +19974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 668,
@@ -19994,7 +19994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 669,
@@ -20014,7 +20014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 670,
@@ -20034,7 +20034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 671,
@@ -20054,7 +20054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 672,
@@ -20074,7 +20074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 673,
@@ -20094,7 +20094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 674,
@@ -20114,7 +20114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 675,
@@ -20134,7 +20134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 676,
@@ -20154,7 +20154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 677,
@@ -20174,7 +20174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 678,
@@ -20194,7 +20194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 679,
@@ -20214,7 +20214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 680,
@@ -20234,7 +20234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 681,
@@ -20254,7 +20254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 682,
@@ -20274,7 +20274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 683,
@@ -20294,7 +20294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 684,
@@ -20314,7 +20314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 685,
@@ -20334,7 +20334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 686,
@@ -20354,7 +20354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 687,
@@ -20374,7 +20374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 688,
@@ -20394,7 +20394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 689,
@@ -20414,7 +20414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 690,
@@ -20434,7 +20434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 691,
@@ -20454,7 +20454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 692,
@@ -20474,7 +20474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 693,
@@ -20494,7 +20494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 694,
@@ -20514,7 +20514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 695,
@@ -20534,7 +20534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 696,
@@ -20554,7 +20554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 697,
@@ -20574,7 +20574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 698,
@@ -20594,7 +20594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 699,
@@ -20614,7 +20614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 700,
@@ -20634,7 +20634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 701,
@@ -20654,7 +20654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 702,
@@ -20674,7 +20674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 703,
@@ -20694,7 +20694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 704,
@@ -20714,7 +20714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 705,
@@ -20734,7 +20734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 706,
@@ -20754,7 +20754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 707,
@@ -20774,7 +20774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 708,
@@ -20794,7 +20794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 709,
@@ -20814,7 +20814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 710,
@@ -20834,7 +20834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 711,
@@ -20854,7 +20854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 712,
@@ -20874,7 +20874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 713,
@@ -20894,7 +20894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 714,
@@ -20914,7 +20914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 715,
@@ -20934,7 +20934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 716,
@@ -20954,7 +20954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 717,
@@ -20974,7 +20974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 718,
@@ -20994,7 +20994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 719,
@@ -21014,7 +21014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 1
+      mig_ext_motivo99: 1,
     },
     {
       id: 720,
@@ -21034,7 +21034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 721,
@@ -21054,7 +21054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 722,
@@ -21074,7 +21074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 723,
@@ -21094,7 +21094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 724,
@@ -21114,7 +21114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 725,
@@ -21134,7 +21134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 726,
@@ -21154,7 +21154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 727,
@@ -21174,7 +21174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 728,
@@ -21194,7 +21194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 729,
@@ -21214,7 +21214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 730,
@@ -21234,7 +21234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 731,
@@ -21254,7 +21254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 732,
@@ -21274,7 +21274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 733,
@@ -21294,7 +21294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 734,
@@ -21314,7 +21314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 735,
@@ -21334,7 +21334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 736,
@@ -21354,7 +21354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 737,
@@ -21374,7 +21374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 1
+      mig_ext_motivo99: 1,
     },
     {
       id: 738,
@@ -21394,7 +21394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 739,
@@ -21414,7 +21414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 740,
@@ -21434,7 +21434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 741,
@@ -21454,7 +21454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 742,
@@ -21474,7 +21474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 743,
@@ -21494,7 +21494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 744,
@@ -21514,7 +21514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 745,
@@ -21534,7 +21534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 746,
@@ -21554,7 +21554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 747,
@@ -21574,7 +21574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 748,
@@ -21594,7 +21594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 749,
@@ -21614,7 +21614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 750,
@@ -21634,7 +21634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 751,
@@ -21654,7 +21654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 752,
@@ -21674,7 +21674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 753,
@@ -21694,7 +21694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 754,
@@ -21714,7 +21714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 755,
@@ -21734,7 +21734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 756,
@@ -21754,7 +21754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 757,
@@ -21774,7 +21774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 758,
@@ -21794,7 +21794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 759,
@@ -21814,7 +21814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 760,
@@ -21834,7 +21834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 761,
@@ -21854,7 +21854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 762,
@@ -21874,7 +21874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 763,
@@ -21894,7 +21894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 764,
@@ -21914,7 +21914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 765,
@@ -21934,7 +21934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 766,
@@ -21954,7 +21954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 767,
@@ -21974,7 +21974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 768,
@@ -21994,7 +21994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 769,
@@ -22014,7 +22014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 770,
@@ -22034,7 +22034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 771,
@@ -22054,7 +22054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 772,
@@ -22074,7 +22074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 773,
@@ -22094,7 +22094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 774,
@@ -22114,7 +22114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 775,
@@ -22134,7 +22134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 776,
@@ -22154,7 +22154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 777,
@@ -22174,7 +22174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 778,
@@ -22194,7 +22194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 779,
@@ -22214,7 +22214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 780,
@@ -22234,7 +22234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 781,
@@ -22254,7 +22254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 782,
@@ -22274,7 +22274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 783,
@@ -22294,7 +22294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 784,
@@ -22314,7 +22314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 785,
@@ -22334,7 +22334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 786,
@@ -22354,7 +22354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 787,
@@ -22374,7 +22374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 788,
@@ -22394,7 +22394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 789,
@@ -22414,7 +22414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 790,
@@ -22434,7 +22434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 791,
@@ -22454,7 +22454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 792,
@@ -22474,7 +22474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 793,
@@ -22494,7 +22494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 794,
@@ -22514,7 +22514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 795,
@@ -22534,7 +22534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 796,
@@ -22554,7 +22554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 797,
@@ -22574,7 +22574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 798,
@@ -22594,7 +22594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 799,
@@ -22614,7 +22614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 800,
@@ -22634,7 +22634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 801,
@@ -22654,7 +22654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 802,
@@ -22674,7 +22674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 803,
@@ -22694,7 +22694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 804,
@@ -22714,7 +22714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 805,
@@ -22734,7 +22734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 806,
@@ -22754,7 +22754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 807,
@@ -22774,7 +22774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 808,
@@ -22794,7 +22794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 809,
@@ -22814,7 +22814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 810,
@@ -22834,7 +22834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 811,
@@ -22854,7 +22854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 812,
@@ -22874,7 +22874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 813,
@@ -22894,7 +22894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 814,
@@ -22914,7 +22914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 815,
@@ -22934,7 +22934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 816,
@@ -22954,7 +22954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 817,
@@ -22974,7 +22974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 818,
@@ -22994,7 +22994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 819,
@@ -23014,7 +23014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 820,
@@ -23034,7 +23034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 821,
@@ -23054,7 +23054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 822,
@@ -23074,7 +23074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 823,
@@ -23094,7 +23094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 824,
@@ -23114,7 +23114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 825,
@@ -23134,7 +23134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 826,
@@ -23154,7 +23154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 827,
@@ -23174,7 +23174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 828,
@@ -23194,7 +23194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 829,
@@ -23214,7 +23214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 830,
@@ -23234,7 +23234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 831,
@@ -23254,7 +23254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 832,
@@ -23274,7 +23274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 833,
@@ -23294,7 +23294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 834,
@@ -23314,7 +23314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 835,
@@ -23334,7 +23334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 836,
@@ -23354,7 +23354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 837,
@@ -23374,7 +23374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 838,
@@ -23394,7 +23394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 839,
@@ -23414,7 +23414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 840,
@@ -23434,7 +23434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 841,
@@ -23454,7 +23454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 842,
@@ -23474,7 +23474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 843,
@@ -23494,7 +23494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 844,
@@ -23514,7 +23514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 845,
@@ -23534,7 +23534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 846,
@@ -23554,7 +23554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 847,
@@ -23574,7 +23574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 848,
@@ -23594,7 +23594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 849,
@@ -23614,7 +23614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 850,
@@ -23634,7 +23634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 851,
@@ -23654,7 +23654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 852,
@@ -23674,7 +23674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 853,
@@ -23694,7 +23694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 854,
@@ -23714,7 +23714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 855,
@@ -23734,7 +23734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 856,
@@ -23754,7 +23754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 857,
@@ -23774,7 +23774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 858,
@@ -23794,7 +23794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 859,
@@ -23814,7 +23814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 860,
@@ -23834,7 +23834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 861,
@@ -23854,7 +23854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 862,
@@ -23874,7 +23874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 863,
@@ -23894,7 +23894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 864,
@@ -23914,7 +23914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 865,
@@ -23934,7 +23934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 866,
@@ -23954,7 +23954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 867,
@@ -23974,7 +23974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 868,
@@ -23994,7 +23994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 869,
@@ -24014,7 +24014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 870,
@@ -24034,7 +24034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 871,
@@ -24054,7 +24054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 872,
@@ -24074,7 +24074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 873,
@@ -24094,7 +24094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 874,
@@ -24114,7 +24114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 875,
@@ -24134,7 +24134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 876,
@@ -24154,7 +24154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 877,
@@ -24174,7 +24174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 878,
@@ -24194,7 +24194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 879,
@@ -24214,7 +24214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 880,
@@ -24234,7 +24234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 881,
@@ -24254,7 +24254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 882,
@@ -24274,7 +24274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 883,
@@ -24294,7 +24294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 884,
@@ -24314,7 +24314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 885,
@@ -24334,7 +24334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 886,
@@ -24354,7 +24354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 887,
@@ -24374,7 +24374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 888,
@@ -24394,7 +24394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 889,
@@ -24414,7 +24414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 890,
@@ -24434,7 +24434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 891,
@@ -24454,7 +24454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 892,
@@ -24474,7 +24474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 893,
@@ -24494,7 +24494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 894,
@@ -24514,7 +24514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 895,
@@ -24534,7 +24534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 896,
@@ -24554,7 +24554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 897,
@@ -24574,7 +24574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 898,
@@ -24594,7 +24594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 899,
@@ -24614,7 +24614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 900,
@@ -24634,7 +24634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 901,
@@ -24654,7 +24654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 902,
@@ -24674,7 +24674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 903,
@@ -24694,7 +24694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 904,
@@ -24714,7 +24714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 905,
@@ -24734,7 +24734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 906,
@@ -24754,7 +24754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 907,
@@ -24774,7 +24774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 908,
@@ -24794,7 +24794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 909,
@@ -24814,7 +24814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 910,
@@ -24834,7 +24834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 911,
@@ -24854,7 +24854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 912,
@@ -24874,7 +24874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 913,
@@ -24894,7 +24894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 914,
@@ -24914,7 +24914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 915,
@@ -24934,7 +24934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 916,
@@ -24954,7 +24954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 917,
@@ -24974,7 +24974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 918,
@@ -24994,7 +24994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 919,
@@ -25014,7 +25014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 920,
@@ -25034,7 +25034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 921,
@@ -25054,7 +25054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 922,
@@ -25074,7 +25074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 923,
@@ -25094,7 +25094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 924,
@@ -25114,7 +25114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 925,
@@ -25134,7 +25134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 926,
@@ -25154,7 +25154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 927,
@@ -25174,7 +25174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 928,
@@ -25194,7 +25194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 929,
@@ -25214,7 +25214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 930,
@@ -25234,7 +25234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 931,
@@ -25254,7 +25254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 932,
@@ -25274,7 +25274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 933,
@@ -25294,7 +25294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 934,
@@ -25314,7 +25314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 935,
@@ -25334,7 +25334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 936,
@@ -25354,7 +25354,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 937,
@@ -25374,7 +25374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 1,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 938,
@@ -25394,7 +25394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 939,
@@ -25414,7 +25414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 940,
@@ -25434,7 +25434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 941,
@@ -25454,7 +25454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 942,
@@ -25474,7 +25474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 943,
@@ -25494,7 +25494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 944,
@@ -25514,7 +25514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 945,
@@ -25534,7 +25534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 946,
@@ -25554,7 +25554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 947,
@@ -25574,7 +25574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 948,
@@ -25594,7 +25594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 949,
@@ -25614,7 +25614,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 950,
@@ -25634,7 +25634,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 951,
@@ -25654,7 +25654,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 952,
@@ -25674,7 +25674,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 953,
@@ -25694,7 +25694,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 954,
@@ -25714,7 +25714,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 955,
@@ -25734,7 +25734,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 956,
@@ -25754,7 +25754,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 957,
@@ -25774,7 +25774,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 958,
@@ -25794,7 +25794,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 959,
@@ -25814,7 +25814,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 960,
@@ -25834,7 +25834,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 961,
@@ -25854,7 +25854,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 962,
@@ -25874,7 +25874,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 963,
@@ -25894,7 +25894,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 964,
@@ -25914,7 +25914,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 965,
@@ -25934,7 +25934,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 966,
@@ -25954,7 +25954,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 967,
@@ -25974,7 +25974,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 968,
@@ -25994,7 +25994,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 969,
@@ -26014,7 +26014,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 970,
@@ -26034,7 +26034,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 971,
@@ -26054,7 +26054,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 972,
@@ -26074,7 +26074,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 973,
@@ -26094,7 +26094,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 974,
@@ -26114,7 +26114,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 975,
@@ -26134,7 +26134,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 976,
@@ -26154,7 +26154,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 977,
@@ -26174,7 +26174,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 978,
@@ -26194,7 +26194,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 979,
@@ -26214,7 +26214,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 980,
@@ -26234,7 +26234,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 981,
@@ -26254,7 +26254,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 982,
@@ -26274,7 +26274,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 983,
@@ -26294,7 +26294,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 984,
@@ -26314,7 +26314,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 985,
@@ -26334,7 +26334,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 1,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 986,
@@ -26354,7 +26354,7 @@
       mig_ext_motivo14: 1,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 987,
@@ -26374,7 +26374,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 988,
@@ -26394,7 +26394,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 989,
@@ -26414,7 +26414,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 990,
@@ -26434,7 +26434,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 991,
@@ -26454,7 +26454,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 992,
@@ -26474,7 +26474,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 993,
@@ -26494,7 +26494,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 994,
@@ -26514,7 +26514,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 995,
@@ -26534,7 +26534,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 996,
@@ -26554,7 +26554,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 997,
@@ -26574,7 +26574,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 998,
@@ -26594,7 +26594,7 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
+      mig_ext_motivo99: 0,
     },
     {
       id: 999,
@@ -26614,8 +26614,8 @@
       mig_ext_motivo14: 0,
       mig_ext_motivo15: 0,
       mig_ext_motivo16: 0,
-      mig_ext_motivo99: 0
-    }
+      mig_ext_motivo99: 0,
+    },
   ];
   const violence = [
     {
@@ -26631,7 +26631,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 1,
@@ -26646,7 +26646,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 2,
@@ -26661,7 +26661,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 3,
@@ -26676,7 +26676,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 4,
@@ -26691,7 +26691,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 5,
@@ -26706,7 +26706,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 6,
@@ -26721,7 +26721,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 7,
@@ -26736,7 +26736,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 8,
@@ -26751,7 +26751,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 9,
@@ -26766,7 +26766,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 10,
@@ -26781,7 +26781,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 11,
@@ -26796,7 +26796,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 12,
@@ -26811,7 +26811,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 13,
@@ -26826,7 +26826,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 14,
@@ -26841,7 +26841,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 15,
@@ -26856,7 +26856,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 16,
@@ -26871,7 +26871,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 17,
@@ -26886,7 +26886,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 18,
@@ -26901,7 +26901,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 19,
@@ -26916,7 +26916,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 20,
@@ -26931,7 +26931,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 21,
@@ -26946,7 +26946,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 22,
@@ -26961,7 +26961,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 23,
@@ -26976,7 +26976,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 24,
@@ -26991,7 +26991,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 25,
@@ -27006,7 +27006,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 26,
@@ -27021,7 +27021,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 27,
@@ -27036,7 +27036,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 28,
@@ -27051,7 +27051,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 29,
@@ -27066,7 +27066,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 30,
@@ -27081,7 +27081,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 31,
@@ -27096,7 +27096,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 32,
@@ -27111,7 +27111,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 33,
@@ -27126,7 +27126,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 34,
@@ -27141,7 +27141,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 35,
@@ -27156,7 +27156,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 36,
@@ -27171,7 +27171,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 37,
@@ -27186,7 +27186,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 38,
@@ -27201,7 +27201,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 39,
@@ -27216,7 +27216,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 40,
@@ -27231,7 +27231,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 41,
@@ -27246,7 +27246,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 42,
@@ -27261,7 +27261,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 43,
@@ -27276,7 +27276,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 44,
@@ -27291,7 +27291,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 45,
@@ -27306,7 +27306,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 46,
@@ -27321,7 +27321,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 47,
@@ -27336,7 +27336,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 48,
@@ -27351,7 +27351,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 49,
@@ -27366,7 +27366,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 50,
@@ -27381,7 +27381,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 51,
@@ -27396,7 +27396,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 52,
@@ -27411,7 +27411,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 53,
@@ -27426,7 +27426,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 54,
@@ -27441,7 +27441,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 55,
@@ -27456,7 +27456,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 56,
@@ -27471,7 +27471,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 57,
@@ -27486,7 +27486,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 58,
@@ -27501,7 +27501,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 59,
@@ -27516,7 +27516,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 60,
@@ -27531,7 +27531,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 61,
@@ -27546,7 +27546,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 62,
@@ -27561,7 +27561,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 63,
@@ -27576,7 +27576,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 64,
@@ -27591,7 +27591,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 65,
@@ -27606,7 +27606,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 66,
@@ -27621,7 +27621,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 67,
@@ -27636,7 +27636,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 68,
@@ -27651,7 +27651,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 69,
@@ -27666,7 +27666,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 70,
@@ -27681,7 +27681,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 71,
@@ -27696,7 +27696,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 72,
@@ -27711,7 +27711,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 73,
@@ -27726,7 +27726,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 74,
@@ -27741,7 +27741,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 75,
@@ -27756,7 +27756,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 76,
@@ -27771,7 +27771,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 77,
@@ -27786,7 +27786,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 78,
@@ -27801,7 +27801,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 79,
@@ -27816,7 +27816,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 80,
@@ -27831,7 +27831,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 81,
@@ -27846,7 +27846,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 82,
@@ -27861,7 +27861,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 83,
@@ -27876,7 +27876,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 84,
@@ -27891,7 +27891,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 85,
@@ -27906,7 +27906,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 86,
@@ -27921,7 +27921,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 87,
@@ -27936,7 +27936,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 88,
@@ -27951,7 +27951,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 89,
@@ -27966,7 +27966,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 90,
@@ -27981,7 +27981,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 91,
@@ -27996,7 +27996,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 92,
@@ -28011,7 +28011,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 93,
@@ -28026,7 +28026,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 94,
@@ -28041,7 +28041,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 95,
@@ -28056,7 +28056,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 96,
@@ -28071,7 +28071,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 97,
@@ -28086,7 +28086,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 98,
@@ -28101,7 +28101,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 99,
@@ -28116,7 +28116,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 100,
@@ -28131,7 +28131,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 101,
@@ -28146,7 +28146,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 102,
@@ -28161,7 +28161,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 103,
@@ -28176,7 +28176,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 104,
@@ -28191,7 +28191,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 105,
@@ -28206,7 +28206,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 106,
@@ -28221,7 +28221,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 107,
@@ -28236,7 +28236,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 108,
@@ -28251,7 +28251,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 109,
@@ -28266,7 +28266,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 110,
@@ -28281,7 +28281,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 111,
@@ -28296,7 +28296,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 112,
@@ -28311,7 +28311,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 113,
@@ -28326,7 +28326,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 114,
@@ -28341,7 +28341,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 115,
@@ -28356,7 +28356,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 116,
@@ -28371,7 +28371,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 117,
@@ -28386,7 +28386,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 118,
@@ -28401,7 +28401,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 119,
@@ -28416,7 +28416,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 120,
@@ -28431,7 +28431,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 121,
@@ -28446,7 +28446,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 122,
@@ -28461,7 +28461,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 123,
@@ -28476,7 +28476,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 124,
@@ -28491,7 +28491,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 125,
@@ -28506,7 +28506,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 126,
@@ -28521,7 +28521,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 127,
@@ -28536,7 +28536,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 128,
@@ -28551,7 +28551,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 129,
@@ -28566,7 +28566,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 130,
@@ -28581,7 +28581,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 131,
@@ -28596,7 +28596,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 132,
@@ -28611,7 +28611,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 133,
@@ -28626,7 +28626,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 134,
@@ -28641,7 +28641,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 135,
@@ -28656,7 +28656,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 136,
@@ -28671,7 +28671,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 137,
@@ -28686,7 +28686,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 138,
@@ -28701,7 +28701,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 139,
@@ -28716,7 +28716,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 140,
@@ -28731,7 +28731,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 141,
@@ -28746,7 +28746,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 142,
@@ -28761,7 +28761,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 143,
@@ -28776,7 +28776,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 144,
@@ -28791,7 +28791,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 145,
@@ -28806,7 +28806,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 146,
@@ -28821,7 +28821,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 147,
@@ -28836,7 +28836,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 148,
@@ -28851,7 +28851,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 149,
@@ -28866,7 +28866,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 150,
@@ -28881,7 +28881,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 151,
@@ -28896,7 +28896,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 152,
@@ -28911,7 +28911,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 153,
@@ -28926,7 +28926,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 154,
@@ -28941,7 +28941,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 155,
@@ -28956,7 +28956,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 156,
@@ -28971,7 +28971,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 157,
@@ -28986,7 +28986,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 158,
@@ -29001,7 +29001,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 159,
@@ -29016,7 +29016,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 160,
@@ -29031,7 +29031,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 161,
@@ -29046,7 +29046,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 162,
@@ -29061,7 +29061,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 163,
@@ -29076,7 +29076,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 164,
@@ -29091,7 +29091,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 165,
@@ -29106,7 +29106,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 166,
@@ -29121,7 +29121,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 167,
@@ -29136,7 +29136,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 168,
@@ -29151,7 +29151,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 169,
@@ -29166,7 +29166,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 170,
@@ -29181,7 +29181,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 171,
@@ -29196,7 +29196,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 172,
@@ -29211,7 +29211,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 173,
@@ -29226,7 +29226,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 174,
@@ -29241,7 +29241,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 175,
@@ -29256,7 +29256,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 176,
@@ -29271,7 +29271,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 177,
@@ -29286,7 +29286,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 178,
@@ -29301,7 +29301,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 179,
@@ -29316,7 +29316,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 180,
@@ -29331,7 +29331,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 181,
@@ -29346,7 +29346,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 182,
@@ -29361,7 +29361,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 183,
@@ -29376,7 +29376,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 184,
@@ -29391,7 +29391,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 185,
@@ -29406,7 +29406,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 186,
@@ -29421,7 +29421,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 187,
@@ -29436,7 +29436,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 188,
@@ -29451,7 +29451,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 189,
@@ -29466,7 +29466,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 190,
@@ -29481,7 +29481,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 191,
@@ -29496,7 +29496,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 192,
@@ -29511,7 +29511,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 193,
@@ -29526,7 +29526,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 194,
@@ -29541,7 +29541,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 195,
@@ -29556,7 +29556,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 196,
@@ -29571,7 +29571,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 197,
@@ -29586,7 +29586,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 198,
@@ -29601,7 +29601,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 199,
@@ -29616,7 +29616,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 200,
@@ -29631,7 +29631,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 201,
@@ -29646,7 +29646,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 202,
@@ -29661,7 +29661,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 203,
@@ -29676,7 +29676,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 204,
@@ -29691,7 +29691,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 205,
@@ -29706,7 +29706,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 206,
@@ -29721,7 +29721,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 207,
@@ -29736,7 +29736,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 208,
@@ -29751,7 +29751,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 209,
@@ -29766,7 +29766,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 210,
@@ -29781,7 +29781,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 211,
@@ -29796,7 +29796,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 212,
@@ -29811,7 +29811,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 213,
@@ -29826,7 +29826,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 214,
@@ -29841,7 +29841,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 215,
@@ -29856,7 +29856,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 216,
@@ -29871,7 +29871,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 217,
@@ -29886,7 +29886,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 218,
@@ -29901,7 +29901,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 219,
@@ -29916,7 +29916,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 220,
@@ -29931,7 +29931,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 221,
@@ -29946,7 +29946,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 222,
@@ -29961,7 +29961,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 223,
@@ -29976,7 +29976,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 224,
@@ -29991,7 +29991,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 225,
@@ -30006,7 +30006,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 226,
@@ -30021,7 +30021,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 227,
@@ -30036,7 +30036,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 228,
@@ -30051,7 +30051,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 229,
@@ -30066,7 +30066,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 230,
@@ -30081,7 +30081,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 231,
@@ -30096,7 +30096,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 232,
@@ -30111,7 +30111,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 233,
@@ -30126,7 +30126,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 234,
@@ -30141,7 +30141,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 235,
@@ -30156,7 +30156,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 236,
@@ -30171,7 +30171,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 237,
@@ -30186,7 +30186,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 238,
@@ -30201,7 +30201,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 239,
@@ -30216,7 +30216,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 240,
@@ -30231,7 +30231,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 241,
@@ -30246,7 +30246,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 242,
@@ -30261,7 +30261,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 243,
@@ -30276,7 +30276,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 244,
@@ -30291,7 +30291,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 245,
@@ -30306,7 +30306,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 246,
@@ -30321,7 +30321,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 247,
@@ -30336,7 +30336,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 248,
@@ -30351,7 +30351,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 249,
@@ -30366,7 +30366,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 250,
@@ -30381,7 +30381,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 251,
@@ -30396,7 +30396,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 252,
@@ -30411,7 +30411,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 253,
@@ -30426,7 +30426,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 254,
@@ -30441,7 +30441,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 255,
@@ -30456,7 +30456,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 256,
@@ -30471,7 +30471,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 257,
@@ -30486,7 +30486,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 258,
@@ -30501,7 +30501,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 259,
@@ -30516,7 +30516,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 260,
@@ -30531,7 +30531,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 261,
@@ -30546,7 +30546,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 262,
@@ -30561,7 +30561,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 263,
@@ -30576,7 +30576,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 264,
@@ -30591,7 +30591,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 265,
@@ -30606,7 +30606,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 266,
@@ -30621,7 +30621,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 267,
@@ -30636,7 +30636,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 268,
@@ -30651,7 +30651,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 269,
@@ -30666,7 +30666,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 270,
@@ -30681,7 +30681,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 271,
@@ -30696,7 +30696,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 272,
@@ -30711,7 +30711,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 273,
@@ -30726,7 +30726,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 274,
@@ -30741,7 +30741,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 275,
@@ -30756,7 +30756,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 276,
@@ -30771,7 +30771,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 277,
@@ -30786,7 +30786,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 278,
@@ -30801,7 +30801,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 279,
@@ -30816,7 +30816,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 280,
@@ -30831,7 +30831,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 281,
@@ -30846,7 +30846,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 282,
@@ -30861,7 +30861,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 283,
@@ -30876,7 +30876,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 284,
@@ -30891,7 +30891,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 285,
@@ -30906,7 +30906,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 286,
@@ -30921,7 +30921,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 287,
@@ -30936,7 +30936,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 288,
@@ -30951,7 +30951,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 289,
@@ -30966,7 +30966,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 290,
@@ -30981,7 +30981,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 291,
@@ -30996,7 +30996,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 292,
@@ -31011,7 +31011,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 293,
@@ -31026,7 +31026,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 294,
@@ -31041,7 +31041,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 295,
@@ -31056,7 +31056,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 296,
@@ -31071,7 +31071,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 297,
@@ -31086,7 +31086,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 298,
@@ -31101,7 +31101,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 299,
@@ -31116,7 +31116,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 300,
@@ -31131,7 +31131,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 301,
@@ -31146,7 +31146,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 302,
@@ -31161,7 +31161,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 303,
@@ -31176,7 +31176,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 304,
@@ -31191,7 +31191,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 305,
@@ -31206,7 +31206,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 306,
@@ -31221,7 +31221,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 307,
@@ -31236,7 +31236,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 308,
@@ -31251,7 +31251,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 309,
@@ -31266,7 +31266,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 310,
@@ -31281,7 +31281,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 311,
@@ -31296,7 +31296,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 312,
@@ -31311,7 +31311,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 313,
@@ -31326,7 +31326,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 314,
@@ -31341,7 +31341,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 315,
@@ -31356,7 +31356,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 316,
@@ -31371,7 +31371,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 317,
@@ -31386,7 +31386,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 318,
@@ -31401,7 +31401,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 319,
@@ -31416,7 +31416,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 320,
@@ -31431,7 +31431,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 321,
@@ -31446,7 +31446,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 322,
@@ -31461,7 +31461,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 323,
@@ -31476,7 +31476,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 324,
@@ -31491,7 +31491,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 325,
@@ -31506,7 +31506,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 326,
@@ -31521,7 +31521,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 327,
@@ -31536,7 +31536,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 328,
@@ -31551,7 +31551,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 329,
@@ -31566,7 +31566,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 330,
@@ -31581,7 +31581,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 331,
@@ -31596,7 +31596,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 332,
@@ -31611,7 +31611,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 333,
@@ -31626,7 +31626,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 334,
@@ -31641,7 +31641,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 335,
@@ -31656,7 +31656,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 336,
@@ -31671,7 +31671,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 337,
@@ -31686,7 +31686,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 338,
@@ -31701,7 +31701,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 339,
@@ -31716,7 +31716,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 340,
@@ -31731,7 +31731,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 341,
@@ -31746,7 +31746,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 342,
@@ -31761,7 +31761,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 343,
@@ -31776,7 +31776,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 344,
@@ -31791,7 +31791,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 345,
@@ -31806,7 +31806,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 346,
@@ -31821,7 +31821,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 347,
@@ -31836,7 +31836,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 348,
@@ -31851,7 +31851,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 349,
@@ -31866,7 +31866,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 350,
@@ -31881,7 +31881,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 351,
@@ -31896,7 +31896,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 352,
@@ -31911,7 +31911,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 353,
@@ -31926,7 +31926,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 354,
@@ -31941,7 +31941,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 355,
@@ -31956,7 +31956,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 356,
@@ -31971,7 +31971,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 357,
@@ -31986,7 +31986,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 358,
@@ -32001,7 +32001,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 359,
@@ -32016,7 +32016,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 360,
@@ -32031,7 +32031,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 361,
@@ -32046,7 +32046,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 362,
@@ -32061,7 +32061,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 363,
@@ -32076,7 +32076,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 364,
@@ -32091,7 +32091,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 365,
@@ -32106,7 +32106,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 366,
@@ -32121,7 +32121,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 367,
@@ -32136,7 +32136,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 368,
@@ -32151,7 +32151,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 369,
@@ -32166,7 +32166,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 370,
@@ -32181,7 +32181,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 371,
@@ -32196,7 +32196,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 372,
@@ -32211,7 +32211,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 373,
@@ -32226,7 +32226,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 374,
@@ -32241,7 +32241,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 375,
@@ -32256,7 +32256,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 376,
@@ -32271,7 +32271,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 377,
@@ -32286,7 +32286,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 378,
@@ -32301,7 +32301,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 379,
@@ -32316,7 +32316,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 380,
@@ -32331,7 +32331,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 381,
@@ -32346,7 +32346,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 382,
@@ -32361,7 +32361,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 383,
@@ -32376,7 +32376,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 384,
@@ -32391,7 +32391,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 385,
@@ -32406,7 +32406,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 386,
@@ -32421,7 +32421,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 387,
@@ -32436,7 +32436,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 388,
@@ -32451,7 +32451,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 389,
@@ -32466,7 +32466,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 390,
@@ -32481,7 +32481,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 391,
@@ -32496,7 +32496,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 392,
@@ -32511,7 +32511,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 393,
@@ -32526,7 +32526,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 394,
@@ -32541,7 +32541,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 395,
@@ -32556,7 +32556,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 396,
@@ -32571,7 +32571,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 397,
@@ -32586,7 +32586,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 398,
@@ -32601,7 +32601,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 399,
@@ -32616,7 +32616,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 400,
@@ -32631,7 +32631,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 401,
@@ -32646,7 +32646,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 402,
@@ -32661,7 +32661,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 403,
@@ -32676,7 +32676,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 404,
@@ -32691,7 +32691,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 405,
@@ -32706,7 +32706,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 406,
@@ -32721,7 +32721,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 407,
@@ -32736,7 +32736,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 408,
@@ -32751,7 +32751,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 409,
@@ -32766,7 +32766,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 410,
@@ -32781,7 +32781,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 411,
@@ -32796,7 +32796,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 412,
@@ -32811,7 +32811,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 413,
@@ -32826,7 +32826,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 414,
@@ -32841,7 +32841,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 415,
@@ -32856,7 +32856,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 416,
@@ -32871,7 +32871,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 417,
@@ -32886,7 +32886,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 418,
@@ -32901,7 +32901,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 419,
@@ -32916,7 +32916,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 420,
@@ -32931,7 +32931,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 421,
@@ -32946,7 +32946,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 422,
@@ -32961,7 +32961,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 423,
@@ -32976,7 +32976,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 424,
@@ -32991,7 +32991,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 425,
@@ -33006,7 +33006,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 426,
@@ -33021,7 +33021,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 427,
@@ -33036,7 +33036,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 428,
@@ -33051,7 +33051,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 429,
@@ -33066,7 +33066,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 430,
@@ -33081,7 +33081,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 431,
@@ -33096,7 +33096,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 432,
@@ -33111,7 +33111,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 433,
@@ -33126,7 +33126,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 434,
@@ -33141,7 +33141,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 435,
@@ -33156,7 +33156,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 436,
@@ -33171,7 +33171,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 437,
@@ -33186,7 +33186,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 438,
@@ -33201,7 +33201,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 439,
@@ -33216,7 +33216,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 440,
@@ -33231,7 +33231,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 441,
@@ -33246,7 +33246,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 442,
@@ -33261,7 +33261,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 443,
@@ -33276,7 +33276,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 444,
@@ -33291,7 +33291,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 445,
@@ -33306,7 +33306,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 446,
@@ -33321,7 +33321,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 447,
@@ -33336,7 +33336,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 448,
@@ -33351,7 +33351,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 449,
@@ -33366,7 +33366,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 450,
@@ -33381,7 +33381,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 451,
@@ -33396,7 +33396,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 452,
@@ -33411,7 +33411,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 453,
@@ -33426,7 +33426,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 454,
@@ -33441,7 +33441,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 455,
@@ -33456,7 +33456,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 456,
@@ -33471,7 +33471,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 457,
@@ -33486,7 +33486,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 458,
@@ -33501,7 +33501,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 459,
@@ -33516,7 +33516,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 460,
@@ -33531,7 +33531,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 461,
@@ -33546,7 +33546,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 462,
@@ -33561,7 +33561,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 463,
@@ -33576,7 +33576,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 464,
@@ -33591,7 +33591,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 465,
@@ -33606,7 +33606,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 466,
@@ -33621,7 +33621,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 467,
@@ -33636,7 +33636,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 468,
@@ -33651,7 +33651,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 469,
@@ -33666,7 +33666,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 470,
@@ -33681,7 +33681,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 471,
@@ -33696,7 +33696,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 472,
@@ -33711,7 +33711,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 473,
@@ -33726,7 +33726,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 474,
@@ -33741,7 +33741,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 475,
@@ -33756,7 +33756,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 476,
@@ -33771,7 +33771,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 477,
@@ -33786,7 +33786,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 478,
@@ -33801,7 +33801,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 479,
@@ -33816,7 +33816,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 480,
@@ -33831,7 +33831,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 481,
@@ -33846,7 +33846,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 482,
@@ -33861,7 +33861,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 483,
@@ -33876,7 +33876,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 484,
@@ -33891,7 +33891,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 485,
@@ -33906,7 +33906,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 486,
@@ -33921,7 +33921,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 487,
@@ -33936,7 +33936,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 488,
@@ -33951,7 +33951,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 489,
@@ -33966,7 +33966,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 490,
@@ -33981,7 +33981,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 491,
@@ -33996,7 +33996,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 492,
@@ -34011,7 +34011,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 493,
@@ -34026,7 +34026,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 494,
@@ -34041,7 +34041,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 495,
@@ -34056,7 +34056,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 496,
@@ -34071,7 +34071,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 497,
@@ -34086,7 +34086,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 498,
@@ -34101,7 +34101,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 499,
@@ -34116,7 +34116,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 500,
@@ -34131,7 +34131,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 501,
@@ -34146,7 +34146,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 502,
@@ -34161,7 +34161,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 503,
@@ -34176,7 +34176,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 504,
@@ -34191,7 +34191,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 505,
@@ -34206,7 +34206,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 506,
@@ -34221,7 +34221,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 507,
@@ -34236,7 +34236,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 508,
@@ -34251,7 +34251,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 509,
@@ -34266,7 +34266,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 510,
@@ -34281,7 +34281,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 511,
@@ -34296,7 +34296,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 512,
@@ -34311,7 +34311,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 513,
@@ -34326,7 +34326,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 514,
@@ -34341,7 +34341,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 515,
@@ -34356,7 +34356,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 516,
@@ -34371,7 +34371,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 517,
@@ -34386,7 +34386,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 518,
@@ -34401,7 +34401,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 519,
@@ -34416,7 +34416,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 520,
@@ -34431,7 +34431,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 521,
@@ -34446,7 +34446,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 522,
@@ -34461,7 +34461,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 523,
@@ -34476,7 +34476,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 524,
@@ -34491,7 +34491,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 525,
@@ -34506,7 +34506,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 526,
@@ -34521,7 +34521,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 527,
@@ -34536,7 +34536,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 528,
@@ -34551,7 +34551,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 529,
@@ -34566,7 +34566,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 530,
@@ -34581,7 +34581,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 531,
@@ -34596,7 +34596,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 532,
@@ -34611,7 +34611,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 533,
@@ -34626,7 +34626,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 534,
@@ -34641,7 +34641,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 535,
@@ -34656,7 +34656,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 536,
@@ -34671,7 +34671,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 537,
@@ -34686,7 +34686,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 538,
@@ -34701,7 +34701,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 539,
@@ -34716,7 +34716,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 540,
@@ -34731,7 +34731,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 541,
@@ -34746,7 +34746,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 542,
@@ -34761,7 +34761,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 543,
@@ -34776,7 +34776,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 544,
@@ -34791,7 +34791,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 545,
@@ -34806,7 +34806,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 546,
@@ -34821,7 +34821,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 547,
@@ -34836,7 +34836,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 548,
@@ -34851,7 +34851,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 549,
@@ -34866,7 +34866,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 550,
@@ -34881,7 +34881,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 551,
@@ -34896,7 +34896,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 552,
@@ -34911,7 +34911,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 553,
@@ -34926,7 +34926,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 554,
@@ -34941,7 +34941,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 555,
@@ -34956,7 +34956,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 556,
@@ -34971,7 +34971,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 557,
@@ -34986,7 +34986,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 558,
@@ -35001,7 +35001,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 559,
@@ -35016,7 +35016,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 560,
@@ -35031,7 +35031,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 561,
@@ -35046,7 +35046,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 562,
@@ -35061,7 +35061,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 563,
@@ -35076,7 +35076,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 564,
@@ -35091,7 +35091,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 565,
@@ -35106,7 +35106,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 566,
@@ -35121,7 +35121,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 567,
@@ -35136,7 +35136,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 568,
@@ -35151,7 +35151,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 569,
@@ -35166,7 +35166,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 570,
@@ -35181,7 +35181,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 571,
@@ -35196,7 +35196,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 572,
@@ -35211,7 +35211,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 573,
@@ -35226,7 +35226,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 574,
@@ -35241,7 +35241,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 575,
@@ -35256,7 +35256,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 576,
@@ -35271,7 +35271,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 577,
@@ -35286,7 +35286,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 578,
@@ -35301,7 +35301,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 579,
@@ -35316,7 +35316,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 580,
@@ -35331,7 +35331,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 581,
@@ -35346,7 +35346,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 582,
@@ -35361,7 +35361,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 583,
@@ -35376,7 +35376,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 584,
@@ -35391,7 +35391,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 585,
@@ -35406,7 +35406,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 586,
@@ -35421,7 +35421,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 587,
@@ -35436,7 +35436,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 588,
@@ -35451,7 +35451,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 589,
@@ -35466,7 +35466,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 590,
@@ -35481,7 +35481,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 591,
@@ -35496,7 +35496,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 592,
@@ -35511,7 +35511,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 593,
@@ -35526,7 +35526,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 594,
@@ -35541,7 +35541,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 595,
@@ -35556,7 +35556,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 596,
@@ -35571,7 +35571,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 597,
@@ -35586,7 +35586,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 598,
@@ -35601,7 +35601,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 599,
@@ -35616,7 +35616,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 600,
@@ -35631,7 +35631,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 601,
@@ -35646,7 +35646,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 602,
@@ -35661,7 +35661,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 603,
@@ -35676,7 +35676,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 604,
@@ -35691,7 +35691,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 605,
@@ -35706,7 +35706,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 606,
@@ -35721,7 +35721,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 607,
@@ -35736,7 +35736,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 608,
@@ -35751,7 +35751,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 609,
@@ -35766,7 +35766,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 610,
@@ -35781,7 +35781,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 611,
@@ -35796,7 +35796,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 612,
@@ -35811,7 +35811,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 613,
@@ -35826,7 +35826,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 614,
@@ -35841,7 +35841,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 615,
@@ -35856,7 +35856,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 616,
@@ -35871,7 +35871,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 617,
@@ -35886,7 +35886,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 618,
@@ -35901,7 +35901,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 619,
@@ -35916,7 +35916,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 620,
@@ -35931,7 +35931,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 621,
@@ -35946,7 +35946,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 622,
@@ -35961,7 +35961,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 623,
@@ -35976,7 +35976,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 624,
@@ -35991,7 +35991,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 625,
@@ -36006,7 +36006,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 626,
@@ -36021,7 +36021,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 627,
@@ -36036,7 +36036,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 628,
@@ -36051,7 +36051,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 629,
@@ -36066,7 +36066,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 630,
@@ -36081,7 +36081,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 631,
@@ -36096,7 +36096,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 632,
@@ -36111,7 +36111,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 633,
@@ -36126,7 +36126,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 634,
@@ -36141,7 +36141,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 635,
@@ -36156,7 +36156,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 636,
@@ -36171,7 +36171,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 637,
@@ -36186,7 +36186,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 638,
@@ -36201,7 +36201,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 639,
@@ -36216,7 +36216,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 640,
@@ -36231,7 +36231,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 641,
@@ -36246,7 +36246,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 642,
@@ -36261,7 +36261,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 643,
@@ -36276,7 +36276,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 644,
@@ -36291,7 +36291,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 645,
@@ -36306,7 +36306,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 646,
@@ -36321,7 +36321,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 647,
@@ -36336,7 +36336,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 648,
@@ -36351,7 +36351,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 649,
@@ -36366,7 +36366,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 650,
@@ -36381,7 +36381,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 651,
@@ -36396,7 +36396,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 652,
@@ -36411,7 +36411,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 653,
@@ -36426,7 +36426,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 654,
@@ -36441,7 +36441,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 655,
@@ -36456,7 +36456,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 656,
@@ -36471,7 +36471,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 657,
@@ -36486,7 +36486,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 658,
@@ -36501,7 +36501,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 659,
@@ -36516,7 +36516,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 660,
@@ -36531,7 +36531,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 661,
@@ -36546,7 +36546,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 662,
@@ -36561,7 +36561,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 663,
@@ -36576,7 +36576,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 664,
@@ -36591,7 +36591,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 665,
@@ -36606,7 +36606,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 666,
@@ -36621,7 +36621,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 667,
@@ -36636,7 +36636,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 668,
@@ -36651,7 +36651,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 669,
@@ -36666,7 +36666,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 670,
@@ -36681,7 +36681,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 671,
@@ -36696,7 +36696,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 672,
@@ -36711,7 +36711,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 673,
@@ -36726,7 +36726,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 674,
@@ -36741,7 +36741,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 675,
@@ -36756,7 +36756,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 676,
@@ -36771,7 +36771,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 677,
@@ -36786,7 +36786,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 678,
@@ -36801,7 +36801,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 679,
@@ -36816,7 +36816,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 680,
@@ -36831,7 +36831,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 681,
@@ -36846,7 +36846,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 682,
@@ -36861,7 +36861,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 683,
@@ -36876,7 +36876,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 684,
@@ -36891,7 +36891,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 685,
@@ -36906,7 +36906,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 686,
@@ -36921,7 +36921,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 687,
@@ -36936,7 +36936,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 688,
@@ -36951,7 +36951,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 689,
@@ -36966,7 +36966,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 690,
@@ -36981,7 +36981,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 691,
@@ -36996,7 +36996,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 692,
@@ -37011,7 +37011,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 693,
@@ -37026,7 +37026,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 694,
@@ -37041,7 +37041,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 695,
@@ -37056,7 +37056,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 696,
@@ -37071,7 +37071,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 697,
@@ -37086,7 +37086,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 698,
@@ -37101,7 +37101,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 699,
@@ -37116,7 +37116,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 700,
@@ -37131,7 +37131,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 701,
@@ -37146,7 +37146,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 702,
@@ -37161,7 +37161,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 703,
@@ -37176,7 +37176,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 704,
@@ -37191,7 +37191,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 705,
@@ -37206,7 +37206,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 706,
@@ -37221,7 +37221,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 707,
@@ -37236,7 +37236,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 708,
@@ -37251,7 +37251,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 709,
@@ -37266,7 +37266,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 710,
@@ -37281,7 +37281,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 711,
@@ -37296,7 +37296,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 712,
@@ -37311,7 +37311,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 713,
@@ -37326,7 +37326,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 714,
@@ -37341,7 +37341,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 715,
@@ -37356,7 +37356,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 716,
@@ -37371,7 +37371,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 717,
@@ -37386,7 +37386,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 718,
@@ -37401,7 +37401,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 719,
@@ -37416,7 +37416,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 720,
@@ -37431,7 +37431,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 721,
@@ -37446,7 +37446,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 722,
@@ -37461,7 +37461,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 723,
@@ -37476,7 +37476,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 724,
@@ -37491,7 +37491,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 725,
@@ -37506,7 +37506,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 726,
@@ -37521,7 +37521,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 727,
@@ -37536,7 +37536,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 728,
@@ -37551,7 +37551,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 729,
@@ -37566,7 +37566,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 730,
@@ -37581,7 +37581,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 731,
@@ -37596,7 +37596,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 732,
@@ -37611,7 +37611,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 733,
@@ -37626,7 +37626,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 734,
@@ -37641,7 +37641,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 735,
@@ -37656,7 +37656,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 736,
@@ -37671,7 +37671,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 737,
@@ -37686,7 +37686,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 738,
@@ -37701,7 +37701,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 739,
@@ -37716,7 +37716,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 740,
@@ -37731,7 +37731,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 741,
@@ -37746,7 +37746,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 742,
@@ -37761,7 +37761,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 743,
@@ -37776,7 +37776,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 744,
@@ -37791,7 +37791,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 745,
@@ -37806,7 +37806,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 746,
@@ -37821,7 +37821,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 747,
@@ -37836,7 +37836,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 748,
@@ -37851,7 +37851,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 749,
@@ -37866,7 +37866,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 750,
@@ -37881,7 +37881,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 751,
@@ -37896,7 +37896,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 752,
@@ -37911,7 +37911,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 753,
@@ -37926,7 +37926,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 754,
@@ -37941,7 +37941,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 755,
@@ -37956,7 +37956,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 756,
@@ -37971,7 +37971,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 757,
@@ -37986,7 +37986,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 758,
@@ -38001,7 +38001,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 759,
@@ -38016,7 +38016,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 760,
@@ -38031,7 +38031,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 761,
@@ -38046,7 +38046,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 762,
@@ -38061,7 +38061,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 763,
@@ -38076,7 +38076,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 764,
@@ -38091,7 +38091,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 765,
@@ -38106,7 +38106,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 766,
@@ -38121,7 +38121,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 767,
@@ -38136,7 +38136,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 768,
@@ -38151,7 +38151,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 769,
@@ -38166,7 +38166,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 770,
@@ -38181,7 +38181,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 771,
@@ -38196,7 +38196,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 772,
@@ -38211,7 +38211,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 773,
@@ -38226,7 +38226,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 774,
@@ -38241,7 +38241,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 775,
@@ -38256,7 +38256,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 776,
@@ -38271,7 +38271,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 777,
@@ -38286,7 +38286,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 778,
@@ -38301,7 +38301,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 779,
@@ -38316,7 +38316,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 780,
@@ -38331,7 +38331,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 781,
@@ -38346,7 +38346,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 782,
@@ -38361,7 +38361,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 783,
@@ -38376,7 +38376,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 784,
@@ -38391,7 +38391,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 785,
@@ -38406,7 +38406,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 786,
@@ -38421,7 +38421,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 787,
@@ -38436,7 +38436,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 788,
@@ -38451,7 +38451,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 789,
@@ -38466,7 +38466,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 790,
@@ -38481,7 +38481,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 791,
@@ -38496,7 +38496,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 792,
@@ -38511,7 +38511,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 793,
@@ -38526,7 +38526,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 794,
@@ -38541,7 +38541,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 795,
@@ -38556,7 +38556,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 796,
@@ -38571,7 +38571,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 797,
@@ -38586,7 +38586,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 798,
@@ -38601,7 +38601,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 799,
@@ -38616,7 +38616,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 800,
@@ -38631,7 +38631,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 801,
@@ -38646,7 +38646,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 802,
@@ -38661,7 +38661,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 803,
@@ -38676,7 +38676,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 804,
@@ -38691,7 +38691,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 805,
@@ -38706,7 +38706,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 806,
@@ -38721,7 +38721,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 807,
@@ -38736,7 +38736,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 808,
@@ -38751,7 +38751,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 809,
@@ -38766,7 +38766,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 810,
@@ -38781,7 +38781,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 811,
@@ -38796,7 +38796,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 812,
@@ -38811,7 +38811,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 813,
@@ -38826,7 +38826,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 814,
@@ -38841,7 +38841,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 815,
@@ -38856,7 +38856,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 816,
@@ -38871,7 +38871,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 817,
@@ -38886,7 +38886,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 818,
@@ -38901,7 +38901,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 819,
@@ -38916,7 +38916,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 820,
@@ -38931,7 +38931,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 821,
@@ -38946,7 +38946,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 822,
@@ -38961,7 +38961,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 823,
@@ -38976,7 +38976,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 824,
@@ -38991,7 +38991,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 825,
@@ -39006,7 +39006,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 826,
@@ -39021,7 +39021,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 827,
@@ -39036,7 +39036,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 828,
@@ -39051,7 +39051,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 829,
@@ -39066,7 +39066,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 830,
@@ -39081,7 +39081,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 831,
@@ -39096,7 +39096,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 832,
@@ -39111,7 +39111,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 833,
@@ -39126,7 +39126,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 834,
@@ -39141,7 +39141,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 835,
@@ -39156,7 +39156,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 836,
@@ -39171,7 +39171,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 837,
@@ -39186,7 +39186,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 838,
@@ -39201,7 +39201,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 839,
@@ -39216,7 +39216,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 840,
@@ -39231,7 +39231,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 841,
@@ -39246,7 +39246,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 842,
@@ -39261,7 +39261,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 843,
@@ -39276,7 +39276,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 844,
@@ -39291,7 +39291,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 845,
@@ -39306,7 +39306,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 846,
@@ -39321,7 +39321,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 847,
@@ -39336,7 +39336,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 848,
@@ -39351,7 +39351,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 849,
@@ -39366,7 +39366,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 850,
@@ -39381,7 +39381,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 851,
@@ -39396,7 +39396,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 852,
@@ -39411,7 +39411,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 853,
@@ -39426,7 +39426,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 854,
@@ -39441,7 +39441,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 855,
@@ -39456,7 +39456,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 856,
@@ -39471,7 +39471,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 857,
@@ -39486,7 +39486,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 858,
@@ -39501,7 +39501,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 859,
@@ -39516,7 +39516,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 860,
@@ -39531,7 +39531,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 861,
@@ -39546,7 +39546,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 862,
@@ -39561,7 +39561,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 863,
@@ -39576,7 +39576,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 864,
@@ -39591,7 +39591,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 865,
@@ -39606,7 +39606,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 866,
@@ -39621,7 +39621,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 867,
@@ -39636,7 +39636,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 868,
@@ -39651,7 +39651,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 869,
@@ -39666,7 +39666,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 870,
@@ -39681,7 +39681,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 871,
@@ -39696,7 +39696,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 872,
@@ -39711,7 +39711,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 873,
@@ -39726,7 +39726,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 874,
@@ -39741,7 +39741,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 875,
@@ -39756,7 +39756,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 876,
@@ -39771,7 +39771,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 877,
@@ -39786,7 +39786,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 878,
@@ -39801,7 +39801,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 879,
@@ -39816,7 +39816,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 880,
@@ -39831,7 +39831,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 881,
@@ -39846,7 +39846,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 882,
@@ -39861,7 +39861,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 883,
@@ -39876,7 +39876,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 884,
@@ -39891,7 +39891,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 885,
@@ -39906,7 +39906,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 886,
@@ -39921,7 +39921,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 887,
@@ -39936,7 +39936,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 888,
@@ -39951,7 +39951,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 889,
@@ -39966,7 +39966,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 890,
@@ -39981,7 +39981,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 891,
@@ -39996,7 +39996,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 892,
@@ -40011,7 +40011,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 893,
@@ -40026,7 +40026,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 894,
@@ -40041,7 +40041,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 895,
@@ -40056,7 +40056,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 896,
@@ -40071,7 +40071,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 897,
@@ -40086,7 +40086,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 898,
@@ -40101,7 +40101,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 899,
@@ -40116,7 +40116,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 900,
@@ -40131,7 +40131,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 901,
@@ -40146,7 +40146,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 902,
@@ -40161,7 +40161,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 903,
@@ -40176,7 +40176,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 904,
@@ -40191,7 +40191,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 905,
@@ -40206,7 +40206,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 906,
@@ -40221,7 +40221,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 907,
@@ -40236,7 +40236,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 908,
@@ -40251,7 +40251,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 909,
@@ -40266,7 +40266,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 910,
@@ -40281,7 +40281,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 911,
@@ -40296,7 +40296,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 912,
@@ -40311,7 +40311,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 913,
@@ -40326,7 +40326,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 914,
@@ -40341,7 +40341,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 915,
@@ -40356,7 +40356,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 916,
@@ -40371,7 +40371,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 917,
@@ -40386,7 +40386,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 918,
@@ -40401,7 +40401,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 919,
@@ -40416,7 +40416,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 920,
@@ -40431,7 +40431,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 921,
@@ -40446,7 +40446,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 922,
@@ -40461,7 +40461,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 923,
@@ -40476,7 +40476,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 924,
@@ -40491,7 +40491,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 925,
@@ -40506,7 +40506,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 926,
@@ -40521,7 +40521,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 927,
@@ -40536,7 +40536,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 928,
@@ -40551,7 +40551,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 929,
@@ -40566,7 +40566,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 930,
@@ -40581,7 +40581,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 931,
@@ -40596,7 +40596,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 932,
@@ -40611,7 +40611,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 933,
@@ -40626,7 +40626,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 934,
@@ -40641,7 +40641,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 935,
@@ -40656,7 +40656,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 936,
@@ -40671,7 +40671,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 937,
@@ -40686,7 +40686,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 938,
@@ -40701,7 +40701,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 939,
@@ -40716,7 +40716,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 940,
@@ -40731,7 +40731,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 941,
@@ -40746,7 +40746,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 942,
@@ -40761,7 +40761,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 943,
@@ -40776,7 +40776,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 944,
@@ -40791,7 +40791,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 945,
@@ -40806,7 +40806,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 946,
@@ -40821,7 +40821,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 947,
@@ -40836,7 +40836,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 948,
@@ -40851,7 +40851,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 949,
@@ -40866,7 +40866,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 950,
@@ -40881,7 +40881,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 951,
@@ -40896,7 +40896,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 952,
@@ -40911,7 +40911,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 953,
@@ -40926,7 +40926,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 954,
@@ -40941,7 +40941,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 955,
@@ -40956,7 +40956,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 956,
@@ -40971,7 +40971,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 1
+      mig_ext_violence_99: 1,
     },
     {
       id: 957,
@@ -40986,7 +40986,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 958,
@@ -41001,7 +41001,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 959,
@@ -41016,7 +41016,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 960,
@@ -41031,7 +41031,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 961,
@@ -41046,7 +41046,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 962,
@@ -41061,7 +41061,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 963,
@@ -41076,7 +41076,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 964,
@@ -41091,7 +41091,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 965,
@@ -41106,7 +41106,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 966,
@@ -41121,7 +41121,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 967,
@@ -41136,7 +41136,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 968,
@@ -41151,7 +41151,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 969,
@@ -41166,7 +41166,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 970,
@@ -41181,7 +41181,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 971,
@@ -41196,7 +41196,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 972,
@@ -41211,7 +41211,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 973,
@@ -41226,7 +41226,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 974,
@@ -41241,7 +41241,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 975,
@@ -41256,7 +41256,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 976,
@@ -41271,7 +41271,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 977,
@@ -41286,7 +41286,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 978,
@@ -41301,7 +41301,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 979,
@@ -41316,7 +41316,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 980,
@@ -41331,7 +41331,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 981,
@@ -41346,7 +41346,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 982,
@@ -41361,7 +41361,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 983,
@@ -41376,7 +41376,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 984,
@@ -41391,7 +41391,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 985,
@@ -41406,7 +41406,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 986,
@@ -41421,7 +41421,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 987,
@@ -41436,7 +41436,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 988,
@@ -41451,7 +41451,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 989,
@@ -41466,7 +41466,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 990,
@@ -41481,7 +41481,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 991,
@@ -41496,7 +41496,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 992,
@@ -41511,7 +41511,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 993,
@@ -41526,7 +41526,7 @@
       mig_ext_violence_9: -1,
       mig_ext_violence_10: -1,
       mig_ext_violence_11: -1,
-      mig_ext_violence_99: -1
+      mig_ext_violence_99: -1,
     },
     {
       id: 994,
@@ -41541,7 +41541,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 995,
@@ -41556,7 +41556,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 996,
@@ -41571,7 +41571,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 997,
@@ -41586,7 +41586,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 998,
@@ -41601,7 +41601,7 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 1,
-      mig_ext_violence_99: 0
+      mig_ext_violence_99: 0,
     },
     {
       id: 999,
@@ -41616,10 +41616,15012 @@
       mig_ext_violence_9: 0,
       mig_ext_violence_10: 0,
       mig_ext_violence_11: 0,
-      mig_ext_violence_99: 0
-    }
+      mig_ext_violence_99: 0,
+    },
   ];
-  
+  const how_financed = [
+    {
+      id: 0,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 1,
+      mig_ext_finance_1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 2,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 3,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 4,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 5,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 6,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 7,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 8,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 9,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 10,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 11,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 12,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 13,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 14,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 15,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 16,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 17,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 18,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 19,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 20,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 21,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 22,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 23,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 24,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 25,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 26,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 27,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 28,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 29,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 30,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 31,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 32,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 33,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 34,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 35,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 36,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 37,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 38,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 39,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 40,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 41,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 42,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 43,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 44,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 45,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 46,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 47,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 48,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 49,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 50,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 51,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 52,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 53,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 54,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 55,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 56,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 57,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 58,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 59,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 60,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 61,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 62,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 63,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 64,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 65,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 66,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 67,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 68,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 69,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 70,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 71,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 72,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 73,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 74,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 75,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 76,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 77,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 78,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 79,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 80,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 81,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 82,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 83,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 84,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 85,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 86,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 87,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 88,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 89,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 90,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 91,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 92,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 93,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 94,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 95,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 96,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 97,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 98,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 99,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 100,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 101,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 102,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 103,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 104,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 105,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 106,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 107,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 108,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 109,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 110,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 111,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 112,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 113,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 114,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 115,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 116,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 117,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 118,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 119,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 120,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 121,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 122,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 123,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 124,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 125,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 126,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 127,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 128,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 129,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 130,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 131,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 132,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 133,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 134,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 135,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 136,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 137,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 138,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 139,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 140,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 141,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 142,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 143,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 144,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 145,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 146,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 147,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 148,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 149,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 150,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 151,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 152,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 153,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 154,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 155,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 156,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 157,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 158,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 159,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 160,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 161,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 162,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 163,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 164,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 165,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 166,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 167,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 168,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 169,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 170,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 171,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 172,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 173,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 174,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 175,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 176,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 177,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 178,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 179,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 180,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 181,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 182,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 183,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 184,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 185,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 186,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 187,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 188,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 189,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 190,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 191,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 192,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 193,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 194,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 195,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 196,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 197,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 198,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 199,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 200,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 201,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 202,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 203,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 204,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 205,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 206,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 207,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 208,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 209,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 210,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 211,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 212,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 213,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 214,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 215,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 216,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 217,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 218,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 219,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 220,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 221,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 222,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 223,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 224,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 225,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 226,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 227,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 228,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 229,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 230,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 231,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 232,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 233,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 234,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 235,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 236,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 237,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 238,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 239,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 240,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 241,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 242,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 243,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 244,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 245,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 246,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 247,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 248,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 249,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 250,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 251,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 252,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 253,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 254,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 255,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 256,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 257,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 258,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 259,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 260,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 261,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 262,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 263,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 264,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 265,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 266,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 267,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 268,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 269,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 270,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 271,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 272,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 273,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 274,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 275,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 276,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 277,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 278,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 279,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 280,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 281,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 282,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 283,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 284,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 285,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 286,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 287,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 288,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 289,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 290,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 291,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 292,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 293,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 294,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 295,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 296,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 297,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 298,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 299,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 300,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 301,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 302,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 303,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 304,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 305,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 306,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 307,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 308,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 309,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 310,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 311,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 312,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 313,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 314,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 315,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 316,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 317,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 318,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 319,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 320,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 321,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 322,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 323,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 324,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 325,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 326,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 327,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 328,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 329,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 330,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 331,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 332,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 333,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 334,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 335,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 336,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 337,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 338,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 339,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 340,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 341,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 342,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 343,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 344,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 345,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 346,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 347,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 348,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 349,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 350,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 351,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 352,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 353,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 354,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 355,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 356,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 357,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 358,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 359,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 360,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 361,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 362,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 363,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 364,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 365,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 366,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 367,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 368,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 369,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 370,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 371,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 372,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 373,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 374,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 375,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 376,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 377,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 378,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 379,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 380,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 381,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 382,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 383,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 384,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 385,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 386,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 387,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 388,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 389,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 390,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 391,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 392,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 393,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 394,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 395,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 396,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 397,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 398,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 399,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 400,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 401,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 402,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 403,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 404,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 405,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 406,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 407,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 408,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 409,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 410,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 411,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 412,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 413,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 414,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 415,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 416,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 417,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 418,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 419,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 420,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 421,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 422,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 423,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 424,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 425,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 426,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 427,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 428,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 429,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 430,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 431,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 432,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 433,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 434,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 435,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 436,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 437,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 438,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 439,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 440,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 441,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 442,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 443,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 444,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 445,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 446,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 447,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 448,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 449,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 450,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 451,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 452,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 453,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 454,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 455,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 456,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 457,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 458,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 459,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 460,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 461,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 462,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 463,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 464,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 465,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 466,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 467,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 468,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 469,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 470,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 471,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 472,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 473,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 474,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 475,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 476,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 477,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 478,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 479,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 480,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 481,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 482,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 483,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 484,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 485,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 486,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 487,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 488,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 489,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 490,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 491,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 492,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 493,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 494,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 495,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 496,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 497,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 498,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 499,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 500,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 501,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 502,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 503,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 504,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 505,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 506,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 507,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 508,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 509,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 510,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 511,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 512,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 513,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 514,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 515,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 516,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 517,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 518,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 519,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 520,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 521,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 522,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 523,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 524,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 525,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 526,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 527,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 528,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 529,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 530,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 531,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 532,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 533,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 534,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 535,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 536,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 537,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 538,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 539,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 540,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 541,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 542,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 543,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 544,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 545,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 546,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 547,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 548,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 549,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 550,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 551,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 552,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 553,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 554,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 555,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 556,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 557,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 558,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 559,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 560,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 561,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 562,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 563,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 564,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 565,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 566,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 567,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 568,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 569,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 570,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 571,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 572,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 573,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 574,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 575,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 576,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 577,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 578,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 579,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 580,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 581,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 582,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 583,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 584,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 585,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 586,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 587,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 588,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 589,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 590,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 591,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 592,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 593,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 594,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 595,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 596,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 597,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 598,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 599,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 600,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 601,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 602,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 603,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 604,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 605,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 606,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 607,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 608,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 609,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 610,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 611,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 612,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 613,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 614,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 615,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 616,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 617,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 618,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 619,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 620,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 621,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 622,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 623,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 624,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 625,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 626,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 627,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 628,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 629,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 630,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 631,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 632,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 633,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 634,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 635,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 636,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 637,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 638,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 639,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 640,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 641,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 642,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 643,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 644,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 645,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 646,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 647,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 648,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 649,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 650,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 651,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 652,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 653,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 654,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 655,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 656,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 657,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 658,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 659,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 660,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 661,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 662,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 663,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 664,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 665,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 666,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 667,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 668,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 669,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 670,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 671,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 672,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 673,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 674,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 675,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 676,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 677,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 678,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 679,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 680,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 681,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 682,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 683,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 684,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 685,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 686,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 687,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 688,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 689,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 690,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 691,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 692,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 693,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 694,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 695,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 696,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 697,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 698,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 699,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 700,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 701,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 702,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 703,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 704,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 705,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 706,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 707,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 708,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 709,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 710,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 711,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 712,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 713,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 714,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 715,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 716,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 717,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 718,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 719,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 720,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 721,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 722,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 723,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 724,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 725,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 726,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 727,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 728,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 729,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 730,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 731,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 732,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 733,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 734,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 735,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 736,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 737,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 738,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 739,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 740,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 741,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 742,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 743,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 744,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 745,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 746,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 747,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 748,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 749,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 750,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 751,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 752,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 753,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 754,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 755,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 756,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 757,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 758,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 759,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 760,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 761,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 762,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 763,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 764,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 765,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 766,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 767,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 768,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 769,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 770,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 771,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 772,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 773,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 774,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 775,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 776,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 777,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 778,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 779,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 780,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 781,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 782,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 783,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 784,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 785,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 786,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 787,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 788,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 789,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 790,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 791,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 792,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 793,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 794,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 795,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 796,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 797,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 798,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 799,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 800,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 801,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 802,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 803,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 804,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 805,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 806,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 807,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 808,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 809,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 810,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 811,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 812,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 813,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 814,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 815,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 816,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 817,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 818,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 819,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 820,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 821,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 822,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 823,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 824,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 825,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 826,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 827,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 828,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 829,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 830,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 831,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 832,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 833,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 834,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 835,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 836,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 837,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 838,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 839,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 840,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 841,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 842,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 843,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 844,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 845,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 846,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 847,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 848,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 849,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 850,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 851,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 852,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 853,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 854,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 855,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 856,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 857,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 858,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 859,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 860,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 861,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 862,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 863,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 864,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 865,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 866,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 867,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 868,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 869,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 870,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 871,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 872,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 873,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 874,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 875,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 876,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 877,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 878,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 879,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 880,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 881,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 882,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 883,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 884,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 885,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 886,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 887,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 888,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 889,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 890,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 891,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 892,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 893,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 894,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 895,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 896,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 897,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 898,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 899,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 900,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 901,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 902,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 903,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 904,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 905,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 906,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 907,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 908,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 909,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 910,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 911,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 912,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 913,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 914,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 915,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 916,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 917,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 918,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 919,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 920,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 921,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 922,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 923,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 924,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 925,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 926,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 927,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 928,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 929,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 930,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 931,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 932,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 933,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 934,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 935,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 936,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 937,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 938,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 939,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 1,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 940,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 941,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 942,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 943,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 944,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 945,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 946,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 947,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 948,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 949,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 950,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 951,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 952,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 953,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 954,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 955,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 956,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 957,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 958,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 959,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 960,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 961,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 962,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 963,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 964,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 965,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 966,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 967,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 968,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 1,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 969,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 970,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 971,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 972,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 973,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 974,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 975,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 976,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 977,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 978,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 979,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 980,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 1,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 981,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 982,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 983,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 984,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 985,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 986,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 987,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 988,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 989,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 1,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 990,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 991,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 992,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 1,
+    },
+    {
+      id: 993,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 1,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 994,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 1,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 995,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 1,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 996,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 997,
+      mig_ext_finance1: 0,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 1,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 998,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 1,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 0,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+    {
+      id: 999,
+      mig_ext_finance1: 1,
+      mig_ext_finance2: 0,
+      mig_ext_finance3: 0,
+      mig_ext_finance4: 0,
+      mig_ext_finance5: 0,
+      mig_ext_finance6: 0,
+      mig_ext_finance7: 0,
+      mig_ext_finance8: 0,
+      mig_ext_finance9: 1,
+      mig_ext_finance10: 0,
+      mig_ext_finance11: 0,
+      mig_ext_finance99: 0,
+    },
+  ];
+
   /*
   const results = concerns.map(concerns => {
   const matchingMotivation = motivations.find(motivation => motivation.id === concerns.id);
@@ -41632,18 +56634,20 @@
   };
 });
 */
-const results = concerns.map(concerns => {
-  const matchingMotivation = motivations.find(motivation => motivation.id === concerns.id);
-  const matchingViolence = violence.find(v => v.id === concerns.id);
-  return {
-    id: concerns.id,
-    preocupaciones_first: concerns.preocupaciones_first,
-    preocupaciones_second: concerns.preocupaciones_second,
-    preocupaciones_third: concerns.preocupaciones_third,
-    ...matchingMotivation,
-    ...matchingViolence
-  };
-});
+  const results = concerns.map((concerns) => {
+    const matchingMotivation = motivations.find(
+      (motivation) => motivation.id === concerns.id
+    );
+    const matchingViolence = violence.find((v) => v.id === concerns.id);
+    return {
+      id: concerns.id,
+      preocupaciones_first: concerns.preocupaciones_first,
+      preocupaciones_second: concerns.preocupaciones_second,
+      preocupaciones_third: concerns.preocupaciones_third,
+      ...matchingMotivation,
+      ...matchingViolence,
+    };
+  });
 
   //Anaylisys of categories
   results.forEach(function (value) {
@@ -41710,214 +56714,170 @@ const results = concerns.map(concerns => {
       value.preocupaciones_third = 4;
     }
 
-
-
     // MOTIVATIONS
     val = value.mig_ext_motivo1;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo1 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo1 = 3;
     }
 
     val = value.mig_ext_motivo2;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo2 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo2 = 3;
-    } 
+    }
 
     val = value.mig_ext_motivo3;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo3 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo3 = 3;
     }
 
     val = value.mig_ext_motivo4;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo4 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo4 = 3;
     }
 
     val = value.mig_ext_motivo5;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo5 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo5 = 3;
     }
 
     val = value.mig_ext_motivo6;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo6 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo6 = 3;
     }
 
     val = value.mig_ext_motivo7;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo7 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo7 = 3;
     }
 
     val = value.mig_ext_motivo8;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo8 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo8 = 3;
     }
 
     val = value.mig_ext_motivo9;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo9 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo9 = 3;
     }
 
     val = value.mig_ext_motivo10;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo10 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo10 = 3;
     }
 
     val = value.mig_ext_motivo11;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo11 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo11 = 3;
     }
 
     val = value.mig_ext_motivo12;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo12 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo12 = 3;
     }
 
     val = value.mig_ext_motivo14;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_motivo14 = 2;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_motivo14 = 3;
     }
 
-
-
-
-
-
     val = value.mig_ext_violence_2;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_violence_2 = 1;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_violence_2 = 2;
-    }
-    else{
+    } else {
       value.mig_ext_violence_2 = 3;
     }
 
     val = value.mig_ext_violence_3;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_violence_3 = 1;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_violence_3 = 2;
-    }
-    else{
+    } else {
       value.mig_ext_violence_3 = 3;
     }
 
-
     val = value.mig_ext_violence_4;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_violence_4 = 1;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_violence_4 = 2;
-    }
-    else{
+    } else {
       value.mig_ext_violence_4 = 3;
     }
 
-
     val = value.mig_ext_violence_5;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_violence_5 = 1;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_violence_5 = 2;
-    }
-    else{
+    } else {
       value.mig_ext_violence_5 = 3;
     }
 
-
     val = value.mig_ext_violence_6;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_violence_6 = 1;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_violence_6 = 2;
-    }
-    else{
+    } else {
       value.mig_ext_violence_6 = 3;
     }
 
-
     val = value.mig_ext_violence_7;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_violence_7 = 1;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_violence_7 = 2;
-    }
-    else{
+    } else {
       value.mig_ext_violence_7 = 3;
     }
 
-
     val = value.mig_ext_violence_8;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_violence_8 = 1;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_violence_8 = 2;
-    }
-    else{
+    } else {
       value.mig_ext_violence_8 = 3;
     }
 
-
     val = value.mig_ext_violence_9;
-    if (val === 1 ) {
+    if (val === 1) {
       value.mig_ext_violence_9 = 1;
-    } 
-    else if (val === 0){
+    } else if (val === 0) {
       value.mig_ext_violence_9 = 2;
-    }
-    else{
+    } else {
       value.mig_ext_violence_9 = 3;
     }
-
   });
-
 
   // const results = readString(str);
   // console.log(results);
@@ -41943,20 +56903,18 @@ const results = concerns.map(concerns => {
   // 	}
   // )
 
-  var numbers = new Array(); 
+  var numbers = new Array();
 
   results.forEach(function (value) {
     value.height = 0;
     value.speed = 0;
     value.backwards = 0;
     value.start = Math.random() * 3 + 1;
-  numbers.push(false); 
-
+    numbers.push(false);
   });
 
   let fallSpeed = 20;
   let extra_margin = 50;
-
 
   let data = [
     { foo: 4, bar: 0, swag: 7 },
@@ -42006,8 +56964,8 @@ const results = concerns.map(concerns => {
   );
 
   const tweenedOpacity = tweened(
-      results.map((d) => d.backwards),
-      tweenOptions2
+    results.map((d) => d.backwards),
+    tweenOptions2
   );
 
   newMax = extent(results.map((d) => d.id))[1];
@@ -42019,7 +56977,7 @@ const results = concerns.map(concerns => {
   }));
 
   function setTween(dimension, key, jitter = 0, section) {
-      dimension.set(
+    dimension.set(
       results.map((d) => +d[key] + (Math.random() - 0.5) * jitter * 2)
     );
   }
@@ -42081,10 +57039,6 @@ const results = concerns.map(concerns => {
       setScale("preocupaciones_third", "height");
     }
 
-
-
-
-
     if (step == motivation_placeholder) {
       unhideDots();
       setTween(tweenedY, "height");
@@ -42103,21 +57057,18 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo1", 0.25);
       setScale("mig_ext_motivo1", "height");
-      
     }
     if (step == motivation_step + 1) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo2", 0.25);
       setScale("mig_ext_motivo2", "height");
-      
     }
     if (step == motivation_step + 2) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo3", 0.25);
       setScale("mig_ext_motivo3", "height");
-      
     }
 
     if (step == motivation_step + 3) {
@@ -42125,7 +57076,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo4", 0.25);
       setScale("mig_ext_motivo4", "height");
-      
     }
 
     if (step == motivation_step + 4) {
@@ -42133,7 +57083,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo5", 0.25);
       setScale("mig_ext_motivo5", "height");
-      
     }
 
     if (step == motivation_step + 5) {
@@ -42141,7 +57090,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo6", 0.25);
       setScale("mig_ext_motivo6", "height");
-      
     }
 
     if (step == motivation_step + 6) {
@@ -42149,7 +57097,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo7", 0.25);
       setScale("mig_ext_motiv73", "height");
-      
     }
 
     if (step == motivation_step + 7) {
@@ -42157,7 +57104,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo8", 0.25);
       setScale("mig_ext_motivo8", "height");
-      
     }
 
     if (step == motivation_step + 8) {
@@ -42165,7 +57111,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo9", 0.25);
       setScale("mig_ext_motivo9", "height");
-      
     }
 
     if (step == motivation_step + 9) {
@@ -42173,7 +57118,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo10", 0.25);
       setScale("mig_ext_motivo10", "height");
-      
     }
 
     if (step == motivation_step + 10) {
@@ -42181,28 +57125,21 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo11", 0.25);
       setScale("mig_ext_motivo11", "height");
-      
     }
 
-    if (step == motivation_step + 11 ) {
+    if (step == motivation_step + 11) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo12", 0.25);
       setScale("mig_ext_motivo12", "height");
-      
     }
 
-    if (step == motivation_step + 12 ) {
+    if (step == motivation_step + 12) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo14", 0.25);
       setScale("mig_ext_motivo14", "height");
-      
     }
-
-
-
-
 
     if (step == violence_placeholder) {
       unhideDots();
@@ -42217,7 +57154,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_2", 0.25);
       setScale("mig_ext_violence_2", "height");
-      
     }
 
     if (step == violence_step + 1) {
@@ -42225,7 +57161,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_3", 0.25);
       setScale("mig_ext_violence_3", "height");
-      
     }
 
     if (step == violence_step + 2) {
@@ -42233,7 +57168,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_4", 0.25);
       setScale("mig_ext_violence_4", "height");
-      
     }
 
     if (step == violence_step + 3) {
@@ -42241,7 +57175,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_5", 0.25);
       setScale("mig_ext_violence_5", "height");
-      
     }
 
     if (step == violence_step + 4) {
@@ -42249,7 +57182,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_6", 0.25);
       setScale("mig_ext_violence_6", "height");
-      
     }
 
     if (step == violence_step + 5) {
@@ -42257,7 +57189,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_7", 0.25);
       setScale("mig_ext_violence_7", "height");
-      
     }
 
     if (step == violence_step + 6) {
@@ -42265,7 +57196,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_8", 0.25);
       setScale("mig_ext_violence_8", "height");
-      
     }
 
     if (step == violence_step + 7) {
@@ -42273,7 +57203,6 @@ const results = concerns.map(concerns => {
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_9", 0.25);
       setScale("mig_ext_violence_9", "height");
-      
     }
   }
 
@@ -42289,7 +57218,7 @@ const results = concerns.map(concerns => {
     // console.log("updating scale");
     xScale = scaleLinear()
       .domain(extent($tweenedX, (d) => d))
-      .range([margin.left + .1 * width, width - margin.right]);
+      .range([margin.left + 0.1 * width, width - margin.right]);
 
     yScale = scaleLinear()
       .domain(extent($tweenedY, (d) => d))
@@ -42325,22 +57254,20 @@ const results = concerns.map(concerns => {
     }
   }
 
-  
-
   setInterval(() => {
     results.forEach(function (value, index) {
       if (true) {
         value.height -= value.speed;
-        if (height && yScale(value.height) > (height + extra_margin)) {
-            value.backwards = 0;
-            value.height = newMax - extra_margin;
-            console.log("circle is moving backwards");
-            numbers[index] = true;
-            value.speed *= -1;
+        if (height && yScale(value.height) > height + extra_margin) {
+          value.backwards = 0;
+          value.height = newMax - extra_margin;
+          console.log("circle is moving backwards");
+          numbers[index] = true;
+          value.speed *= -1;
         }
-        if (height && yScale(value.height) < (0 - extra_margin)) {
-            value.backwards = 1;
-            value.speed *= -1;
+        if (height && yScale(value.height) < 0 - extra_margin) {
+          value.backwards = 1;
+          value.speed *= -1;
         }
       }
     });
@@ -42356,14 +57283,14 @@ const results = concerns.map(concerns => {
 >
   <svg width={width + margin.right + margin.left} {height}>
     {#if showDots}
-      {#each tweenedData as d,i}
-            <circle
-            cx={xScale(d.x)}
-            cy={yScale(d.y)}
-            r={10}
-            fill="orange"
-            opacity={d.backwards ? "0.6" : "0.0"}
-            />
+      {#each tweenedData as d, i}
+        <circle
+          cx={xScale(d.x)}
+          cy={yScale(d.y)}
+          r={10}
+          fill="orange"
+          opacity={d.backwards ? "0.6" : "0.0"}
+        />
       {/each}
     {:else}
       <div class="transparent" />
@@ -42385,4 +57312,4 @@ const results = concerns.map(concerns => {
     background: transparent;
     opacity: 0;
   }
-</style>  
+</style>
