@@ -60895,13 +60895,19 @@
 
 
     // FINANCES
-    val = value.mig_ext_finance1;
-    if (val === 1) {
+
+    // 1, 3, 4, 8 = loans
+    let val1 = value.mig_ext_finance1;
+    let val3 = value.mig_ext_finance3;
+    let val4 = value.mig_ext_finance4;
+    let val8 = value.mig_ext_finance8;
+    if (val1 === 1 || val3 === 1 || val4 === 1 || val8 === 1) {
       value.mig_ext_finance1 = 1;
-    } else if (val === 0) {
+    } else if (val1 === 0 && val3 === 0 && val4 === 0 && val8 === 0){
       value.mig_ext_finance1 = 2;
     } 
 
+    // 2 = mortaged your house
     val = value.mig_ext_finance2;
     if (val === 1) {
       value.mig_ext_finance2 = 1;
@@ -60909,60 +60915,37 @@
       value.mig_ext_finance2 = 2;
     } 
 
-    val = value.mig_ext_finance3;
-    if (val === 1) {
+    // 5, 6 = money from friends/family
+    let val5 = value.mig_ext_finance5;
+    let val6 = value.mig_ext_finance6;
+    if (val5 === 1 || val6 === 1) {
       value.mig_ext_finance3 = 1;
-    } else if (val === 0) {
+    } else if (val5 === 0 && val6 === 0) {
       value.mig_ext_finance3 = 2;
     } 
 
-    val = value.mig_ext_finance4;
+    // 7 = savings
+    val = value.mig_ext_finance7;
     if (val === 1) {
       value.mig_ext_finance4 = 1;
     } else if (val === 0) {
       value.mig_ext_finance4 = 2;
     } 
 
-    val = value.mig_ext_finance5;
+    // 9 = assistance from work in dest. country
+    val = value.mig_ext_finance9;
     if (val === 1) {
       value.mig_ext_finance5 = 1;
     } else if (val === 0) {
       value.mig_ext_finance5 = 2;
     } 
 
-    val = value.mig_ext_finance6;
+    // 10 = sold property
+    val = value.mig_ext_finance10;
     if (val === 1) {
       value.mig_ext_finance6 = 1;
     } else if (val === 0) {
       value.mig_ext_finance6 = 2;
-    } 
-
-    val = value.mig_ext_finance7;
-    if (val === 1) {
-      value.mig_ext_finance7 = 1;
-    } else if (val === 0) {
-      value.mig_ext_finance7 = 2;
-    } 
-
-    val = value.mig_ext_finance8;
-    if (val === 1) {
-      value.mig_ext_finance8 = 1;
-    } else if (val === 0) {
-      value.mig_ext_finance8 = 2;
-    } 
-
-    val = value.mig_ext_finance9;
-    if (val === 1) {
-      value.mig_ext_finance9 = 1;
-    } else if (val === 0) {
-      value.mig_ext_finance9 = 2;
-    } 
-
-    val = value.mig_ext_finance10;
-    if (val === 1) {
-      value.mig_ext_finance10 = 1;
-    } else if (val === 0) {
-      value.mig_ext_finance10 = 2;
     } 
 
     //ARRIVAL
@@ -61137,10 +61120,10 @@
   let finances_placeholder = 14;
   let finances_step = 15; 
 
-  let violence_placeholder = 25;
-  let violence_step = 26;
+  let violence_placeholder = 21;
+  let violence_step = 22;
 
-  let arrival_placeholder = 34;
+  let arrival_placeholder = 30;
 
   $: {
     if (step == 0) {
@@ -61367,35 +61350,6 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_finance6", 0.25);
       setScale("mig_ext_finance6", "height");
-    }
-
-    if (step == finances_step + 6) {
-      unhideDots();
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance7", 0.25);
-      setScale("mig_ext_finance7", "height");
-    }
-
-    if (step == finances_step + 7) {
-      unhideDots();
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance8", 0.25);
-      setScale("mig_ext_finance8", "height");
-    }
-
-    if (step == finances_step + 8) {
-      unhideDots();
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance9", 0.25);
-      setScale("mig_ext_finance9", "height");
-    }
-
-    if (step == finances_step + 9) {
-      unhideDots();
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance10", 0.25);
-      setScale("mig_ext_finance10", "height");
-      changeColor("orange")
     }
 
     if (step == arrival_placeholder) {
