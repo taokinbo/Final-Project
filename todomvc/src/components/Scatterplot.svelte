@@ -42289,7 +42289,7 @@
       // console.log("updating scale");
       xScale = scaleLinear()
         .domain(extent($tweenedX, (d) => d))
-        .range([margin.left, width - margin.right]);
+        .range([margin.left + .1 * width, width - margin.right]);
   
       yScale = scaleLinear()
         .domain(extent($tweenedY, (d) => d))
