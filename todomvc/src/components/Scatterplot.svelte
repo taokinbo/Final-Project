@@ -17,6 +17,7 @@
   import { readString } from "svelte-csv";
 
   let showDots = true;
+  let color = "orange";
   const results2 = [
     {
       id: 0,
@@ -61125,6 +61126,11 @@
     showDots = true;
   };
 
+  const changeColor = (setcolor) => {
+  color = setcolor;
+};
+
+
   let motivation_placeholder = 4;
   let motivation_step = 5;
 
@@ -61302,6 +61308,7 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_9", 0.25);
       setScale("mig_ext_violence_9", "height");
+      changeColor("orange")
     }
 
     if (step == finances_placeholder) {
@@ -61387,6 +61394,7 @@
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
       setScale("mig_ext_finance1", "height");
+      changeColor("purple")
     }
 
     if (step == arrival_placeholder + 1) {
@@ -61487,7 +61495,7 @@
           cx={xScale(d.x)}
           cy={yScale(d.y)}
           r={10}
-          fill="orange"
+          fill={color}
           opacity={d.backwards ? "0.6" : "0.0"}
         />
       {/each}
@@ -61510,5 +61518,9 @@
   .transparent {
     background: transparent;
     opacity: 0;
+  }
+
+  circle {
+    transition: fill 1s ease-in-out;
   }
 </style>
