@@ -186,6 +186,7 @@
   import Scatterplot from "./Scatterplot.svelte";
   import Graph from './Graph.svelte';
   import Tab from './Tab.svelte';
+  import ViolentGraph from './Graph_violence.svelte';
   
 
   
@@ -288,8 +289,8 @@
           <div class="step" class:active={value === i}>
             <div class="step-content">{@html text}</div>
               <div>
-                {#if value === 27 && i === 27}
-                  <Graph/>
+                {#if (value === 27 && i === 27) || (value === 18 && i === 18)}
+                  <ViolentGraph/>
                 {:else if value === 3 && i === 3}
                   <Tab/>
                 {:else}
