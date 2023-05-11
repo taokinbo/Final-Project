@@ -60712,55 +60712,67 @@
     }
 
     // MOTIVATIONS
+
+    //salary and unemployment
     val = value.mig_ext_motivo1;
-    if (val === 1) {
+    if (val === 1 || value.mig_ext_motivo2 ===1) {
       value.mig_ext_motivo1 = 2;
     } else if (val === 0) {
       value.mig_ext_motivo1 = 3;
     }
 
+    /*
     val = value.mig_ext_motivo2;
     if (val === 1) {
       value.mig_ext_motivo2 = 2;
     } else if (val === 0) {
       value.mig_ext_motivo2 = 3;
     }
+    */
 
+    // anything related to natural hazard
     val = value.mig_ext_motivo3;
-    if (val === 1) {
+    if (val === 1 || value.mig_ext_motivo4 === 1) {
       value.mig_ext_motivo3 = 2;
     } else if (val === 0) {
       value.mig_ext_motivo3 = 3;
     }
 
+    /*
     val = value.mig_ext_motivo4;
     if (val === 1) {
       value.mig_ext_motivo4 = 2;
     } else if (val === 0) {
       value.mig_ext_motivo4 = 3;
     }
+    */
 
+    // loss of land
     val = value.mig_ext_motivo5;
-    if (val === 1) {
+    if (val === 1 ) {
       value.mig_ext_motivo5 = 2;
     } else if (val === 0) {
       value.mig_ext_motivo5 = 3;
     }
 
+    // food and basic needs
     val = value.mig_ext_motivo6;
-    if (val === 1) {
+    if (val === 1 || value.mig_ext_motivo7 ===1 ) {
       value.mig_ext_motivo6 = 2;
     } else if (val === 0) {
       value.mig_ext_motivo6 = 3;
     }
 
+    /*
     val = value.mig_ext_motivo7;
     if (val === 1) {
       value.mig_ext_motivo7 = 2;
     } else if (val === 0) {
       value.mig_ext_motivo7 = 3;
     }
+    */
 
+    // remittances
     val = value.mig_ext_motivo8;
     if (val === 1) {
       value.mig_ext_motivo8 = 2;
@@ -60768,6 +60780,7 @@
       value.mig_ext_motivo8 = 3;
     }
 
+    // study
     val = value.mig_ext_motivo9;
     if (val === 1) {
       value.mig_ext_motivo9 = 2;
@@ -60775,19 +60788,22 @@
       value.mig_ext_motivo9 = 3;
     }
 
+    // domestic violence or unsafety
     val = value.mig_ext_motivo10;
-    if (val === 1) {
+    if (val === 1 || value.mig_ext_motivo11 === 1) {
       value.mig_ext_motivo10 = 2;
     } else if (val === 0) {
       value.mig_ext_motivo10 = 3;
     }
 
+    /*
     val = value.mig_ext_motivo11;
     if (val === 1) {
       value.mig_ext_motivo11 = 2;
     } else if (val === 0) {
       value.mig_ext_motivo11 = 3;
     }
+    */
 
     val = value.mig_ext_motivo12;
     if (val === 1) {
@@ -61112,13 +61128,13 @@
   let motivation_placeholder = 4;
   let motivation_step = 5;
 
-  let finances_placeholder = 18;
-  let finances_step = 19; 
+  let finances_placeholder = 14;
+  let finances_step = 15; 
 
-  let violence_placeholder = 29;
-  let violence_step = 30;
+  let violence_placeholder = 25;
+  let violence_step = 26;
 
-  let arrival_placeholder = 38;
+  let arrival_placeholder = 34;
 
   $: {
     if (step == 0) {
@@ -61170,85 +61186,59 @@
     if (step == motivation_step + 1) {
       unhideDots();
       setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_motivo2", 0.25);
-      setScale("mig_ext_motivo2", "height");
-    }
-    if (step == motivation_step + 2) {
-      unhideDots();
-      setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo3", 0.25);
       setScale("mig_ext_motivo3", "height");
     }
-
-    if (step == motivation_step + 3) {
-      unhideDots();
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_motivo4", 0.25);
-      setScale("mig_ext_motivo4", "height");
-    }
-
-    if (step == motivation_step + 4) {
+    if (step == motivation_step + 2) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo5", 0.25);
       setScale("mig_ext_motivo5", "height");
     }
 
-    if (step == motivation_step + 5) {
+    if (step == motivation_step + 3) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo6", 0.25);
       setScale("mig_ext_motivo6", "height");
     }
 
-    if (step == motivation_step + 6) {
-      unhideDots();
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_motivo7", 0.25);
-      setScale("mig_ext_motiv73", "height");
-    }
-
-    if (step == motivation_step + 7) {
+    if (step == motivation_step + 4) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo8", 0.25);
       setScale("mig_ext_motivo8", "height");
     }
 
-    if (step == motivation_step + 8) {
+    if (step == motivation_step + 5) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo9", 0.25);
       setScale("mig_ext_motivo9", "height");
     }
 
-    if (step == motivation_step + 9) {
+    if (step == motivation_step + 6) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo10", 0.25);
       setScale("mig_ext_motivo10", "height");
     }
 
-    if (step == motivation_step + 10) {
-      unhideDots();
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_motivo11", 0.25);
-      setScale("mig_ext_motivo11", "height");
-    }
-
-    if (step == motivation_step + 11) {
+    if (step == motivation_step + 7) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo12", 0.25);
       setScale("mig_ext_motivo12", "height");
     }
 
-    if (step == motivation_step + 12) {
+    if (step == motivation_step + 8) {
       unhideDots();
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo14", 0.25);
       setScale("mig_ext_motivo14", "height");
     }
+
+    
 
     if (step == violence_placeholder) {
       unhideDots();
@@ -61427,7 +61417,7 @@
     // console.log("updating scale");
     xScale = scaleLinear()
       .domain(extent($tweenedX, (d) => d))
-      .range([margin.left + 0.1 * width, width - margin.right]);
+      .range([margin.left, width - margin.right]);
 
     yScale = scaleLinear()
       .domain(extent($tweenedY, (d) => d))
