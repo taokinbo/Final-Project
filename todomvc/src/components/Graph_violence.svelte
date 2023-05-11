@@ -126,10 +126,11 @@
 	console.log("arc_data: ", arc_data);
 
 </script>
-
+<div>
+    <h2>Who is Responsible for Violence on the Journey?</h2>
 <div class="visualization">
-	<svg width="500" height="500">
-		<g transform="translate(250, 250)">
+	<svg width="210" height="210">
+		<g transform="translate(100, 100)">
 			{#each arc_data as data, index}
 			<path 
 				d={arcGenerator({
@@ -160,7 +161,7 @@
 
 
 </div>
-
+</div>
 
 
 

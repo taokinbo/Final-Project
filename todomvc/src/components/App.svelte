@@ -214,7 +214,7 @@
     "<p>Were you motivated to migrate for family reunification? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate for health reasons: treatments, surgeries or medical consultations, medicines, etc.? <br> 1: Yes <br> 2: No </p>",
     
-    "<p> Now We explore the many challenges that occur during the migration journey </p>",
+    "<p> Now we explore the many challenges that occur during the migration journey, in particular violence that migrants experience along the way </p>",
     "<p>Did you experience violence via extortion? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via theft? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via armed robbery? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
@@ -287,7 +287,7 @@
       <Scroller bind:value bind:valRatio>
         {#each steps as text, i}
           <div class="step" class:active={value === i}>
-            <div class="step-content">{@html text}</div>
+            <div class="step-content" style="{!(value == 4 || value == 18)? 'font-size: 1rem;' : 'font-size: 1.5rem;'}">{@html text}</div>
               <div>
                 {#if (value === 27 && i === 27) || (value === 18 && i === 18)}
                   <ViolentGraph/>
