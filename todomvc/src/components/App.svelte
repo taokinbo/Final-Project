@@ -300,7 +300,7 @@
       <Scroller bind:value bind:valRatio>
         {#each steps as text, i}
           <div class="step" class:active={value === i}>
-            <div class="step-content">{@html text}</div>
+            <div class="step-content" style="{!(value == 4 || value == 18)? 'font-size: 1rem;' : 'font-size: 1.5rem;'}">{@html text}</div>
               <div>
                 <!-- violence_step = when violence data starts,
                      conclusion_step = when conclusion data starts -->
