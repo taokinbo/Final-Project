@@ -240,7 +240,8 @@
     "<p>Only 16% of migrants were able to successfully reach their destination country, but not all was solved when reached.</p>",
     "<p>Many migrants are returned back to their home country or die once they reach their destination. <br> 1: Arrived to destination country <br> 2: Arrived but were returned <br>3: Died or disappeared after arrival <br>4: Still in transit <br>5: Died or disappeared in transit<br>6: Arrived in a different coutry</p>",
 
-    "<p> Thank you for joining us on this interactive journey.</p>"
+    "<p> Thank you for joining us on this interactive journey. </p>",
+    "<p> This project was created by Tolu Akinbo, Jeremiah Budiman, and Kimmy McPherson. <br><br> This data visualization was made with data contributed by the United Nations World Food Programme (WFP). </p>"
   ];
  //<Graph bind:todo_record={todo_record}/>
   
