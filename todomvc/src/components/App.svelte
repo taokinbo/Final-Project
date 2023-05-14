@@ -191,9 +191,10 @@
   let concern_step = 0;
   let motive_step = 4;
   let finance_step = 14;
-	let violence_step = 21;
-  let arrival_step = 30;
-  let conclusion_step = 33;
+  let moneyspent_step = 21;
+	let violence_step = 24;
+  let arrival_step = 33;
+  let conclusion_step = 36;
   let value;
   let valRatio;
   const steps = [
@@ -213,13 +214,17 @@
     "<p>Were you motivated to migrate for family reunification? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate for health reasons: treatments, surgeries, medical consultations, medicines, etc.? <br> 1: Yes <br> 2: No </p>",
     
-    "<p>Now we explore the sources that migrants used to finance their journey. </p>",
+    "<p>Now we explore the finances associated with migration, starting with the sources that migrants used to pay for their journey. </p>",
     "<p>Did you take out a loan? <br> 1: Yes <br> 2: No </p>",
     "<p>Did you mortage your house? <br> 1: Yes <br> 2: No </p>",
     "<p>Did you receive money from a friend or family member? <br> 1: Yes <br> 2: No </p>",
     "<p>Did you use your personal savings? <br> 1: Yes <br> 2: No </p>",
     "<p>Did you receive assistance from your work? <br> 1: Yes <br> 2: No </p>",
     "<p>Did you sell property to finance your trip? <br> 1: Yes <br> 2: No </p>",
+
+    "<p>Before you migrated, did you know how much the trip would cost? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
+    "<p>Total cost",
+    "<p>Categories - pie chart</p>",
 
     "<p>Now we explore the challenges that occur during the migration journey, specifically violence along the way. </p>",
     "<p>Did you experience violence via extortion? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
@@ -295,7 +300,7 @@
       <Scroller bind:value bind:valRatio>
         {#each steps as text, i}
           <div class="step" class:active={value === i}>
-            <div class="step-content" style="{!(value == concern_step ||value == motive_step || value == finance_step || value == violence_step || value == arrival_step)? 'font-size: 1rem;' : 'font-size: 1.5rem;'}">{@html text}</div>
+            <div class="step-content" style="{!(value == concern_step || value == motive_step || value == finance_step || value == violence_step || value == arrival_step)? 'font-size: 1rem;' : 'font-size: 1.5rem;'}">{@html text}</div>
               <div>
                 {#if (value === violence_step && i === violence_step)}
                   <ViolentGraph/>

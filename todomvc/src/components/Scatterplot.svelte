@@ -72634,6 +72634,7 @@
     const matchingViolence = violence.find((v) => v.id === concerns.id);
     const matchingFinances = how_financed.find((f) => f.id === concerns.id);
     const matchingArrival = arrival.find((a) => a.id === concerns.id);
+    const matchingSpent = money_spent.find((s) => s.id === concerns.id);
     return {
       id: concerns.id,
       preocupaciones_first: concerns.preocupaciones_first,
@@ -72643,12 +72644,13 @@
       ...matchingViolence,
       ...matchingFinances,
       ...matchingArrival,
+      ...matchingSpent,
     };
   });
 
   let totalMathDebug = 0;
 
-  //Anaylisys of categories
+  //Analysis of categories
   results.forEach(function (value) {
     //HEALTH
     let val = value.preocupaciones_first;
@@ -72948,6 +72950,32 @@
       value.mig_ext_finance6 = 2;
     }
 
+
+    // MONEY SPENT
+    /*
+      mig_ext_cost_awareness,
+      mig_ext_cost_total,
+      mig_ext_cost_transportation,
+      mig_ext_cost_subsistence,
+      mig_ext_cost_intermediaries,
+      mig_ext_cost_other,
+    */
+    val = value.mig_ext_cost_awareness;
+    if (val === 1) {
+      value.mig_ext_cost_awareness = 1; // yes, aware
+    } else if (val === 0) {
+      value.mig_ext_cost_awareness = 2; // no, unaware
+    } else {
+      value.mig_ext_cost_awareness = 3; // didn't answer
+    }
+
+    const avg_total_cost = 2387 // avg total cost in USD
+    const avg_transportation = 31.3 // avg percentage of cost goes toward transportation
+    const avg_subsistence = 14.1 // avg for subsistence
+    const avg_intermediaries = 50 // intermediaries
+    const avg_other = 4.6
+
+
     //ARRIVAL
     //RAW VALUE MEANINGS
     /*
@@ -73116,10 +73144,12 @@
   let finances_placeholder = 14;
   let finances_step = 15;
 
-  let violence_placeholder = 21;
-  let violence_step = 22;
+  let moneyspent_placeholder = 21;
 
-  let arrival_placeholder = 30;
+  let violence_placeholder = 24;
+  let violence_step = 25;
+
+  let arrival_placeholder = 33;
 
   $: {
     if (step == 0) {
@@ -73152,7 +73182,7 @@
 
     if (step == motivation_placeholder) {
       unhideDots();
-      //setScale("mig_ext_motivo1", "height");
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
@@ -73224,7 +73254,7 @@
 
     if (step == violence_placeholder) {
       unhideDots();
-      //setScale("mig_ext_violence_2", "height");
+      setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
@@ -73290,7 +73320,7 @@
     }
 
     if (step == finances_placeholder) {
-      //setScale("mig_ext_finance1", "height");
+      setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
@@ -73341,8 +73371,37 @@
       unhideDots();
     }
 
+
+    if (step == moneyspent_placeholder) { // who was aware
+      setScale("mig_ext_cost_awareness", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
+      changeColor("orange");
+      unhideDots();
+    }
+
+    if (step == moneyspent_placeholder + 1) { // total cost
+      // reminder: const avg_total_cost = 2387
+      setScale("mig_ext_cost_awareness", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
+      unhideDots();
+    }
+
+    if (step == moneyspent_placeholder + 2) { // categories - pie chart
+      //reminder: tranportation = 31.3
+      //            subsistence = 14.1
+      //         intermediaries = 50
+      //                  other = 4.6
+      setScale("mig_ext_cost_awareness", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
+      unhideDots();
+    }
+
+
     if (step == arrival_placeholder) {
-      //setScale("mig_ext_finance1", "height");
+      setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
       changeColor("purple");
