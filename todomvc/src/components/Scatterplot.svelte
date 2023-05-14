@@ -73000,16 +73000,12 @@
     } else {
       value.didArrive = 2;
     }
-    // console.log(value.didArrive);
     totalMathDebug += value.didArrive;
   });
 
   totalMathDebug /= 1000;
-  console.log("PERCENT THAT ARRIVED");
-  console.log(totalMathDebug - 1);
 
   // const results = readString(str);
-  // console.log(results);
 
   // let data_file = "https://raw.githubusercontent.com/vis-society/lab-7-taokinbo/main/todomvc/src/components/concerns.csv?token=GHSAT0AAAAAACBEB7SUJXLW47R7DMJEGZ4MZBS335A";
   // let data2;
@@ -73025,7 +73021,6 @@
   //                 value.preocupaciones_first = parseInt(value.preocupaciones_first);
   //                 value.preocupaciones_second = parseInt(value.preocupaciones_second);
   //                 value.preocupaciones_third = parseInt(value.preocupaciones_third);
-  //                 // console.log(value);
   //             });
   //         });
   // 		// data2 = await d3.csv('https://raw.githubusercontent.com/vis-society/lab-7-taokinbo/68067ef981364b4df6692df0989316ae9d873acd/todomvc/src/components/concerns.csv?token=GHSAT0AAAAAACBEB7SUQBSRZW54TF52CBTIZBSYZ5Q');
@@ -73144,12 +73139,12 @@
   let finances_placeholder = 14;
   let finances_step = 15;
 
-  let moneyspent_placeholder = 21;
+  let moneyspent_step = 21;
 
-  let violence_placeholder = 24;
-  let violence_step = 25;
+  let violence_placeholder = 23;
+  let violence_step = 24;
 
-  let arrival_placeholder = 33;
+  let arrival_placeholder = 32;
 
   $: {
     if (step == 0) {
@@ -73252,6 +73247,77 @@
       changeColor("orange");
     }
 
+
+    if (step == finances_placeholder) {
+      setScale("mig_ext_finance1", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "start", 0.25);
+      setTween(tweenedOpacity, "backwards");
+      changeColor("green");
+      unhideDots();
+    }
+
+    if (step == finances_step) {
+      setScale("mig_ext_finance1", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance1", 0.25);
+      changeColor("orange");
+      unhideDots();
+    }
+
+    if (step == finances_step + 1) {
+      setScale("mig_ext_finance1", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance2", 0.25);
+      unhideDots();
+    }
+
+    if (step == finances_step + 2) {
+      setScale("mig_ext_finance1", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance3", 0.25);
+      unhideDots();
+    }
+
+    if (step == finances_step + 3) {
+      setScale("mig_ext_finance1", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance4", 0.25);
+      unhideDots();
+    }
+
+    if (step == finances_step + 4) {
+      setScale("mig_ext_finance1", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance5", 0.25);
+      unhideDots();
+    }
+
+    if (step == finances_step + 5) {
+      setScale("mig_ext_finance1", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_finance6", 0.25);
+      unhideDots();
+    }
+
+
+    if (step == moneyspent_step) { // who was aware
+      setScale("mig_ext_cost_awareness", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
+      unhideDots();
+    }
+
+    if (step == moneyspent_step + 1) { // total cost
+      setScale("mig_ext_cost_awareness", "height");
+      setTween(tweenedY, "height");
+      setTween(tweenedX, "start", 0.25);
+      setTween(tweenedOpacity, "backwards");
+      changeColor("orange");
+      unhideDots();
+    }
+
+    
     if (step == violence_placeholder) {
       unhideDots();
       setScale("mig_ext_violence_2", "height");
@@ -73319,86 +73385,6 @@
       changeColor("orange");
     }
 
-    if (step == finances_placeholder) {
-      setScale("mig_ext_finance1", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "start", 0.25);
-      setTween(tweenedOpacity, "backwards");
-      changeColor("green");
-      unhideDots();
-    }
-
-    if (step == finances_step) {
-      setScale("mig_ext_finance1", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance1", 0.25);
-      changeColor("orange");
-      unhideDots();
-    }
-
-    if (step == finances_step + 1) {
-      setScale("mig_ext_finance1", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance2", 0.25);
-      unhideDots();
-    }
-
-    if (step == finances_step + 2) {
-      setScale("mig_ext_finance1", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance3", 0.25);
-      unhideDots();
-    }
-
-    if (step == finances_step + 3) {
-      setScale("mig_ext_finance1", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance4", 0.25);
-      unhideDots();
-    }
-
-    if (step == finances_step + 4) {
-      setScale("mig_ext_finance1", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance5", 0.25);
-      unhideDots();
-    }
-
-    if (step == finances_step + 5) {
-      setScale("mig_ext_finance1", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_finance6", 0.25);
-      unhideDots();
-    }
-
-
-    if (step == moneyspent_placeholder) { // who was aware
-      setScale("mig_ext_cost_awareness", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
-      changeColor("orange");
-      unhideDots();
-    }
-
-    if (step == moneyspent_placeholder + 1) { // total cost
-      // reminder: const avg_total_cost = 2387
-      // setScale("mig_ext_cost_awareness", "height");
-      // setTween(tweenedY, "height");
-      // setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
-      hideDots();
-    }
-
-    if (step == moneyspent_placeholder + 2) { // categories - pie chart
-      //reminder: tranportation = 31.3
-      //            subsistence = 14.1
-      //         intermediaries = 50
-      //                  other = 4.6
-      // setScale("mig_ext_cost_awareness", "height");
-      // setTween(tweenedY, "height");
-      // setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
-      hideDots();
-    }
-
 
     if (step == arrival_placeholder) {
       setScale("mig_ext_finance1", "height");
@@ -73432,7 +73418,6 @@
 
   $: if (oldStep !== step) {
     oldStep = step;
-    // console.log("updating scale");
     xScale = scaleLinear()
       .domain(extent($tweenedX, (d) => d))
       .range([margin.left, width - margin.right]);
@@ -73452,15 +73437,9 @@
       .range([height - margin.top, margin.bottom]);
 
     newMax = extent(results.map((d) => +d[key2]))[1];
-    // console.log(newMax)
   }
 
   $: {
-    // console.log("width: ");
-    // console.log(width);
-    // console.log("height: ");
-    // console.log(height);
-
     if (width && height && !fallingSet) {
       fallingSet = true;
       results.forEach(function (value) {
@@ -73478,7 +73457,6 @@
         if (height && yScale(value.height) > height + extra_margin) {
           value.backwards = 0;
           value.height = newMax - extra_margin;
-          console.log("circle is moving backwards");
           numbers[index] = true;
           value.speed *= -1;
         }

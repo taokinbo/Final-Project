@@ -187,14 +187,15 @@
   import Graph from './Graph.svelte';
   import Tab from './Tab.svelte';
   import ViolentGraph from './Graph_violence.svelte';
+  import SpendingGraph from './Graph_spending.svelte';
   
   let concern_step = 0;
   let motive_step = 4;
   let finance_step = 14;
   let moneyspent_step = 21;
-	let violence_step = 24;
-  let arrival_step = 33;
-  let conclusion_step = 36;
+	let violence_step = 23;
+  let arrival_step = 32;
+  let conclusion_step = 35;
   let value;
   let valRatio;
   const steps = [
@@ -203,8 +204,8 @@
     "<p>This is the <bold>second</bold> most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
     "<p>This is the <bold>third</bold> most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
 
-    "<p> Now we explore the many motivations behind why migrants travel.</p>",
-    "<p>Were you motivated to migrate because of unemployment or to search for a better job, salary or working conditions? <br> 1: Yes <br> 2: No </p>",
+    "<p> Now we explore the motivations behind why migrants decided to travel.</p>",
+    "<p>Were you motivated to migrate because of unemployment or to search for a better job, salary, or working conditions? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate because of natural hazards? (floods, droughts, hurricanes, etc.) <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate because of loss of land from land use change? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate because of lack of money to buy food or other basic needs? <br> 1: Yes <br> 2: No </p>",
@@ -223,8 +224,7 @@
     "<p>Did you sell property to finance your trip? <br> 1: Yes <br> 2: No </p>",
 
     "<p>Before you migrated, did you know how much the trip would cost? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
-    "<p>Total cost",
-    "<p>Categories - pie chart</p>",
+    "<p>The average total cost of migration was $2387 (USD), but for some migrants this was as much as $25,000.",
 
     "<p>Now we explore the challenges that occur during the migration journey, specifically violence along the way. </p>",
     "<p>Did you experience violence via extortion? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
@@ -240,13 +240,10 @@
     "<p>Only 16% of migrants were able to successfully reach their destination country, but not all was solved when reached.</p>",
     "<p>Many migrants are returned back to their home country or die once they reach their destination. <br> 1: Arrived to destination country <br> 2: Arrived but were returned <br>3: Died or disappeared after arrival <br>4: Still in transit <br>5: Died or disappeared in transit<br>6: Arrived in a different coutry</p>",
 
-    "<p> Thank you for joining us on this interactive journey. </p>",
-    "<p> This project was created by Tolu Akinbo, Jeremiah Budiman, and Kimmy McPherson. <br><br> This data visualization was made with data contributed by the United Nations World Food Programme (WFP). </p>"
+    "<p> Thank you for joining us on this interactive journey. <br><br> This project was created by Tolu Akinbo, Jeremiah Budiman, and Kimmy McPherson. <br><br> This data visualization was made with data contributed by the United Nations World Food Programme (WFP). </p>"
   ];
  //<Graph bind:todo_record={todo_record}/>
   
-    // console.log("Are these working");
-    // console.log(data2);
     function scrollToTarget() {
     const targetElement = document.getElementById("target");
     targetElement.scrollIntoView({ behavior: "smooth" });
@@ -305,6 +302,8 @@
               <div>
                 {#if (value === violence_step && i === violence_step)}
                   <ViolentGraph/>
+                {:else if (value === moneyspent_step+1 && i === moneyspent_step+1)}
+                  <SpendingGraph/>
                 {:else}
                   <!-- render nothing when dots are hidden -->
                 {/if}
@@ -397,7 +396,7 @@
     text-align: left;
 		width: 75%;
 		margin: auto;
-		max-width: 150px;
+		max-width: 300px;
   }
 
 	.step.active .step-content {
