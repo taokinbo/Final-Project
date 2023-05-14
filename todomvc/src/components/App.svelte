@@ -197,31 +197,31 @@
   let value;
   let valRatio;
   const steps = [
-    "<p>Many migrants hold many concerns when deciding if migrating is the right choice for them</p>",
-		 "<p>This is the <bold>primary</bold> concern held by those migrating. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
-    "<p>The second most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
-    "<p>The third concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
+    "<p>Many migrants hold many concerns when deciding if migrating is the right choice for them.</p>",
+		"<p>This is the <bold>primary</bold> concern held by those migrating. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
+    "<p>This is the <bold>second</bold> most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
+    "<p>This is the <bold>third</bold> most pressing concern. <br> 1: Health <br> 2: Safety <br> 3: Monetary/Resources <br> 4: Other/None</p>",
 
-    "<p> Now we explore the many motivations for why migrants travel </p>",
+    "<p> Now we explore the many motivations behind why migrants travel.</p>",
     "<p>Were you motivated to migrate because of unemployment or to search for a better job, salary or working conditions? <br> 1: Yes <br> 2: No </p>",
-    "<p>Were you motivated to migrate because of natural hazards? (floods, droughts, hurricanes, etc) <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because of natural hazards? (floods, droughts, hurricanes, etc.) <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate because of loss of land from land use change? <br> 1: Yes <br> 2: No </p>",
-    "<p>Were you motivated to migrate because of lack of money to buy food or other basic needs (health, education, housing, clothing, services, etc.)? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate because of lack of money to buy food or other basic needs? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate to send remittances? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate for study? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate because of unsafety or domestic violence? <br> 1: Yes <br> 2: No </p>",
     "<p>Were you motivated to migrate for family reunification? <br> 1: Yes <br> 2: No </p>",
-    "<p>Were you motivated to migrate for health reasons: treatments, surgeries or medical consultations, medicines, etc.? <br> 1: Yes <br> 2: No </p>",
+    "<p>Were you motivated to migrate for health reasons: treatments, surgeries, medical consultations, medicines, etc.? <br> 1: Yes <br> 2: No </p>",
     
-    "<p> Now we explore the sources that migrants used to finance their journey </p>",
-    "<p> Did you take out a loan? <br> 1: Yes <br> 2: No </p>",
-    "<p> Did you mortage your house? <br> 1: Yes <br> 2: No </p>",
-    "<p> Did you receive money from a friend or family member? <br> 1: Yes <br> 2: No </p>",
-    "<p> Did you use your personal savings? <br> 1: Yes <br> 2: No </p>",
-    "<p> Did you receive assistance from your work? <br> 1: Yes <br> 2: No </p>",
-    "<p> Did you sell property to finance your trip? <br> 1: Yes <br> 2: No </p>",
+    "<p>Now we explore the sources that migrants used to finance their journey. </p>",
+    "<p>Did you take out a loan? <br> 1: Yes <br> 2: No </p>",
+    "<p>Did you mortage your house? <br> 1: Yes <br> 2: No </p>",
+    "<p>Did you receive money from a friend or family member? <br> 1: Yes <br> 2: No </p>",
+    "<p>Did you use your personal savings? <br> 1: Yes <br> 2: No </p>",
+    "<p>Did you receive assistance from your work? <br> 1: Yes <br> 2: No </p>",
+    "<p>Did you sell property to finance your trip? <br> 1: Yes <br> 2: No </p>",
 
-    "<p> Now we explore the many challenges that occur during the migration journey, specifically violence along the way </p>",
+    "<p>Now we explore the challenges that occur during the migration journey, specifically violence along the way. </p>",
     "<p>Did you experience violence via extortion? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via theft? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via armed robbery? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
@@ -231,15 +231,15 @@
     "<p>Did you experience violence via kidnapping or attempted kidnapping? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
     "<p>Did you experience violence via attempted murder? <br> 1: Yes <br> 2: No <br> 3: Did not answer </p>",
 
-    "<p>But given all this prep and money saved alongside the many hardships faced when traveling, how many of these migrants actually made the journey?</p>",
-    "<p>Only 16% of migrants were able to succefully reach their destination country, but not all was solved when reached</p>",
-    "<p>Many migrants are returned back to their home country or die once they reach their destination. <br> 1: Arrived to destination country <br> 2: Arrived but was returned <br>3: Died after arrival <br>4: Still in transit <br>5: Passed away or disappeared in trasnsit<br>6: Arrived in a different coutry</p>",
+    "<p>Given all of this preparation and money saved, along with the many hardships faced while traveling, how many of these migrants actually completed their journey?</p>",
+    "<p>Only 16% of migrants were able to successfully reach their destination country, but not all was solved when reached.</p>",
+    "<p>Many migrants are returned back to their home country or die once they reach their destination. <br> 1: Arrived to destination country <br> 2: Arrived but were returned <br>3: Died after arrival <br>4: Still in transit <br>5: Passed away or disappeared in transit<br>6: Arrived in a different coutry</p>",
 
-    "<p> Thank you for joining us on this interactive journey </p>"
+    "<p> Thank you for joining us on this interactive journey.</p>"
   ];
  //<Graph bind:todo_record={todo_record}/>
   
-    // console.log("Are these woring");
+    // console.log("Are these working");
     // console.log(data2);
     function scrollToTarget() {
     const targetElement = document.getElementById("target");
@@ -297,8 +297,6 @@
           <div class="step" class:active={value === i}>
             <div class="step-content" style="{!(value == concern_step ||value == motive_step || value == finance_step || value == violence_step || value == arrival_step)? 'font-size: 1rem;' : 'font-size: 1.5rem;'}">{@html text}</div>
               <div>
-                <!-- violence_step = when violence data starts,
-                     conclusion_step = when conclusion data starts -->
                 {#if (value === violence_step && i === violence_step)}
                   <ViolentGraph/>
                 {:else}

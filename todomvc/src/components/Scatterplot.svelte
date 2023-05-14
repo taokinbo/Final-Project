@@ -60625,6 +60625,10 @@
     }
   ];
 
+  const concerns_scale = 4;
+  const motivations_scale = 3;
+  const finances_scale = 3;
+  const violence_scale = 3;
   
   const results = concerns.map((concerns) => {
     const matchingMotivation = motivations.find(
@@ -60908,7 +60912,7 @@
     } 
 
     // 2 = mortaged your house
-    val = value.mig_ext_finance2;
+    val = value.mig_ext_finance2; 
     if (val === 1) {
       value.mig_ext_finance2 = 1;
     } else if (val === 0) {
@@ -60947,6 +60951,7 @@
     } else if (val === 0) {
       value.mig_ext_finance6 = 2;
     } 
+    
 
     //ARRIVAL
     //RAW VALUE MEANINGS
@@ -61128,250 +61133,245 @@
   $: {
     if (step == 0) {
       unhideDots();
+      setScale("preocupaciones_first", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
-      setScale("preocupaciones_first", "height");
     }
     if (step == 1) {
       unhideDots();
+      setScale("preocupaciones_first", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "preocupaciones_first", 0.25);
       setTween(tweenedOpacity, "backwards");
-      setScale("preocupaciones_first", "height");
     }
     if (step == 2) {
       unhideDots();
+      setScale("preocupaciones_second", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "preocupaciones_second", 0.25);
-      setScale("preocupaciones_second", "height");
     }
     if (step == 3) {
       unhideDots();
+      setScale("preocupaciones_third", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "preocupaciones_third", 0.25);
-      setScale("preocupaciones_third", "height");
-      changeColor("orange")
+      changeColor("orange");
     }
 
     if (step == motivation_placeholder) {
       unhideDots();
+      //setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
-      setScale("mig_ext_motivo1", "height");
-      changeColor("blue")
+      changeColor("blue");
     }
 
     if (step == motivation_step) {
-      //hideDots();
-      //   console.log("width")
-      //   console.log(width)
-      //   console.log("height")
-      //   console.log(height)
       unhideDots();
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo1", 0.25);
-      setScale("mig_ext_motivo1", "height");
-      changeColor("orange")
+      changeColor("orange");
     }
     if (step == motivation_step + 1) {
       unhideDots();
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo3", 0.25);
-      setScale("mig_ext_motivo3", "height");
     }
     if (step == motivation_step + 2) {
       unhideDots();
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo5", 0.25);
-      setScale("mig_ext_motivo5", "height");
     }
 
     if (step == motivation_step + 3) {
       unhideDots();
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo6", 0.25);
-      setScale("mig_ext_motivo6", "height");
     }
 
     if (step == motivation_step + 4) {
       unhideDots();
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo8", 0.25);
-      setScale("mig_ext_motivo8", "height");
     }
 
     if (step == motivation_step + 5) {
       unhideDots();
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo9", 0.25);
-      setScale("mig_ext_motivo9", "height");
     }
 
     if (step == motivation_step + 6) {
       unhideDots();
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo10", 0.25);
-      setScale("mig_ext_motivo10", "height");
     }
 
     if (step == motivation_step + 7) {
       unhideDots();
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo12", 0.25);
-      setScale("mig_ext_motivo12", "height");
     }
 
     if (step == motivation_step + 8) {
       unhideDots();
+      setScale("mig_ext_motivo1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_motivo14", 0.25);
-      setScale("mig_ext_motivo14", "height");
-      changeColor("orange")
+      changeColor("orange");
     }
 
-    
 
     if (step == violence_placeholder) {
       unhideDots();
+      //setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
-      setScale("mig_ext_violence_2", "height");
-      changeColor("red")
+      changeColor("red");
     }
 
     if (step == violence_step) {
       unhideDots();
+      setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_2", 0.25);
-      setScale("mig_ext_violence_2", "height");
-      changeColor("orange")
+      changeColor("orange");
     }
 
     if (step == violence_step + 1) {
       unhideDots();
+      setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_3", 0.25);
-      setScale("mig_ext_violence_3", "height");
     }
 
     if (step == violence_step + 2) {
       unhideDots();
+      setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_4", 0.25);
-      setScale("mig_ext_violence_4", "height");
     }
 
     if (step == violence_step + 3) {
       unhideDots();
+      setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_5", 0.25);
-      setScale("mig_ext_violence_5", "height");
     }
 
     if (step == violence_step + 4) {
       unhideDots();
+      setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_6", 0.25);
-      setScale("mig_ext_violence_6", "height");
     }
 
     if (step == violence_step + 5) {
       unhideDots();
+      setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_7", 0.25);
-      setScale("mig_ext_violence_7", "height");
     }
 
     if (step == violence_step + 6) {
       unhideDots();
+      setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_8", 0.25);
-      setScale("mig_ext_violence_8", "height");
     }
 
     if (step == violence_step + 7) {
       unhideDots();
+      setScale("mig_ext_violence_2", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_violence_9", 0.25);
-      setScale("mig_ext_violence_9", "height");
-      changeColor("orange")
+      changeColor("orange");
     }
 
+
     if (step == finances_placeholder) {
-      unhideDots();
+      //setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
       setTween(tweenedOpacity, "backwards");
-      setScale("mig_ext_finance1", "height");
-      changeColor("green")
+      changeColor("green");
+      unhideDots();
     }
 
     if (step == finances_step) {
-      unhideDots();
+      setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_finance1", 0.25);
-      setScale("mig_ext_finance1", "height");
-      changeColor("orange")
+      changeColor("orange");
+      unhideDots();
     }
 
     if (step == finances_step + 1) {
-      unhideDots();
+      setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_finance2", 0.25);
-      setScale("mig_ext_finance2", "height");
+      unhideDots();
     }
 
     if (step == finances_step + 2) {
-      unhideDots();
+      setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_finance3", 0.25);
-      setScale("mig_ext_finance3", "height");
+      unhideDots();
     }
 
     if (step == finances_step + 3) {
-      unhideDots();
+      setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_finance4", 0.25);
-      setScale("mig_ext_finance4", "height");
+      unhideDots();
     }
 
     if (step == finances_step + 4) {
-      unhideDots();
+      setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_finance5", 0.25);
-      setScale("mig_ext_finance5", "height");
+      unhideDots();
     }
 
     if (step == finances_step + 5) {
-      unhideDots();
+      setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_finance6", 0.25);
-      setScale("mig_ext_finance6", "height");
+      unhideDots();
     }
 
     if (step == arrival_placeholder) {
-      unhideDots();
+      //setScale("mig_ext_finance1", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "start", 0.25);
-      setScale("mig_ext_finance1", "height");
-      changeColor("purple")
+      changeColor("purple");
+      unhideDots();
     }
 
     if (step == arrival_placeholder + 1) {
-      unhideDots();
+      setScale("didArrive", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "didArrive", 0.25);
-      setScale("didArrive", "height");
+      unhideDots();
     }
 
     if (step == arrival_placeholder + 2) {
-      unhideDots();
+      setScale("mig_ext_llego", "height");
       setTween(tweenedY, "height");
       setTween(tweenedX, "mig_ext_llego", 0.25);
-      setScale("mig_ext_llego", "height");
+      unhideDots();
     }
 
   }
