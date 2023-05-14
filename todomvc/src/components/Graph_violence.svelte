@@ -154,7 +154,7 @@
 		style="left: {recorded_mouse_position.x + 40}px; top: {recorded_mouse_position.y + 40}px"	
 	>
 		{#if hovered !== -1}
-		    { arc_data[hovered].value }% say they experienced violence from  
+		    { arc_data[hovered].value }% experienced violence from  
 			{arc_data[hovered].data.response}
 		{/if}
 	</div>
