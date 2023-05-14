@@ -73382,10 +73382,10 @@
 
     if (step == moneyspent_placeholder + 1) { // total cost
       // reminder: const avg_total_cost = 2387
-      setScale("mig_ext_cost_awareness", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
-      unhideDots();
+      // setScale("mig_ext_cost_awareness", "height");
+      // setTween(tweenedY, "height");
+      // setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
+      hideDots();
     }
 
     if (step == moneyspent_placeholder + 2) { // categories - pie chart
@@ -73393,10 +73393,10 @@
       //            subsistence = 14.1
       //         intermediaries = 50
       //                  other = 4.6
-      setScale("mig_ext_cost_awareness", "height");
-      setTween(tweenedY, "height");
-      setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
-      unhideDots();
+      // setScale("mig_ext_cost_awareness", "height");
+      // setTween(tweenedY, "height");
+      // setTween(tweenedX, "mig_ext_cost_awareness", 0.25);
+      hideDots();
     }
 
 
