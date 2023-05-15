@@ -72720,9 +72720,9 @@
     //salary and unemployment
     val = value.mig_ext_motivo1;
     if (val === 1 || value.mig_ext_motivo2 === 1) {
-      value.mig_ext_motivo1 = 2;
+      value.mig_ext_motivo1 = 1;
     } else if (val === 0) {
-      value.mig_ext_motivo1 = 3;
+      value.mig_ext_motivo1 = 2;
     }
 
     /*
@@ -72737,9 +72737,9 @@
     // anything related to natural hazard
     val = value.mig_ext_motivo3;
     if (val === 1 || value.mig_ext_motivo4 === 1) {
-      value.mig_ext_motivo3 = 2;
+      value.mig_ext_motivo3 = 1;
     } else if (val === 0) {
-      value.mig_ext_motivo3 = 3;
+      value.mig_ext_motivo3 = 2;
     }
 
     /*
@@ -72754,17 +72754,17 @@
     // loss of land
     val = value.mig_ext_motivo5;
     if (val === 1) {
-      value.mig_ext_motivo5 = 2;
+      value.mig_ext_motivo5 = 1;
     } else if (val === 0) {
-      value.mig_ext_motivo5 = 3;
+      value.mig_ext_motivo5 = 2;
     }
 
     // food and basic needs
     val = value.mig_ext_motivo6;
     if (val === 1 || value.mig_ext_motivo7 === 1) {
-      value.mig_ext_motivo6 = 2;
+      value.mig_ext_motivo6 = 1;
     } else if (val === 0) {
-      value.mig_ext_motivo6 = 3;
+      value.mig_ext_motivo6 = 2;
     }
 
     /*
@@ -72779,25 +72779,25 @@
     // remittances
     val = value.mig_ext_motivo8;
     if (val === 1) {
-      value.mig_ext_motivo8 = 2;
+      value.mig_ext_motivo8 = 1;
     } else if (val === 0) {
-      value.mig_ext_motivo8 = 3;
+      value.mig_ext_motivo8 = 2;
     }
 
     // study
     val = value.mig_ext_motivo9;
     if (val === 1) {
-      value.mig_ext_motivo9 = 2;
+      value.mig_ext_motivo9 = 1;
     } else if (val === 0) {
-      value.mig_ext_motivo9 = 3;
+      value.mig_ext_motivo9 = 2;
     }
 
     // domestic violence or unsafety
     val = value.mig_ext_motivo10;
     if (val === 1 || value.mig_ext_motivo11 === 1) {
-      value.mig_ext_motivo10 = 2;
+      value.mig_ext_motivo10 = 1;
     } else if (val === 0) {
-      value.mig_ext_motivo10 = 3;
+      value.mig_ext_motivo10 = 2;
     }
 
     /*
@@ -72811,16 +72811,16 @@
 
     val = value.mig_ext_motivo12;
     if (val === 1) {
-      value.mig_ext_motivo12 = 2;
+      value.mig_ext_motivo12 = 1;
     } else if (val === 0) {
-      value.mig_ext_motivo12 = 3;
+      value.mig_ext_motivo12 = 2;
     }
 
     val = value.mig_ext_motivo14;
     if (val === 1) {
-      value.mig_ext_motivo14 = 2;
+      value.mig_ext_motivo14 = 1;
     } else if (val === 0) {
-      value.mig_ext_motivo14 = 3;
+      value.mig_ext_motivo14 = 2;
     }
 
     // VIOLENCE
