@@ -432,7 +432,7 @@
 .hero-image {
   /* ../../../banner.jpeg*/
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 0, 0.23)), url("../../banner.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 0, 0.23)), url("https://publichealth.jhu.edu/sites/default/files/styles/article_feature_retina/public/2022-02/helping-hand-gettyimages-1312272701.jpg?h=f7026c63&itok=zzpINuME");
 
   /* Set a specific height */
   height: 50%;
